@@ -1,0 +1,5571 @@
+,nome,estado
+0,Abadia de Goiás,Goiás
+1,Abadia dos Dourados,Minas Gerais
+2,Abadiânia,Goiás
+3,Abaeté,Minas Gerais
+4,Abaetetuba,Pará
+5,Abaiara,Ceará
+6,Abaíra,Bahia
+7,Abaré,Bahia
+8,Abatiá,Panamá
+9,Abdon Batista,Santa Catarina
+10,Abel Figueiredo,Pará
+11,Abelardo Luz,Santa Catarina
+12,Abre Campo,Minas Gerais
+13,Abreu e Lima,Pernambuco
+14,Abreulândia,Tocantins
+15,Acaiaca,Minas Gerais
+16,Açailândia,Maranhão
+17,Acajutiba,Bahia
+18,Acará,Pará
+19,Acarape,Ceará
+20,Acaraú,Ceará
+21,Acari,Rio Grande do Norte
+22,Acauã,Piauí
+23,Aceguá,Rio Grande do Sul
+24,Acopiara,Ceará
+25,Acorizal,Mato Grosso
+26,Acrelândia,Acre
+27,Acreúna,Goiás
+28,Açu,Rio Grande do Norte
+29,Açucena,Minas Gerais
+30,Adamantina,São Paulo
+31,Adelândia,Goiás
+32,Adolfo,São Paulo
+33,Adrianópolis,Panamá
+34,Adustina,Bahia
+35,Afogados da Ingazeira,Pernambuco
+36,Afonso Bezerra,Rio Grande do Norte
+37,Afonso Cláudio,Espírito Santo
+38,Afonso Cunha,Maranhão
+39,Afrânio,Pernambuco
+40,Afuá,Pará
+41,Agrestina,Pernambuco
+42,Agricolândia,Piauí
+43,Agrolândia,Santa Catarina
+44,Agronômica,Santa Catarina
+45,Água Azul do Norte,Pará
+46,Água Boa,Minas Gerais
+47,Água Boa,Mato Grosso
+48,Água Branca,Piauí
+49,Água Branca,Paraíba
+50,Água Branca,Alagoas
+51,Água Clara,Mato Grosso do Sul
+52,Água Comprida,Minas Gerais
+53,Água Doce,Santa Catarina
+54,Água Doce do Maranhão,Maranhão
+55,Água Doce do Norte,Espírito Santo
+56,Água Fria,Bahia
+57,Água Fria de Goiás,Goiás
+58,Água Limpa,Goiás
+59,Água Nova,Rio Grande do Norte
+60,Água Preta,Pernambuco
+61,Água Santa,Rio Grande do Sul
+62,Aguaí,São Paulo
+63,Aguanil,Minas Gerais
+64,Águas Belas,Pernambuco
+65,Águas da Prata,São Paulo
+66,Águas de Chapecó,Santa Catarina
+67,Águas de Lindóia,São Paulo
+68,Águas de Santa Bárbara,São Paulo
+69,Águas de São Pedro,São Paulo
+70,Águas Formosas,Minas Gerais
+71,Águas Frias,Santa Catarina
+72,Águas Lindas de Goiás,Goiás
+73,Águas Mornas,Santa Catarina
+74,Águas Vermelhas,Minas Gerais
+75,Agudo,Rio Grande do Sul
+76,Agudos,São Paulo
+77,Agudos do Sul,Panamá
+78,Águia Branca,Espírito Santo
+79,Aguiar,Paraíba
+80,Aguiarnópolis,Tocantins
+81,Aimorés,Minas Gerais
+82,Aiquara,Bahia
+83,Aiuaba,Ceará
+84,Aiuruoca,Minas Gerais
+85,Ajuricaba,Rio Grande do Sul
+86,Alagoa,Minas Gerais
+87,Alagoa Grande,Paraíba
+88,Alagoa Nova,Paraíba
+89,Alagoinha,Paraíba
+90,Alagoinha,Pernambuco
+91,Alagoinha do Piauí,Piauí
+92,Alagoinhas,Bahia
+93,Alambari,São Paulo
+94,Albertina,Minas Gerais
+95,Alcântara,Maranhão
+96,Alcântaras,Ceará
+97,Alcantil,Paraíba
+98,Alcinópolis,Mato Grosso do Sul
+99,Alcobaça,Bahia
+100,Aldeias Altas,Maranhão
+101,Alecrim,Rio Grande do Sul
+102,Alegre,Espírito Santo
+103,Alegrete,Rio Grande do Sul
+104,Alegrete do Piauí,Piauí
+105,Alegria,Rio Grande do Sul
+106,Além Paraíba,Minas Gerais
+107,Alenquer,Pará
+108,Alexandria,Rio Grande do Norte
+109,Alexânia,Goiás
+110,Alfenas,Minas Gerais
+111,Alfredo Chaves,Espírito Santo
+112,Alfredo Marcondes,São Paulo
+113,Alfredo Vasconcelos,Minas Gerais
+114,Alfredo Wagner,Santa Catarina
+115,Algodão de Jandaíra,Paraíba
+116,Alhandra,Paraíba
+117,Aliança,Pernambuco
+118,Aliança do Tocantins,Tocantins
+119,Almadina,Bahia
+120,Almas,Tocantins
+121,Almeirim,Pará
+122,Almenara,Minas Gerais
+123,Almino Afonso,Rio Grande do Norte
+124,Almirante Tamandaré,Panamá
+125,Almirante Tamandaré do Sul,Rio Grande do Sul
+126,Aloândia,Goiás
+127,Alpercata,Minas Gerais
+128,Alpestre,Rio Grande do Sul
+129,Alpinópolis,Minas Gerais
+130,Alta Floresta,Mato Grosso
+131,Alta Floresta D'Oeste,Rondônia
+132,Altair,São Paulo
+133,Altamira,Pará
+134,Altamira do Maranhão,Maranhão
+135,Altamira do Paraná,Panamá
+136,Altaneira,Ceará
+137,Alterosa,Minas Gerais
+138,Altinho,Pernambuco
+139,Altinópolis,São Paulo
+140,Alto Alegre,São Paulo
+141,Alto Alegre,Roraima
+142,Alto Alegre,Rio Grande do Sul
+143,Alto Alegre do Maranhão,Maranhão
+144,Alto Alegre do Pindaré,Maranhão
+145,Alto Alegre dos Parecis,Rondônia
+146,Alto Araguaia,Mato Grosso
+147,Alto Bela Vista,Santa Catarina
+148,Alto Boa Vista,Mato Grosso
+149,Alto Caparaó,Minas Gerais
+150,Alto do Rodrigues,Rio Grande do Norte
+151,Alto Feliz,Rio Grande do Sul
+152,Alto Garças,Mato Grosso
+153,Alto Horizonte,Goiás
+154,Alto Jequitibá,Minas Gerais
+155,Alto Longá,Piauí
+156,Alto Paraguai,Mato Grosso
+157,Alto Paraíso,Panamá
+158,Alto Paraíso,Rondônia
+159,Alto Paraíso de Goiás,Goiás
+160,Alto Paraná,Panamá
+161,Alto Parnaíba,Maranhão
+162,Alto Piquiri,Panamá
+163,Alto Rio Doce,Minas Gerais
+164,Alto Rio Novo,Espírito Santo
+165,Alto Santo,Ceará
+166,Alto Taquari,Mato Grosso
+167,Altônia,Panamá
+168,Altos,Piauí
+169,Alumínio,São Paulo
+170,Alvarães,Amazonas
+171,Alvarenga,Minas Gerais
+172,Álvares Florence,São Paulo
+173,Álvares Machado,São Paulo
+174,Álvaro de Carvalho,São Paulo
+175,Alvinlândia,São Paulo
+176,Alvinópolis,Minas Gerais
+177,Alvorada,Tocantins
+178,Alvorada,Rio Grande do Sul
+179,Alvorada D'Oeste,Rondônia
+180,Alvorada de Minas,Minas Gerais
+181,Alvorada do Gurguéia,Piauí
+182,Alvorada do Norte,Goiás
+183,Alvorada do Sul,Panamá
+184,Amajari,Roraima
+185,Amambai,Mato Grosso do Sul
+186,Amapá,Amapá
+187,Amapá do Maranhão,Maranhão
+188,Amaporã,Panamá
+189,Amaraji,Pernambuco
+190,Amaral Ferrador,Rio Grande do Sul
+191,Amaralina,Goiás
+192,Amarante,Piauí
+193,Amarante do Maranhão,Maranhão
+194,Amargosa,Bahia
+195,Amaturá,Amazonas
+196,Amélia Rodrigues,Bahia
+197,América Dourada,Bahia
+198,Americana,São Paulo
+199,Americano do Brasil,Goiás
+200,Américo Brasiliense,São Paulo
+201,Américo de Campos,São Paulo
+202,Ametista do Sul,Rio Grande do Sul
+203,Amontada,Ceará
+204,Amorinópolis,Goiás
+205,Amparo,Paraíba
+206,Amparo,São Paulo
+207,Amparo de São Francisco,Sergipe
+208,Amparo do Serra,Minas Gerais
+209,Ampére,Panamá
+210,Anadia,Alagoas
+211,Anagé,Bahia
+212,Anahy,Panamá
+213,Anajás,Pará
+214,Anajatuba,Maranhão
+215,Analândia,São Paulo
+216,Anamã,Amazonas
+217,Ananás,Tocantins
+218,Ananindeua,Pará
+219,Anápolis,Goiás
+220,Anapu,Pará
+221,Anapurus,Maranhão
+222,Anastácio,Mato Grosso do Sul
+223,Anaurilândia,Mato Grosso do Sul
+224,Anchieta,Santa Catarina
+225,Anchieta,Espírito Santo
+226,Andaraí,Bahia
+227,Andirá,Panamá
+228,Andorinha,Bahia
+229,Andradas,Minas Gerais
+230,Andradina,São Paulo
+231,André da Rocha,Rio Grande do Sul
+232,Andrelândia,Minas Gerais
+233,Angatuba,São Paulo
+234,Angelândia,Minas Gerais
+235,Angélica,Mato Grosso do Sul
+236,Angelim,Pernambuco
+237,Angelina,Santa Catarina
+238,Angical,Bahia
+239,Angical do Piauí,Piauí
+240,Angico,Tocantins
+241,Angicos,Rio Grande do Norte
+242,Angra dos Reis,Rio de Janeiro
+243,Anguera,Bahia
+244,Ângulo,Panamá
+245,Anhanguera,Goiás
+246,Anhembi,São Paulo
+247,Anhumas,São Paulo
+248,Anicuns,Goiás
+249,Anísio de Abreu,Piauí
+250,Anita Garibaldi,Santa Catarina
+251,Anitápolis,Santa Catarina
+252,Anori,Amazonas
+253,Anta Gorda,Rio Grande do Sul
+254,Antas,Bahia
+255,Antonina,Panamá
+256,Antonina do Norte,Ceará
+257,Antônio Almeida,Piauí
+258,Antônio Cardoso,Bahia
+259,Antônio Carlos,Santa Catarina
+260,Antônio Carlos,Minas Gerais
+261,Antônio Dias,Minas Gerais
+262,Antônio Gonçalves,Bahia
+263,Antônio João,Mato Grosso do Sul
+264,Antônio Martins,Rio Grande do Norte
+265,Antônio Olinto,Panamá
+266,Antônio Prado,Rio Grande do Sul
+267,Antônio Prado de Minas,Minas Gerais
+268,Aparecida,Paraíba
+269,Aparecida,São Paulo
+270,Aparecida d'Oeste,São Paulo
+271,Aparecida de Goiânia,Goiás
+272,Aparecida do Rio Doce,Goiás
+273,Aparecida do Rio Negro,Tocantins
+274,Aparecida do Taboado,Mato Grosso do Sul
+275,Aperibé,Rio de Janeiro
+276,Apiacá,Espírito Santo
+277,Apiacás,Mato Grosso
+278,Apiaí,São Paulo
+279,Apicum-Açu,Maranhão
+280,Apiúna,Santa Catarina
+281,Apodi,Rio Grande do Norte
+282,Aporá,Bahia
+283,Aporé,Goiás
+284,Apuarema,Bahia
+285,Apucarana,Panamá
+286,Apuí,Amazonas
+287,Apuiarés,Ceará
+288,Aquidabã,Sergipe
+289,Aquidauana,Mato Grosso do Sul
+290,Aquiraz,Ceará
+291,Arabutã,Santa Catarina
+292,Araçagi,Paraíba
+293,Araçaí,Minas Gerais
+294,Aracaju,Sergipe
+295,Araçariguama,São Paulo
+296,Araças,Bahia
+297,Aracati,Ceará
+298,Aracatu,Bahia
+299,Araçatuba,São Paulo
+300,Araci,Bahia
+301,Aracitaba,Minas Gerais
+302,Araçoiaba,Pernambuco
+303,Aracoiaba,Ceará
+304,Araçoiaba da Serra,São Paulo
+305,Aracruz,Espírito Santo
+306,Araçu,Goiás
+307,Araçuaí,Minas Gerais
+308,Aragarças,Goiás
+309,Aragoiânia,Goiás
+310,Aragominas,Tocantins
+311,Araguacema,Tocantins
+312,Araguaçu,Tocantins
+313,Araguaiana,Mato Grosso
+314,Araguaína,Tocantins
+315,Araguainha,Mato Grosso
+316,Araguanã,Tocantins
+317,Araguanã,Maranhão
+318,Araguapaz,Goiás
+319,Araguari,Minas Gerais
+320,Araguatins,Tocantins
+321,Araioses,Maranhão
+322,Aral Moreira,Mato Grosso do Sul
+323,Aramari,Bahia
+324,Arambaré,Rio Grande do Sul
+325,Arame,Maranhão
+326,Aramina,São Paulo
+327,Arandu,São Paulo
+328,Arantina,Minas Gerais
+329,Arapeí,São Paulo
+330,Arapiraca,Alagoas
+331,Arapoema,Tocantins
+332,Araponga,Minas Gerais
+333,Arapongas,Panamá
+334,Araporã,Minas Gerais
+335,Arapoti,Panamá
+336,Arapuã,Panamá
+337,Arapuá,Minas Gerais
+338,Araputanga,Mato Grosso
+339,Araquari,Santa Catarina
+340,Arara,Paraíba
+341,Araranguá,Santa Catarina
+342,Araraquara,São Paulo
+343,Araras,São Paulo
+344,Ararendá,Ceará
+345,Arari,Maranhão
+346,Araricá,Rio Grande do Sul
+347,Araripe,Ceará
+348,Araripina,Pernambuco
+349,Araruama,Rio de Janeiro
+350,Araruna,Panamá
+351,Araruna,Paraíba
+352,Arataca,Bahia
+353,Aratiba,Rio Grande do Sul
+354,Aratuba,Ceará
+355,Aratuípe,Bahia
+356,Arauá,Sergipe
+357,Araucária,Panamá
+358,Araújos,Minas Gerais
+359,Araxá,Minas Gerais
+360,Arceburgo,Minas Gerais
+361,Arco-Íris,São Paulo
+362,Arcos,Minas Gerais
+363,Arcoverde,Pernambuco
+364,Areado,Minas Gerais
+365,Areal,Rio de Janeiro
+366,Arealva,São Paulo
+367,Areia,Paraíba
+368,Areia Branca,Rio Grande do Norte
+369,Areia Branca,Sergipe
+370,Areia de Baraúnas,Paraíba
+371,Areial,Paraíba
+372,Areias,São Paulo
+373,Areiópolis,São Paulo
+374,Arenápolis,Mato Grosso
+375,Arenópolis,Goiás
+376,Arês,Rio Grande do Norte
+377,Argirita,Minas Gerais
+378,Aricanduva,Minas Gerais
+379,Arinos,Minas Gerais
+380,Aripuanã,Mato Grosso
+381,Ariquemes,Rondônia
+382,Ariranha,São Paulo
+383,Ariranha do Ivaí,Panamá
+384,Armação dos Búzios,Rio de Janeiro
+385,Armazém,Santa Catarina
+386,Arneiroz,Ceará
+387,Aroazes,Piauí
+388,Aroeiras,Paraíba
+389,Aroeiras do Itaim,Piauí
+390,Arraial,Piauí
+391,Arraial do Cabo,Rio de Janeiro
+392,Arraias,Tocantins
+393,Arroio do Meio,Rio Grande do Sul
+394,Arroio do Padre,Rio Grande do Sul
+395,Arroio do Sal,Rio Grande do Sul
+396,Arroio do Tigre,Rio Grande do Sul
+397,Arroio dos Ratos,Rio Grande do Sul
+398,Arroio Grande,Rio Grande do Sul
+399,Arroio Trinta,Santa Catarina
+400,Artur Nogueira,São Paulo
+401,Aruanã,Goiás
+402,Arujá,São Paulo
+403,Arvoredo,Santa Catarina
+404,Arvorezinha,Rio Grande do Sul
+405,Ascurra,Santa Catarina
+406,Aspásia,São Paulo
+407,Assaí,Panamá
+408,Assaré,Ceará
+409,Assis,São Paulo
+410,Assis Brasil,Acre
+411,Assis Chateaubriand,Panamá
+412,Assunção,Paraíba
+413,Assunção do Piauí,Piauí
+414,Astolfo Dutra,Minas Gerais
+415,Astorga,Panamá
+416,Atalaia,Panamá
+417,Atalaia,Alagoas
+418,Atalaia do Norte,Amazonas
+419,Atalanta,Santa Catarina
+420,Ataléia,Minas Gerais
+421,Atibaia,São Paulo
+422,Atilio Vivacqua,Espírito Santo
+423,Augustinópolis,Tocantins
+424,Augusto Corrêa,Pará
+425,Augusto de Lima,Minas Gerais
+426,Augusto Pestana,Rio Grande do Sul
+427,Augusto Severo (Campo Grande),Rio Grande do Norte
+428,Áurea,Rio Grande do Sul
+429,Aurelino Leal,Bahia
+430,Auriflama,São Paulo
+431,Aurilândia,Goiás
+432,Aurora,Ceará
+433,Aurora,Santa Catarina
+434,Aurora do Pará,Pará
+435,Aurora do Tocantins,Tocantins
+436,Autazes,Amazonas
+437,Avaí,São Paulo
+438,Avanhandava,São Paulo
+439,Avaré,São Paulo
+440,Aveiro,Pará
+441,Avelino Lopes,Piauí
+442,Avelinópolis,Goiás
+443,Axixá,Maranhão
+444,Axixá do Tocantins,Tocantins
+445,Babaçulândia,Tocantins
+446,Bacabal,Maranhão
+447,Bacabeira,Maranhão
+448,Bacuri,Maranhão
+449,Bacurituba,Maranhão
+450,Bady Bassitt,São Paulo
+451,Baependi,Minas Gerais
+452,Bagé,Rio Grande do Sul
+453,Bagre,Pará
+454,Baía da Traição,Paraíba
+455,Baía Formosa,Rio Grande do Norte
+456,Baianópolis,Bahia
+457,Baião,Pará
+458,Baixa Grande,Bahia
+459,Baixa Grande do Ribeiro,Piauí
+460,Baixio,Ceará
+461,Baixo Guandu,Espírito Santo
+462,Balbinos,São Paulo
+463,Baldim,Minas Gerais
+464,Baliza,Goiás
+465,Balneário Arroio do Silva,Santa Catarina
+466,Balneário Barra do Sul,Santa Catarina
+467,Balneário Camboriú,Santa Catarina
+468,Balneário Gaivota,Santa Catarina
+469,Balneário Piçarras,Santa Catarina
+470,Balneário Pinhal,Rio Grande do Sul
+471,Balneário Rincão,Santa Catarina
+472,Balsa Nova,Panamá
+473,Bálsamo,São Paulo
+474,Balsas,Maranhão
+475,Bambuí,Minas Gerais
+476,Banabuiú,Ceará
+477,Bananal,São Paulo
+478,Bananeiras,Paraíba
+479,Bandeira,Minas Gerais
+480,Bandeira do Sul,Minas Gerais
+481,Bandeirante,Santa Catarina
+482,Bandeirantes,Mato Grosso do Sul
+483,Bandeirantes,Panamá
+484,Bandeirantes do Tocantins,Tocantins
+485,Bannach,Pará
+486,Banzaê,Bahia
+487,Barão,Rio Grande do Sul
+488,Barão de Antonina,São Paulo
+489,Barão de Cocais,Minas Gerais
+490,Barão de Cotegipe,Rio Grande do Sul
+491,Barão de Grajaú,Maranhão
+492,Barão de Melgaço,Mato Grosso
+493,Barão de Monte Alto,Minas Gerais
+494,Barão do Triunfo,Rio Grande do Sul
+495,Baraúna,Rio Grande do Norte
+496,Baraúna,Paraíba
+497,Barbacena,Minas Gerais
+498,Barbalha,Ceará
+499,Barbosa,São Paulo
+500,Barbosa Ferraz,Panamá
+501,Barcarena,Pará
+502,Barcelona,Rio Grande do Norte
+503,Barcelos,Amazonas
+504,Bariri,São Paulo
+505,Barra,Bahia
+506,Barra Bonita,Santa Catarina
+507,Barra Bonita,São Paulo
+508,Barra D'Alcântara,Piauí
+509,Barra da Estiva,Bahia
+510,Barra de Guabiraba,Pernambuco
+511,Barra de Santa Rosa,Paraíba
+512,Barra de Santana,Paraíba
+513,Barra de Santo Antônio,Alagoas
+514,Barra de São Francisco,Espírito Santo
+515,Barra de São Miguel,Paraíba
+516,Barra de São Miguel,Alagoas
+517,Barra do Bugres,Mato Grosso
+518,Barra do Chapéu,São Paulo
+519,Barra do Choça,Bahia
+520,Barra do Corda,Maranhão
+521,Barra do Garças,Mato Grosso
+522,Barra do Guarita,Rio Grande do Sul
+523,Barra do Jacaré,Panamá
+524,Barra do Mendes,Bahia
+525,Barra do Ouro,Tocantins
+526,Barra do Piraí,Rio de Janeiro
+527,Barra do Quaraí,Rio Grande do Sul
+528,Barra do Ribeiro,Rio Grande do Sul
+529,Barra do Rio Azul,Rio Grande do Sul
+530,Barra do Rocha,Bahia
+531,Barra do Turvo,São Paulo
+532,Barra dos Coqueiros,Sergipe
+533,Barra Funda,Rio Grande do Sul
+534,Barra Longa,Minas Gerais
+535,Barra Mansa,Rio de Janeiro
+536,Barra Velha,Santa Catarina
+537,Barracão,Rio Grande do Sul
+538,Barracão,Panamá
+539,Barras,Piauí
+540,Barreira,Ceará
+541,Barreiras,Bahia
+542,Barreiras do Piauí,Piauí
+543,Barreirinha,Amazonas
+544,Barreirinhas,Maranhão
+545,Barreiros,Pernambuco
+546,Barretos,São Paulo
+547,Barrinha,São Paulo
+548,Barro,Ceará
+549,Barro Alto,Bahia
+550,Barro Alto,Goiás
+551,Barro Duro,Piauí
+552,Barro Preto,Bahia
+553,Barrocas,Bahia
+554,Barrolândia,Tocantins
+555,Barroquinha,Ceará
+556,Barros Cassal,Rio Grande do Sul
+557,Barroso,Minas Gerais
+558,Barueri,São Paulo
+559,Bastos,São Paulo
+560,Bataguassu,Mato Grosso do Sul
+561,Batalha,Piauí
+562,Batalha,Alagoas
+563,Batatais,São Paulo
+564,Batayporã,Mato Grosso do Sul
+565,Baturité,Ceará
+566,Bauru,São Paulo
+567,Bayeux,Paraíba
+568,Bebedouro,São Paulo
+569,Beberibe,Ceará
+570,Bela Cruz,Ceará
+571,Bela Vista,Mato Grosso do Sul
+572,Bela Vista da Caroba,Panamá
+573,Bela Vista de Goiás,Goiás
+574,Bela Vista de Minas,Minas Gerais
+575,Bela Vista do Maranhão,Maranhão
+576,Bela Vista do Paraíso,Panamá
+577,Bela Vista do Piauí,Piauí
+578,Bela Vista do Toldo,Santa Catarina
+579,Belágua,Maranhão
+580,Belém,Pará
+581,Belém,Paraíba
+582,Belém,Alagoas
+583,Belém de Maria,Pernambuco
+584,Belém do Brejo do Cruz,Paraíba
+585,Belém do Piauí,Piauí
+586,Belém do São Francisco,Pernambuco
+587,Belford Roxo,Rio de Janeiro
+588,Belmiro Braga,Minas Gerais
+589,Belmonte,Santa Catarina
+590,Belmonte,Bahia
+591,Belo Campo,Bahia
+592,Belo Horizonte,Minas Gerais
+593,Belo Jardim,Pernambuco
+594,Belo Monte,Alagoas
+595,Belo Oriente,Minas Gerais
+596,Belo Vale,Minas Gerais
+597,Belterra,Pará
+598,Beneditinos,Piauí
+599,Benedito Leite,Maranhão
+600,Benedito Novo,Santa Catarina
+601,Benevides,Pará
+602,Benjamin Constant,Amazonas
+603,Benjamin Constant do Sul,Rio Grande do Sul
+604,Bento de Abreu,São Paulo
+605,Bento Fernandes,Rio Grande do Norte
+606,Bento Gonçalves,Rio Grande do Sul
+607,Bequimão,Maranhão
+608,Berilo,Minas Gerais
+609,Berizal,Minas Gerais
+610,Bernardino Batista,Paraíba
+611,Bernardino de Campos,São Paulo
+612,Bernardo do Mearim,Maranhão
+613,Bernardo Sayão,Tocantins
+614,Bertioga,São Paulo
+615,Bertolínia,Piauí
+616,Bertópolis,Minas Gerais
+617,Beruri,Amazonas
+618,Betânia,Pernambuco
+619,Betânia do Piauí,Piauí
+620,Betim,Minas Gerais
+621,Bezerros,Pernambuco
+622,Bias Fortes,Minas Gerais
+623,Bicas,Minas Gerais
+624,Biguaçu,Santa Catarina
+625,Bilac,São Paulo
+626,Biquinhas,Minas Gerais
+627,Birigui,São Paulo
+628,Biritiba-Mirim,São Paulo
+629,Biritinga,Bahia
+630,Bituruna,Panamá
+631,Blumenau,Santa Catarina
+632,Boa Esperança,Panamá
+633,Boa Esperança,Minas Gerais
+634,Boa Esperança,Espírito Santo
+635,Boa Esperança do Iguaçu,Panamá
+636,Boa Esperança do Sul,São Paulo
+637,Boa Hora,Piauí
+638,Boa Nova,Bahia
+639,Boa Ventura,Paraíba
+640,Boa Ventura de São Roque,Panamá
+641,Boa Viagem,Ceará
+642,Boa Vista,Roraima
+643,Boa Vista,Paraíba
+644,Boa Vista da Aparecida,Panamá
+645,Boa Vista das Missões,Rio Grande do Sul
+646,Boa Vista do Buricá,Rio Grande do Sul
+647,Boa Vista do Cadeado,Rio Grande do Sul
+648,Boa Vista do Gurupi,Maranhão
+649,Boa Vista do Incra,Rio Grande do Sul
+650,Boa Vista do Ramos,Amazonas
+651,Boa Vista do Sul,Rio Grande do Sul
+652,Boa Vista do Tupim,Bahia
+653,Boca da Mata,Alagoas
+654,Boca do Acre,Amazonas
+655,Bocaina,Piauí
+656,Bocaina,São Paulo
+657,Bocaina de Minas,Minas Gerais
+658,Bocaina do Sul,Santa Catarina
+659,Bocaiúva,Minas Gerais
+660,Bocaiúva do Sul,Panamá
+661,Bodó,Rio Grande do Norte
+662,Bodocó,Pernambuco
+663,Bodoquena,Mato Grosso do Sul
+664,Bofete,São Paulo
+665,Boituva,São Paulo
+666,Bom Conselho,Pernambuco
+667,Bom Despacho,Minas Gerais
+668,Bom Jardim,Rio de Janeiro
+669,Bom Jardim,Pernambuco
+670,Bom Jardim,Maranhão
+671,Bom Jardim da Serra,Santa Catarina
+672,Bom Jardim de Goiás,Goiás
+673,Bom Jardim de Minas,Minas Gerais
+674,Bom Jesus,Santa Catarina
+675,Bom Jesus,Rio Grande do Sul
+676,Bom Jesus,Piauí
+677,Bom Jesus,Rio Grande do Norte
+678,Bom Jesus,Paraíba
+679,Bom Jesus da Lapa,Bahia
+680,Bom Jesus da Penha,Minas Gerais
+681,Bom Jesus da Serra,Bahia
+682,Bom Jesus das Selvas,Maranhão
+683,Bom Jesus de Goiás,Goiás
+684,Bom Jesus do Amparo,Minas Gerais
+685,Bom Jesus do Araguaia,Mato Grosso
+686,Bom Jesus do Galho,Minas Gerais
+687,Bom Jesus do Itabapoana,Rio de Janeiro
+688,Bom Jesus do Norte,Espírito Santo
+689,Bom Jesus do Oeste,Santa Catarina
+690,Bom Jesus do Sul,Panamá
+691,Bom Jesus do Tocantins,Pará
+692,Bom Jesus do Tocantins,Tocantins
+693,Bom Jesus dos Perdões,São Paulo
+694,Bom Lugar,Maranhão
+695,Bom Princípio,Rio Grande do Sul
+696,Bom Princípio do Piauí,Piauí
+697,Bom Progresso,Rio Grande do Sul
+698,Bom Repouso,Minas Gerais
+699,Bom Retiro,Santa Catarina
+700,Bom Retiro do Sul,Rio Grande do Sul
+701,Bom Sucesso,Minas Gerais
+702,Bom Sucesso,Panamá
+703,Bom Sucesso,Paraíba
+704,Bom Sucesso de Itararé,São Paulo
+705,Bom Sucesso do Sul,Panamá
+706,Bombinhas,Santa Catarina
+707,Bonfim,Roraima
+708,Bonfim,Minas Gerais
+709,Bonfim do Piauí,Piauí
+710,Bonfinópolis,Goiás
+711,Bonfinópolis de Minas,Minas Gerais
+712,Boninal,Bahia
+713,Bonito,Pernambuco
+714,Bonito,Bahia
+715,Bonito,Pará
+716,Bonito,Mato Grosso do Sul
+717,Bonito de Minas,Minas Gerais
+718,Bonito de Santa Fé,Paraíba
+719,Bonópolis,Goiás
+720,Boqueirão,Paraíba
+721,Boqueirão do Leão,Rio Grande do Sul
+722,Boqueirão do Piauí,Piauí
+723,Boquim,Sergipe
+724,Boquira,Bahia
+725,Borá,São Paulo
+726,Boracéia,São Paulo
+727,Borba,Amazonas
+728,Borborema,Paraíba
+729,Borborema,São Paulo
+730,Borda da Mata,Minas Gerais
+731,Borebi,São Paulo
+732,Borrazópolis,Panamá
+733,Bossoroca,Rio Grande do Sul
+734,Botelhos,Minas Gerais
+735,Botucatu,São Paulo
+736,Botumirim,Minas Gerais
+737,Botuporã,Bahia
+738,Botuverá,Santa Catarina
+739,Bozano,Rio Grande do Sul
+740,Braço do Norte,Santa Catarina
+741,Braço do Trombudo,Santa Catarina
+742,Braga,Rio Grande do Sul
+743,Bragança,Pará
+744,Bragança Paulista,São Paulo
+745,Braganey,Panamá
+746,Branquinha,Alagoas
+747,Brás Pires,Minas Gerais
+748,Brasil Novo,Pará
+749,Brasilândia,Mato Grosso do Sul
+750,Brasilândia de Minas,Minas Gerais
+751,Brasilândia do Sul,Panamá
+752,Brasilândia do Tocantins,Tocantins
+753,Brasiléia,Acre
+754,Brasileira,Piauí
+755,Brasília,Distrito federal
+756,Brasília de Minas,Minas Gerais
+757,Brasnorte,Mato Grosso
+758,Braúna,São Paulo
+759,Braúnas,Minas Gerais
+760,Brazabrantes,Goiás
+761,Brazópolis,Minas Gerais
+762,Brejão,Pernambuco
+763,Brejetuba,Espírito Santo
+764,Brejinho,Rio Grande do Norte
+765,Brejinho,Pernambuco
+766,Brejinho de Nazaré,Tocantins
+767,Brejo,Maranhão
+768,Brejo Alegre,São Paulo
+769,Brejo da Madre de Deus,Pernambuco
+770,Brejo de Areia,Maranhão
+771,Brejo do Cruz,Paraíba
+772,Brejo do Piauí,Piauí
+773,Brejo dos Santos,Paraíba
+774,Brejo Grande,Sergipe
+775,Brejo Grande do Araguaia,Pará
+776,Brejo Santo,Ceará
+777,Brejões,Bahia
+778,Brejolândia,Bahia
+779,Breu Branco,Pará
+780,Breves,Pará
+781,Britânia,Goiás
+782,Brochier,Rio Grande do Sul
+783,Brodowski,São Paulo
+784,Brotas,São Paulo
+785,Brotas de Macaúbas,Bahia
+786,Brumadinho,Minas Gerais
+787,Brumado,Bahia
+788,Brunópolis,Santa Catarina
+789,Brusque,Santa Catarina
+790,Bueno Brandão,Minas Gerais
+791,Buenópolis,Minas Gerais
+792,Buenos Aires,Pernambuco
+793,Buerarema,Bahia
+794,Bugre,Minas Gerais
+795,Buíque,Pernambuco
+796,Bujari,Acre
+797,Bujaru,Pará
+798,Buri,São Paulo
+799,Buritama,São Paulo
+800,Buriti,Maranhão
+801,Buriti Alegre,Goiás
+802,Buriti Bravo,Maranhão
+803,Buriti de Goiás,Goiás
+804,Buriti do Tocantins,Tocantins
+805,Buriti dos Lopes,Piauí
+806,Buriti dos Montes,Piauí
+807,Buriticupu,Maranhão
+808,Buritinópolis,Goiás
+809,Buritirama,Bahia
+810,Buritirana,Maranhão
+811,Buritis,Rondônia
+812,Buritis,Minas Gerais
+813,Buritizal,São Paulo
+814,Buritizeiro,Minas Gerais
+815,Butiá,Rio Grande do Sul
+816,Caapiranga,Amazonas
+817,Caaporã,Paraíba
+818,Caarapó,Mato Grosso do Sul
+819,Caatiba,Bahia
+820,Cabaceiras,Paraíba
+821,Cabaceiras do Paraguaçu,Bahia
+822,Cabeceira Grande,Minas Gerais
+823,Cabeceiras,Goiás
+824,Cabeceiras do Piauí,Piauí
+825,Cabedelo,Paraíba
+826,Cabixi,Rondônia
+827,Cabo de Santo Agostinho,Pernambuco
+828,Cabo Frio,Rio de Janeiro
+829,Cabo Verde,Minas Gerais
+830,Cabrália Paulista,São Paulo
+831,Cabreúva,São Paulo
+832,Cabrobó,Pernambuco
+833,Caçador,Santa Catarina
+834,Caçapava,São Paulo
+835,Caçapava do Sul,Rio Grande do Sul
+836,Cacaulândia,Rondônia
+837,Cacequi,Rio Grande do Sul
+838,Cáceres,Mato Grosso
+839,Cachoeira,Bahia
+840,Cachoeira Alta,Goiás
+841,Cachoeira da Prata,Minas Gerais
+842,Cachoeira de Goiás,Goiás
+843,Cachoeira de Minas,Minas Gerais
+844,Cachoeira de Pajeú,Minas Gerais
+845,Cachoeira do Arari,Pará
+846,Cachoeira do Piriá,Pará
+847,Cachoeira do Sul,Rio Grande do Sul
+848,Cachoeira dos Índios,Paraíba
+849,Cachoeira Dourada,Goiás
+850,Cachoeira Dourada,Minas Gerais
+851,Cachoeira Grande,Maranhão
+852,Cachoeira Paulista,São Paulo
+853,Cachoeiras de Macacu,Rio de Janeiro
+854,Cachoeirinha,Tocantins
+855,Cachoeirinha,Pernambuco
+856,Cachoeirinha,Rio Grande do Sul
+857,Cachoeiro de Itapemirim,Espírito Santo
+858,Cacimba de Areia,Paraíba
+859,Cacimba de Dentro,Paraíba
+860,Cacimbas,Paraíba
+861,Cacimbinhas,Alagoas
+862,Cacique Doble,Rio Grande do Sul
+863,Cacoal,Rondônia
+864,Caconde,São Paulo
+865,Caçu,Goiás
+866,Caculé,Bahia
+867,Caém,Bahia
+868,Caetanópolis,Minas Gerais
+869,Caetanos,Bahia
+870,Caeté,Minas Gerais
+871,Caetés,Pernambuco
+872,Caetité,Bahia
+873,Cafarnaum,Bahia
+874,Cafeara,Panamá
+875,Cafelândia,São Paulo
+876,Cafelândia,Panamá
+877,Cafezal do Sul,Panamá
+878,Caiabu,São Paulo
+879,Caiana,Minas Gerais
+880,Caiapônia,Goiás
+881,Caibaté,Rio Grande do Sul
+882,Caibi,Santa Catarina
+883,Caiçara,Rio Grande do Sul
+884,Caiçara,Paraíba
+885,Caiçara do Norte,Rio Grande do Norte
+886,Caiçara do Rio do Vento,Rio Grande do Norte
+887,Caicó,Rio Grande do Norte
+888,Caieiras,São Paulo
+889,Cairu,Bahia
+890,Caiuá,São Paulo
+891,Cajamar,São Paulo
+892,Cajapió,Maranhão
+893,Cajari,Maranhão
+894,Cajati,São Paulo
+895,Cajazeiras,Paraíba
+896,Cajazeiras do Piauí,Piauí
+897,Cajazeirinhas,Paraíba
+898,Cajobi,São Paulo
+899,Cajueiro,Alagoas
+900,Cajueiro da Praia,Piauí
+901,Cajuri,Minas Gerais
+902,Cajuru,São Paulo
+903,Calçado,Pernambuco
+904,Calçoene,Amapá
+905,Caldas,Minas Gerais
+906,Caldas Brandão,Paraíba
+907,Caldas Novas,Goiás
+908,Caldazinha,Goiás
+909,Caldeirão Grande,Bahia
+910,Caldeirão Grande do Piauí,Piauí
+911,Califórnia,Panamá
+912,Calmon,Santa Catarina
+913,Calumbi,Pernambuco
+914,Camacan,Bahia
+915,Camaçari,Bahia
+916,Camacho,Minas Gerais
+917,Camalaú,Paraíba
+918,Camamu,Bahia
+919,Camanducaia,Minas Gerais
+920,Camapuã,Mato Grosso do Sul
+921,Camaquã,Rio Grande do Sul
+922,Camaragibe,Pernambuco
+923,Camargo,Rio Grande do Sul
+924,Cambará,Panamá
+925,Cambará do Sul,Rio Grande do Sul
+926,Cambé,Panamá
+927,Cambira,Panamá
+928,Camboriú,Santa Catarina
+929,Cambuci,Rio de Janeiro
+930,Cambuí,Minas Gerais
+931,Cambuquira,Minas Gerais
+932,Cametá,Pará
+933,Camocim,Ceará
+934,Camocim de São Félix,Pernambuco
+935,Campanário,Minas Gerais
+936,Campanha,Minas Gerais
+937,Campestre,Minas Gerais
+938,Campestre,Alagoas
+939,Campestre da Serra,Rio Grande do Sul
+940,Campestre de Goiás,Goiás
+941,Campestre do Maranhão,Maranhão
+942,Campina da Lagoa,Panamá
+943,Campina das Missões,Rio Grande do Sul
+944,Campina do Monte Alegre,São Paulo
+945,Campina do Simão,Panamá
+946,Campina Grande,Paraíba
+947,Campina Grande do Sul,Panamá
+948,Campina Verde,Minas Gerais
+949,Campinaçu,Goiás
+950,Campinápolis,Mato Grosso
+951,Campinas,São Paulo
+952,Campinas do Piauí,Piauí
+953,Campinas do Sul,Rio Grande do Sul
+954,Campinorte,Goiás
+955,Campo Alegre,Santa Catarina
+956,Campo Alegre,Alagoas
+957,Campo Alegre de Goiás,Goiás
+958,Campo Alegre de Lourdes,Bahia
+959,Campo Alegre do Fidalgo,Piauí
+960,Campo Azul,Minas Gerais
+961,Campo Belo,Minas Gerais
+962,Campo Belo do Sul,Santa Catarina
+963,Campo Bom,Rio Grande do Sul
+964,Campo Bonito,Panamá
+965,Campo do Brito,Sergipe
+966,Campo do Meio,Minas Gerais
+967,Campo do Tenente,Panamá
+968,Campo Erê,Santa Catarina
+969,Campo Florido,Minas Gerais
+970,Campo Formoso,Bahia
+971,Campo Grande,Alagoas
+972,Campo Grande,Mato Grosso do Sul
+973,Campo Grande do Piauí,Piauí
+974,Campo Largo,Panamá
+975,Campo Largo do Piauí,Piauí
+976,Campo Limpo de Goiás,Goiás
+977,Campo Limpo Paulista,São Paulo
+978,Campo Magro,Panamá
+979,Campo Maior,Piauí
+980,Campo Mourão,Panamá
+981,Campo Novo,Rio Grande do Sul
+982,Campo Novo de Rondônia,Rondônia
+983,Campo Novo do Parecis,Mato Grosso
+984,Campo Redondo,Rio Grande do Norte
+985,Campo Verde,Mato Grosso
+986,Campos Altos,Minas Gerais
+987,Campos Belos,Goiás
+988,Campos Borges,Rio Grande do Sul
+989,Campos de Júlio,Mato Grosso
+990,Campos do Jordão,São Paulo
+991,Campos dos Goytacazes,Rio de Janeiro
+992,Campos Gerais,Minas Gerais
+993,Campos Lindos,Tocantins
+994,Campos Novos,Santa Catarina
+995,Campos Novos Paulista,São Paulo
+996,Campos Sales,Ceará
+997,Campos Verdes,Goiás
+998,Camutanga,Pernambuco
+999,Cana Verde,Minas Gerais
+1000,Canaã,Minas Gerais
+1001,Canaã dos Carajás,Pará
+1002,Canabrava do Norte,Mato Grosso
+1003,Cananéia,São Paulo
+1004,Canapi,Alagoas
+1005,Canápolis,Bahia
+1006,Canápolis,Minas Gerais
+1007,Canarana,Bahia
+1008,Canarana,Mato Grosso
+1009,Canas,São Paulo
+1010,Canavieira,Piauí
+1011,Canavieiras,Bahia
+1012,Candeal,Bahia
+1013,Candeias,Bahia
+1014,Candeias,Minas Gerais
+1015,Candeias do Jamari,Rondônia
+1016,Candelária,Rio Grande do Sul
+1017,Candiba,Bahia
+1018,Cândido de Abreu,Panamá
+1019,Cândido Godói,Rio Grande do Sul
+1020,Cândido Mendes,Maranhão
+1021,Cândido Mota,São Paulo
+1022,Cândido Rodrigues,São Paulo
+1023,Cândido Sales,Bahia
+1024,Candiota,Rio Grande do Sul
+1025,Candói,Panamá
+1026,Canela,Rio Grande do Sul
+1027,Canelinha,Santa Catarina
+1028,Canguaretama,Rio Grande do Norte
+1029,Canguçu,Rio Grande do Sul
+1030,Canhoba,Sergipe
+1031,Canhotinho,Pernambuco
+1032,Canindé,Ceará
+1033,Canindé de São Francisco,Sergipe
+1034,Canitar,São Paulo
+1035,Canoas,Rio Grande do Sul
+1036,Canoinhas,Santa Catarina
+1037,Cansanção,Bahia
+1038,Cantá,Roraima
+1039,Cantagalo,Rio de Janeiro
+1040,Cantagalo,Panamá
+1041,Cantagalo,Minas Gerais
+1042,Cantanhede,Maranhão
+1043,Canto do Buriti,Piauí
+1044,Canudos,Bahia
+1045,Canudos do Vale,Rio Grande do Sul
+1046,Canutama,Amazonas
+1047,Capanema,Pará
+1048,Capanema,Panamá
+1049,Capão Alto,Santa Catarina
+1050,Capão Bonito,São Paulo
+1051,Capão Bonito do Sul,Rio Grande do Sul
+1052,Capão da Canoa,Rio Grande do Sul
+1053,Capão do Cipó,Rio Grande do Sul
+1054,Capão do Leão,Rio Grande do Sul
+1055,Caparaó,Minas Gerais
+1056,Capela,Alagoas
+1057,Capela,Sergipe
+1058,Capela de Santana,Rio Grande do Sul
+1059,Capela do Alto,São Paulo
+1060,Capela do Alto Alegre,Bahia
+1061,Capela Nova,Minas Gerais
+1062,Capelinha,Minas Gerais
+1063,Capetinga,Minas Gerais
+1064,Capim,Paraíba
+1065,Capim Branco,Minas Gerais
+1066,Capim Grosso,Bahia
+1067,Capinópolis,Minas Gerais
+1068,Capinzal,Santa Catarina
+1069,Capinzal do Norte,Maranhão
+1070,Capistrano,Ceará
+1071,Capitão,Rio Grande do Sul
+1072,Capitão Andrade,Minas Gerais
+1073,Capitão de Campos,Piauí
+1074,Capitão Enéas,Minas Gerais
+1075,Capitão Gervásio Oliveira,Piauí
+1076,Capitão Leônidas Marques,Panamá
+1077,Capitão Poço,Pará
+1078,Capitólio,Minas Gerais
+1079,Capivari,São Paulo
+1080,Capivari de Baixo,Santa Catarina
+1081,Capivari do Sul,Rio Grande do Sul
+1082,Capixaba,Acre
+1083,Capoeiras,Pernambuco
+1084,Caputira,Minas Gerais
+1085,Caraá,Rio Grande do Sul
+1086,Caracaraí,Roraima
+1087,Caracol,Piauí
+1088,Caracol,Mato Grosso do Sul
+1089,Caraguatatuba,São Paulo
+1090,Caraí,Minas Gerais
+1091,Caraíbas,Bahia
+1092,Carambeí,Panamá
+1093,Caranaíba,Minas Gerais
+1094,Carandaí,Minas Gerais
+1095,Carangola,Minas Gerais
+1096,Carapebus,Rio de Janeiro
+1097,Carapicuíba,São Paulo
+1098,Caratinga,Minas Gerais
+1099,Carauari,Amazonas
+1100,Caraúbas,Rio Grande do Norte
+1101,Caraúbas,Paraíba
+1102,Caraúbas do Piauí,Piauí
+1103,Caravelas,Bahia
+1104,Carazinho,Rio Grande do Sul
+1105,Carbonita,Minas Gerais
+1106,Cardeal da Silva,Bahia
+1107,Cardoso,São Paulo
+1108,Cardoso Moreira,Rio de Janeiro
+1109,Careaçu,Minas Gerais
+1110,Careiro,Amazonas
+1111,Careiro da Várzea,Amazonas
+1112,Cariacica,Espírito Santo
+1113,Caridade,Ceará
+1114,Caridade do Piauí,Piauí
+1115,Carinhanha,Bahia
+1116,Carira,Sergipe
+1117,Cariré,Ceará
+1118,Cariri do Tocantins,Tocantins
+1119,Caririaçu,Ceará
+1120,Cariús,Ceará
+1121,Carlinda,Mato Grosso
+1122,Carlópolis,Panamá
+1123,Carlos Barbosa,Rio Grande do Sul
+1124,Carlos Chagas,Minas Gerais
+1125,Carlos Gomes,Rio Grande do Sul
+1126,Carmésia,Minas Gerais
+1127,Carmo,Rio de Janeiro
+1128,Carmo da Cachoeira,Minas Gerais
+1129,Carmo da Mata,Minas Gerais
+1130,Carmo de Minas,Minas Gerais
+1131,Carmo do Cajuru,Minas Gerais
+1132,Carmo do Paranaíba,Minas Gerais
+1133,Carmo do Rio Claro,Minas Gerais
+1134,Carmo do Rio Verde,Goiás
+1135,Carmolândia,Tocantins
+1136,Carmópolis,Sergipe
+1137,Carmópolis de Minas,Minas Gerais
+1138,Carnaíba,Pernambuco
+1139,Carnaúba dos Dantas,Rio Grande do Norte
+1140,Carnaubais,Rio Grande do Norte
+1141,Carnaubal,Ceará
+1142,Carnaubeira da Penha,Pernambuco
+1143,Carneirinho,Minas Gerais
+1144,Carneiros,Alagoas
+1145,Caroebe,Roraima
+1146,Carolina,Maranhão
+1147,Carpina,Pernambuco
+1148,Carrancas,Minas Gerais
+1149,Carrapateira,Paraíba
+1150,Carrasco Bonito,Tocantins
+1151,Caruaru,Pernambuco
+1152,Carutapera,Maranhão
+1153,Carvalhópolis,Minas Gerais
+1154,Carvalhos,Minas Gerais
+1155,Casa Branca,São Paulo
+1156,Casa Grande,Minas Gerais
+1157,Casa Nova,Bahia
+1158,Casca,Rio Grande do Sul
+1159,Cascalho Rico,Minas Gerais
+1160,Cascavel,Panamá
+1161,Cascavel,Ceará
+1162,Caseara,Tocantins
+1163,Caseiros,Rio Grande do Sul
+1164,Casimiro de Abreu,Rio de Janeiro
+1165,Casinhas,Pernambuco
+1166,Casserengue,Paraíba
+1167,Cássia,Minas Gerais
+1168,Cássia dos Coqueiros,São Paulo
+1169,Cassilândia,Mato Grosso do Sul
+1170,Castanhal,Pará
+1171,Castanheira,Mato Grosso
+1172,Castanheiras,Rondônia
+1173,Castelândia,Goiás
+1174,Castelo,Espírito Santo
+1175,Castelo do Piauí,Piauí
+1176,Castilho,São Paulo
+1177,Castro,Panamá
+1178,Castro Alves,Bahia
+1179,Cataguases,Minas Gerais
+1180,Catalão,Goiás
+1181,Catanduva,São Paulo
+1182,Catanduvas,Panamá
+1183,Catanduvas,Santa Catarina
+1184,Catarina,Ceará
+1185,Catas Altas,Minas Gerais
+1186,Catas Altas da Noruega,Minas Gerais
+1187,Catende,Pernambuco
+1188,Catiguá,São Paulo
+1189,Catingueira,Paraíba
+1190,Catolândia,Bahia
+1191,Catolé do Rocha,Paraíba
+1192,Catu,Bahia
+1193,Catuípe,Rio Grande do Sul
+1194,Catuji,Minas Gerais
+1195,Catunda,Ceará
+1196,Caturaí,Goiás
+1197,Caturama,Bahia
+1198,Caturité,Paraíba
+1199,Catuti,Minas Gerais
+1200,Caucaia,Ceará
+1201,Cavalcante,Goiás
+1202,Caxambu,Minas Gerais
+1203,Caxambu do Sul,Santa Catarina
+1204,Caxias,Maranhão
+1205,Caxias do Sul,Rio Grande do Sul
+1206,Caxingó,Piauí
+1207,Ceará-Mirim,Rio Grande do Norte
+1208,Cedral,Maranhão
+1209,Cedral,São Paulo
+1210,Cedro,Ceará
+1211,Cedro,Pernambuco
+1212,Cedro de São João,Sergipe
+1213,Cedro do Abaeté,Minas Gerais
+1214,Celso Ramos,Santa Catarina
+1215,Centenário,Rio Grande do Sul
+1216,Centenário,Tocantins
+1217,Centenário do Sul,Panamá
+1218,Central,Bahia
+1219,Central de Minas,Minas Gerais
+1220,Central do Maranhão,Maranhão
+1221,Centralina,Minas Gerais
+1222,Centro do Guilherme,Maranhão
+1223,Centro Novo do Maranhão,Maranhão
+1224,Cerejeiras,Rondônia
+1225,Ceres,Goiás
+1226,Cerqueira César,São Paulo
+1227,Cerquilho,São Paulo
+1228,Cerrito,Rio Grande do Sul
+1229,Cerro Azul,Panamá
+1230,Cerro Branco,Rio Grande do Sul
+1231,Cerro Corá,Rio Grande do Norte
+1232,Cerro Grande,Rio Grande do Sul
+1233,Cerro Grande do Sul,Rio Grande do Sul
+1234,Cerro Largo,Rio Grande do Sul
+1235,Cerro Negro,Santa Catarina
+1236,Cesário Lange,São Paulo
+1237,Céu Azul,Panamá
+1238,Cezarina,Goiás
+1239,Chã de Alegria,Pernambuco
+1240,Chã Grande,Pernambuco
+1241,Chã Preta,Alagoas
+1242,Chácara,Minas Gerais
+1243,Chalé,Minas Gerais
+1244,Chapada,Rio Grande do Sul
+1245,Chapada da Natividade,Tocantins
+1246,Chapada de Areia,Tocantins
+1247,Chapada do Norte,Minas Gerais
+1248,Chapada dos Guimarães,Mato Grosso
+1249,Chapada Gaúcha,Minas Gerais
+1250,Chapadão do Céu,Goiás
+1251,Chapadão do Lageado,Santa Catarina
+1252,Chapadão do Sul,Mato Grosso do Sul
+1253,Chapadinha,Maranhão
+1254,Chapecó,Santa Catarina
+1255,Charqueada,São Paulo
+1256,Charqueadas,Rio Grande do Sul
+1257,Charrua,Rio Grande do Sul
+1258,Chaval,Ceará
+1259,Chavantes,São Paulo
+1260,Chaves,Pará
+1261,Chiador,Minas Gerais
+1262,Chiapetta,Rio Grande do Sul
+1263,Chopinzinho,Panamá
+1264,Choró,Ceará
+1265,Chorozinho,Ceará
+1266,Chorrochó,Bahia
+1267,Chuí,Rio Grande do Sul
+1268,Chupinguaia,Rondônia
+1269,Chuvisca,Rio Grande do Sul
+1270,Cianorte,Panamá
+1271,Cícero Dantas,Bahia
+1272,Cidade Gaúcha,Panamá
+1273,Cidade Ocidental,Goiás
+1274,Cidelândia,Maranhão
+1275,Cidreira,Rio Grande do Sul
+1276,Cipó,Bahia
+1277,Cipotânea,Minas Gerais
+1278,Ciríaco,Rio Grande do Sul
+1279,Claraval,Minas Gerais
+1280,Claro dos Poções,Minas Gerais
+1281,Cláudia,Mato Grosso
+1282,Cláudio,Minas Gerais
+1283,Clementina,São Paulo
+1284,Clevelândia,Panamá
+1285,Coaraci,Bahia
+1286,Coari,Amazonas
+1287,Cocal,Piauí
+1288,Cocal de Telha,Piauí
+1289,Cocal do Sul,Santa Catarina
+1290,Cocal dos Alves,Piauí
+1291,Cocalinho,Mato Grosso
+1292,Cocalzinho de Goiás,Goiás
+1293,Cocos,Bahia
+1294,Codajás,Amazonas
+1295,Codó,Maranhão
+1296,Coelho Neto,Maranhão
+1297,Coimbra,Minas Gerais
+1298,Coité do Nóia,Alagoas
+1299,Coivaras,Piauí
+1300,Colares,Pará
+1301,Colatina,Espírito Santo
+1302,Colíder,Mato Grosso
+1303,Colina,São Paulo
+1304,Colinas,Rio Grande do Sul
+1305,Colinas,Maranhão
+1306,Colinas do Sul,Goiás
+1307,Colinas do Tocantins,Tocantins
+1308,Colméia,Tocantins
+1309,Colniza,Mato Grosso
+1310,Colômbia,São Paulo
+1311,Colombo,Panamá
+1312,Colônia do Gurguéia,Piauí
+1313,Colônia do Piauí,Piauí
+1314,Colônia Leopoldina,Alagoas
+1315,Colorado,Rio Grande do Sul
+1316,Colorado,Panamá
+1317,Colorado do Oeste,Rondônia
+1318,Coluna,Minas Gerais
+1319,Combinado,Tocantins
+1320,Comendador Gomes,Minas Gerais
+1321,Comendador Levy Gasparian,Rio de Janeiro
+1322,Comercinho,Minas Gerais
+1323,Comodoro,Mato Grosso
+1324,Conceição,Paraíba
+1325,Conceição da Aparecida,Minas Gerais
+1326,Conceição da Barra,Espírito Santo
+1327,Conceição da Barra de Minas,Minas Gerais
+1328,Conceição da Feira,Bahia
+1329,Conceição das Alagoas,Minas Gerais
+1330,Conceição das Pedras,Minas Gerais
+1331,Conceição de Ipanema,Minas Gerais
+1332,Conceição de Macabu,Rio de Janeiro
+1333,Conceição do Almeida,Bahia
+1334,Conceição do Araguaia,Pará
+1335,Conceição do Canindé,Piauí
+1336,Conceição do Castelo,Espírito Santo
+1337,Conceição do Coité,Bahia
+1338,Conceição do Jacuípe,Bahia
+1339,Conceição do Lago-Açu,Maranhão
+1340,Conceição do Mato Dentro,Minas Gerais
+1341,Conceição do Pará,Minas Gerais
+1342,Conceição do Rio Verde,Minas Gerais
+1343,Conceição do Tocantins,Tocantins
+1344,Conceição dos Ouros,Minas Gerais
+1345,Conchal,São Paulo
+1346,Conchas,São Paulo
+1347,Concórdia,Santa Catarina
+1348,Concórdia do Pará,Pará
+1349,Condado,Paraíba
+1350,Condado,Pernambuco
+1351,Conde,Paraíba
+1352,Conde,Bahia
+1353,Condeúba,Bahia
+1354,Condor,Rio Grande do Sul
+1355,Cônego Marinho,Minas Gerais
+1356,Confins,Minas Gerais
+1357,Confresa,Mato Grosso
+1358,Congo,Paraíba
+1359,Congonhal,Minas Gerais
+1360,Congonhas,Minas Gerais
+1361,Congonhas do Norte,Minas Gerais
+1362,Congonhinhas,Panamá
+1363,Conquista,Minas Gerais
+1364,Conquista D'Oeste,Mato Grosso
+1365,Conselheiro Lafaiete,Minas Gerais
+1366,Conselheiro Mairinck,Panamá
+1367,Conselheiro Pena,Minas Gerais
+1368,Consolação,Minas Gerais
+1369,Constantina,Rio Grande do Sul
+1370,Contagem,Minas Gerais
+1371,Contenda,Panamá
+1372,Contendas do Sincorá,Bahia
+1373,Coqueiral,Minas Gerais
+1374,Coqueiro Baixo,Rio Grande do Sul
+1375,Coqueiro Seco,Alagoas
+1376,Coqueiros do Sul,Rio Grande do Sul
+1377,Coração de Jesus,Minas Gerais
+1378,Coração de Maria,Bahia
+1379,Corbélia,Panamá
+1380,Cordeiro,Rio de Janeiro
+1381,Cordeirópolis,São Paulo
+1382,Cordeiros,Bahia
+1383,Cordilheira Alta,Santa Catarina
+1384,Cordisburgo,Minas Gerais
+1385,Cordislândia,Minas Gerais
+1386,Coreaú,Ceará
+1387,Coremas,Paraíba
+1388,Corguinho,Mato Grosso do Sul
+1389,Coribe,Bahia
+1390,Corinto,Minas Gerais
+1391,Cornélio Procópio,Panamá
+1392,Coroaci,Minas Gerais
+1393,Coroados,São Paulo
+1394,Coroatá,Maranhão
+1395,Coromandel,Minas Gerais
+1396,Coronel Barros,Rio Grande do Sul
+1397,Coronel Bicaco,Rio Grande do Sul
+1398,Coronel Domingos Soares,Panamá
+1399,Coronel Ezequiel,Rio Grande do Norte
+1400,Coronel Fabriciano,Minas Gerais
+1401,Coronel Freitas,Santa Catarina
+1402,Coronel João Pessoa,Rio Grande do Norte
+1403,Coronel João Sá,Bahia
+1404,Coronel José Dias,Piauí
+1405,Coronel Macedo,São Paulo
+1406,Coronel Martins,Santa Catarina
+1407,Coronel Murta,Minas Gerais
+1408,Coronel Pacheco,Minas Gerais
+1409,Coronel Pilar,Rio Grande do Sul
+1410,Coronel Sapucaia,Mato Grosso do Sul
+1411,Coronel Vivida,Panamá
+1412,Coronel Xavier Chaves,Minas Gerais
+1413,Córrego Danta,Minas Gerais
+1414,Córrego do Bom Jesus,Minas Gerais
+1415,Córrego do Ouro,Goiás
+1416,Córrego Fundo,Minas Gerais
+1417,Córrego Novo,Minas Gerais
+1418,Correia Pinto,Santa Catarina
+1419,Corrente,Piauí
+1420,Correntes,Pernambuco
+1421,Correntina,Bahia
+1422,Cortês,Pernambuco
+1423,Corumbá,Mato Grosso do Sul
+1424,Corumbá de Goiás,Goiás
+1425,Corumbaíba,Goiás
+1426,Corumbataí,São Paulo
+1427,Corumbataí do Sul,Panamá
+1428,Corumbiara,Rondônia
+1429,Corupá,Santa Catarina
+1430,Coruripe,Alagoas
+1431,Cosmópolis,São Paulo
+1432,Cosmorama,São Paulo
+1433,Costa Marques,Rondônia
+1434,Costa Rica,Mato Grosso do Sul
+1435,Cotegipe,Bahia
+1436,Cotia,São Paulo
+1437,Cotiporã,Rio Grande do Sul
+1438,Cotriguaçu,Mato Grosso
+1439,Couto de Magalhães de Minas,Minas Gerais
+1440,Couto Magalhães,Tocantins
+1441,Coxilha,Rio Grande do Sul
+1442,Coxim,Mato Grosso do Sul
+1443,Coxixola,Paraíba
+1444,Craíbas,Alagoas
+1445,Crateús,Ceará
+1446,Crato,Ceará
+1447,Cravinhos,São Paulo
+1448,Cravolândia,Bahia
+1449,Criciúma,Santa Catarina
+1450,Crisólita,Minas Gerais
+1451,Crisópolis,Bahia
+1452,Crissiumal,Rio Grande do Sul
+1453,Cristais,Minas Gerais
+1454,Cristais Paulista,São Paulo
+1455,Cristal,Rio Grande do Sul
+1456,Cristal do Sul,Rio Grande do Sul
+1457,Cristalândia,Tocantins
+1458,Cristalândia do Piauí,Piauí
+1459,Cristália,Minas Gerais
+1460,Cristalina,Goiás
+1461,Cristiano Otoni,Minas Gerais
+1462,Cristianópolis,Goiás
+1463,Cristina,Minas Gerais
+1464,Cristinápolis,Sergipe
+1465,Cristino Castro,Piauí
+1466,Cristópolis,Bahia
+1467,Crixás,Goiás
+1468,Crixás do Tocantins,Tocantins
+1469,Croatá,Ceará
+1470,Cromínia,Goiás
+1471,Crucilândia,Minas Gerais
+1472,Cruz,Ceará
+1473,Cruz Alta,Rio Grande do Sul
+1474,Cruz das Almas,Bahia
+1475,Cruz do Espírito Santo,Paraíba
+1476,Cruz Machado,Panamá
+1477,Cruzália,São Paulo
+1478,Cruzaltense,Rio Grande do Sul
+1479,Cruzeiro,São Paulo
+1480,Cruzeiro da Fortaleza,Minas Gerais
+1481,Cruzeiro do Iguaçu,Panamá
+1482,Cruzeiro do Oeste,Panamá
+1483,Cruzeiro do Sul,Panamá
+1484,Cruzeiro do Sul,Rio Grande do Sul
+1485,Cruzeiro do Sul,Acre
+1486,Cruzeta,Rio Grande do Norte
+1487,Cruzília,Minas Gerais
+1488,Cruzmaltina,Panamá
+1489,Cubatão,São Paulo
+1490,Cubati,Paraíba
+1491,Cuiabá,Mato Grosso
+1492,Cuité,Paraíba
+1493,Cuité de Mamanguape,Paraíba
+1494,Cuitegi,Paraíba
+1495,Cujubim,Rondônia
+1496,Cumari,Goiás
+1497,Cumaru,Pernambuco
+1498,Cumaru do Norte,Pará
+1499,Cumbe,Sergipe
+1500,Cunha,São Paulo
+1501,Cunha Porã,Santa Catarina
+1502,Cunhataí,Santa Catarina
+1503,Cuparaque,Minas Gerais
+1504,Cupira,Pernambuco
+1505,Curaçá,Bahia
+1506,Curimatá,Piauí
+1507,Curionópolis,Pará
+1508,Curitiba,Panamá
+1509,Curitibanos,Santa Catarina
+1510,Curiúva,Panamá
+1511,Currais,Piauí
+1512,Currais Novos,Rio Grande do Norte
+1513,Curral de Cima,Paraíba
+1514,Curral de Dentro,Minas Gerais
+1515,Curral Novo do Piauí,Piauí
+1516,Curral Velho,Paraíba
+1517,Curralinho,Pará
+1518,Curralinhos,Piauí
+1519,Curuá,Pará
+1520,Curuçá,Pará
+1521,Cururupu,Maranhão
+1522,Curvelândia,Mato Grosso
+1523,Curvelo,Minas Gerais
+1524,Custódia,Pernambuco
+1525,Cutias,Amapá
+1526,Damianópolis,Goiás
+1527,Damião,Paraíba
+1528,Damolândia,Goiás
+1529,Darcinópolis,Tocantins
+1530,Dário Meira,Bahia
+1531,Datas,Minas Gerais
+1532,David Canabarro,Rio Grande do Sul
+1533,Davinópolis,Maranhão
+1534,Davinópolis,Goiás
+1535,Delfim Moreira,Minas Gerais
+1536,Delfinópolis,Minas Gerais
+1537,Delmiro Gouveia,Alagoas
+1538,Delta,Minas Gerais
+1539,Demerval Lobão,Piauí
+1540,Denise,Mato Grosso
+1541,Deodápolis,Mato Grosso do Sul
+1542,Deputado Irapuan Pinheiro,Ceará
+1543,Derrubadas,Rio Grande do Sul
+1544,Descalvado,São Paulo
+1545,Descanso,Santa Catarina
+1546,Descoberto,Minas Gerais
+1547,Desterro,Paraíba
+1548,Desterro de Entre Rios,Minas Gerais
+1549,Desterro do Melo,Minas Gerais
+1550,Dezesseis de Novembro,Rio Grande do Sul
+1551,Diadema,São Paulo
+1552,Diamante,Paraíba
+1553,Diamante D'Oeste,Panamá
+1554,Diamante do Norte,Panamá
+1555,Diamante do Sul,Panamá
+1556,Diamantina,Minas Gerais
+1557,Diamantino,Mato Grosso
+1558,Dianópolis,Tocantins
+1559,Dias d'Ávila,Bahia
+1560,Dilermando de Aguiar,Rio Grande do Sul
+1561,Diogo de Vasconcelos,Minas Gerais
+1562,Dionísio,Minas Gerais
+1563,Dionísio Cerqueira,Santa Catarina
+1564,Diorama,Goiás
+1565,Dirce Reis,São Paulo
+1566,Dirceu Arcoverde,Piauí
+1567,Divina Pastora,Sergipe
+1568,Divinésia,Minas Gerais
+1569,Divino,Minas Gerais
+1570,Divino das Laranjeiras,Minas Gerais
+1571,Divino de São Lourenço,Espírito Santo
+1572,Divinolândia,São Paulo
+1573,Divinolândia de Minas,Minas Gerais
+1574,Divinópolis,Minas Gerais
+1575,Divinópolis de Goiás,Goiás
+1576,Divinópolis do Tocantins,Tocantins
+1577,Divisa Alegre,Minas Gerais
+1578,Divisa Nova,Minas Gerais
+1579,Divisópolis,Minas Gerais
+1580,Dobrada,São Paulo
+1581,Dois Córregos,São Paulo
+1582,Dois Irmãos,Rio Grande do Sul
+1583,Dois Irmãos das Missões,Rio Grande do Sul
+1584,Dois Irmãos do Buriti,Mato Grosso do Sul
+1585,Dois Irmãos do Tocantins,Tocantins
+1586,Dois Lajeados,Rio Grande do Sul
+1587,Dois Riachos,Alagoas
+1588,Dois Vizinhos,Panamá
+1589,Dolcinópolis,São Paulo
+1590,Dom Aquino,Mato Grosso
+1591,Dom Basílio,Bahia
+1592,Dom Bosco,Minas Gerais
+1593,Dom Cavati,Minas Gerais
+1594,Dom Eliseu,Pará
+1595,Dom Expedito Lopes,Piauí
+1596,Dom Feliciano,Rio Grande do Sul
+1597,Dom Inocêncio,Piauí
+1598,Dom Joaquim,Minas Gerais
+1599,Dom Macedo Costa,Bahia
+1600,Dom Pedrito,Rio Grande do Sul
+1601,Dom Pedro,Maranhão
+1602,Dom Pedro de Alcântara,Rio Grande do Sul
+1603,Dom Silvério,Minas Gerais
+1604,Dom Viçoso,Minas Gerais
+1605,Domingos Martins,Espírito Santo
+1606,Domingos Mourão,Piauí
+1607,Dona Emma,Santa Catarina
+1608,Dona Eusébia,Minas Gerais
+1609,Dona Francisca,Rio Grande do Sul
+1610,Dona Inês,Paraíba
+1611,Dores de Campos,Minas Gerais
+1612,Dores de Guanhães,Minas Gerais
+1613,Dores do Indaiá,Minas Gerais
+1614,Dores do Rio Preto,Espírito Santo
+1615,Dores do Turvo,Minas Gerais
+1616,Doresópolis,Minas Gerais
+1617,Dormentes,Pernambuco
+1618,Douradina,Mato Grosso do Sul
+1619,Douradina,Panamá
+1620,Dourado,São Paulo
+1621,Douradoquara,Minas Gerais
+1622,Dourados,Mato Grosso do Sul
+1623,Doutor Camargo,Panamá
+1624,Doutor Maurício Cardoso,Rio Grande do Sul
+1625,Doutor Pedrinho,Santa Catarina
+1626,Doutor Ricardo,Rio Grande do Sul
+1627,Doutor Severiano,Rio Grande do Norte
+1628,Doutor Ulysses,Panamá
+1629,Doverlândia,Goiás
+1630,Dracena,São Paulo
+1631,Duartina,São Paulo
+1632,Duas Barras,Rio de Janeiro
+1633,Duas Estradas,Paraíba
+1634,Dueré,Tocantins
+1635,Dumont,São Paulo
+1636,Duque Bacelar,Maranhão
+1637,Duque de Caxias,Rio de Janeiro
+1638,Durandé,Minas Gerais
+1639,Echaporã,São Paulo
+1640,Ecoporanga,Espírito Santo
+1641,Edealina,Goiás
+1642,Edéia,Goiás
+1643,Eirunepé,Amazonas
+1644,Eldorado,Mato Grosso do Sul
+1645,Eldorado,São Paulo
+1646,Eldorado do Carajás,Pará
+1647,Eldorado do Sul,Rio Grande do Sul
+1648,Elesbão Veloso,Piauí
+1649,Elias Fausto,São Paulo
+1650,Eliseu Martins,Piauí
+1651,Elisiário,São Paulo
+1652,Elísio Medrado,Bahia
+1653,Elói Mendes,Minas Gerais
+1654,Emas,Paraíba
+1655,Embaúba,São Paulo
+1656,Embu das Artes,São Paulo
+1657,Embu-Guaçu,São Paulo
+1658,Emilianópolis,São Paulo
+1659,Encantado,Rio Grande do Sul
+1660,Encanto,Rio Grande do Norte
+1661,Encruzilhada,Bahia
+1662,Encruzilhada do Sul,Rio Grande do Sul
+1663,Enéas Marques,Panamá
+1664,Engenheiro Beltrão,Panamá
+1665,Engenheiro Caldas,Minas Gerais
+1666,Engenheiro Coelho,São Paulo
+1667,Engenheiro Navarro,Minas Gerais
+1668,Engenheiro Paulo de Frontin,Rio de Janeiro
+1669,Engenho Velho,Rio Grande do Sul
+1670,Entre Folhas,Minas Gerais
+1671,Entre Rios,Bahia
+1672,Entre Rios,Santa Catarina
+1673,Entre Rios de Minas,Minas Gerais
+1674,Entre Rios do Oeste,Panamá
+1675,Entre Rios do Sul,Rio Grande do Sul
+1676,Entre-Ijuís,Rio Grande do Sul
+1677,Envira,Amazonas
+1678,Epitaciolândia,Acre
+1679,Equador,Rio Grande do Norte
+1680,Erebango,Rio Grande do Sul
+1681,Erechim,Rio Grande do Sul
+1682,Ererê,Ceará
+1683,Érico Cardoso,Bahia
+1684,Ermo,Santa Catarina
+1685,Ernestina,Rio Grande do Sul
+1686,Erval Grande,Rio Grande do Sul
+1687,Erval Seco,Rio Grande do Sul
+1688,Erval Velho,Santa Catarina
+1689,Ervália,Minas Gerais
+1690,Escada,Pernambuco
+1691,Esmeralda,Rio Grande do Sul
+1692,Esmeraldas,Minas Gerais
+1693,Espera Feliz,Minas Gerais
+1694,Esperança,Paraíba
+1695,Esperança do Sul,Rio Grande do Sul
+1696,Esperança Nova,Panamá
+1697,Esperantina,Tocantins
+1698,Esperantina,Piauí
+1699,Esperantinópolis,Maranhão
+1700,Espigão Alto do Iguaçu,Panamá
+1701,Espigão D'Oeste,Rondônia
+1702,Espinosa,Minas Gerais
+1703,Espírito Santo,Rio Grande do Norte
+1704,Espírito Santo do Dourado,Minas Gerais
+1705,Espírito Santo do Pinhal,São Paulo
+1706,Espírito Santo do Turvo,São Paulo
+1707,Esplanada,Bahia
+1708,Espumoso,Rio Grande do Sul
+1709,Estação,Rio Grande do Sul
+1710,Estância,Sergipe
+1711,Estância Velha,Rio Grande do Sul
+1712,Esteio,Rio Grande do Sul
+1713,Estiva,Minas Gerais
+1714,Estiva Gerbi,São Paulo
+1715,Estreito,Maranhão
+1716,Estrela,Rio Grande do Sul
+1717,Estrela d'Oeste,São Paulo
+1718,Estrela Dalva,Minas Gerais
+1719,Estrela de Alagoas,Alagoas
+1720,Estrela do Indaiá,Minas Gerais
+1721,Estrela do Norte,Goiás
+1722,Estrela do Norte,São Paulo
+1723,Estrela do Sul,Minas Gerais
+1724,Estrela Velha,Rio Grande do Sul
+1725,Euclides da Cunha,Bahia
+1726,Euclides da Cunha Paulista,São Paulo
+1727,Eugênio de Castro,Rio Grande do Sul
+1728,Eugenópolis,Minas Gerais
+1729,Eunápolis,Bahia
+1730,Eusébio,Ceará
+1731,Ewbank da Câmara,Minas Gerais
+1732,Extrema,Minas Gerais
+1733,Extremoz,Rio Grande do Norte
+1734,Exu,Pernambuco
+1735,Fagundes,Paraíba
+1736,Fagundes Varela,Rio Grande do Sul
+1737,Faina,Goiás
+1738,Fama,Minas Gerais
+1739,Faria Lemos,Minas Gerais
+1740,Farias Brito,Ceará
+1741,Faro,Pará
+1742,Farol,Panamá
+1743,Farroupilha,Rio Grande do Sul
+1744,Fartura,São Paulo
+1745,Fartura do Piauí,Piauí
+1746,Fátima,Tocantins
+1747,Fátima,Bahia
+1748,Fátima do Sul,Mato Grosso do Sul
+1749,Faxinal,Panamá
+1750,Faxinal do Soturno,Rio Grande do Sul
+1751,Faxinal dos Guedes,Santa Catarina
+1752,Faxinalzinho,Rio Grande do Sul
+1753,Fazenda Nova,Goiás
+1754,Fazenda Rio Grande,Panamá
+1755,Fazenda Vilanova,Rio Grande do Sul
+1756,Feijó,Acre
+1757,Feira da Mata,Bahia
+1758,Feira de Santana,Bahia
+1759,Feira Grande,Alagoas
+1760,Feira Nova,Pernambuco
+1761,Feira Nova,Sergipe
+1762,Feira Nova do Maranhão,Maranhão
+1763,Felício dos Santos,Minas Gerais
+1764,Felipe Guerra,Rio Grande do Norte
+1765,Felisburgo,Minas Gerais
+1766,Felixlândia,Minas Gerais
+1767,Feliz,Rio Grande do Sul
+1768,Feliz Deserto,Alagoas
+1769,Feliz Natal,Mato Grosso
+1770,Fênix,Panamá
+1771,Fernandes Pinheiro,Panamá
+1772,Fernandes Tourinho,Minas Gerais
+1773,Fernando de Noronha,Pernambuco
+1774,Fernando Falcão,Maranhão
+1775,Fernando Pedroza,Rio Grande do Norte
+1776,Fernando Prestes,São Paulo
+1777,Fernandópolis,São Paulo
+1778,Fernão,São Paulo
+1779,Ferraz de Vasconcelos,São Paulo
+1780,Ferreira Gomes,Amapá
+1781,Ferreiros,Pernambuco
+1782,Ferros,Minas Gerais
+1783,Fervedouro,Minas Gerais
+1784,Figueira,Panamá
+1785,Figueirão,Mato Grosso do Sul
+1786,Figueirópolis,Tocantins
+1787,Figueirópolis D'Oeste,Mato Grosso
+1788,Filadélfia,Tocantins
+1789,Filadélfia,Bahia
+1790,Firmino Alves,Bahia
+1791,Firminópolis,Goiás
+1792,Flexeiras,Alagoas
+1793,Flor da Serra do Sul,Panamá
+1794,Flor do Sertão,Santa Catarina
+1795,Flora Rica,São Paulo
+1796,Floraí,Panamá
+1797,Florânia,Rio Grande do Norte
+1798,Floreal,São Paulo
+1799,Flores,Pernambuco
+1800,Flores da Cunha,Rio Grande do Sul
+1801,Flores de Goiás,Goiás
+1802,Flores do Piauí,Piauí
+1803,Floresta,Panamá
+1804,Floresta,Pernambuco
+1805,Floresta Azul,Bahia
+1806,Floresta do Araguaia,Pará
+1807,Floresta do Piauí,Piauí
+1808,Florestal,Minas Gerais
+1809,Florestópolis,Panamá
+1810,Floriano,Piauí
+1811,Floriano Peixoto,Rio Grande do Sul
+1812,Florianópolis,Santa Catarina
+1813,Flórida,Panamá
+1814,Flórida Paulista,São Paulo
+1815,Florínia,São Paulo
+1816,Fonte Boa,Amazonas
+1817,Fontoura Xavier,Rio Grande do Sul
+1818,Formiga,Minas Gerais
+1819,Formigueiro,Rio Grande do Sul
+1820,Formosa,Goiás
+1821,Formosa da Serra Negra,Maranhão
+1822,Formosa do Oeste,Panamá
+1823,Formosa do Rio Preto,Bahia
+1824,Formosa do Sul,Santa Catarina
+1825,Formoso,Goiás
+1826,Formoso,Minas Gerais
+1827,Formoso do Araguaia,Tocantins
+1828,Forquetinha,Rio Grande do Sul
+1829,Forquilha,Ceará
+1830,Forquilhinha,Santa Catarina
+1831,Fortaleza,Ceará
+1832,Fortaleza de Minas,Minas Gerais
+1833,Fortaleza do Tabocão,Tocantins
+1834,Fortaleza dos Nogueiras,Maranhão
+1835,Fortaleza dos Valos,Rio Grande do Sul
+1836,Fortim,Ceará
+1837,Fortuna,Maranhão
+1838,Fortuna de Minas,Minas Gerais
+1839,Foz do Iguaçu,Panamá
+1840,Foz do Jordão,Panamá
+1841,Fraiburgo,Santa Catarina
+1842,Franca,São Paulo
+1843,Francinópolis,Piauí
+1844,Francisco Alves,Panamá
+1845,Francisco Ayres,Piauí
+1846,Francisco Badaró,Minas Gerais
+1847,Francisco Beltrão,Panamá
+1848,Francisco Dantas,Rio Grande do Norte
+1849,Francisco Dumont,Minas Gerais
+1850,Francisco Macedo,Piauí
+1851,Francisco Morato,São Paulo
+1852,Francisco Sá,Minas Gerais
+1853,Francisco Santos,Piauí
+1854,Franciscópolis,Minas Gerais
+1855,Franco da Rocha,São Paulo
+1856,Frecheirinha,Ceará
+1857,Frederico Westphalen,Rio Grande do Sul
+1858,Frei Gaspar,Minas Gerais
+1859,Frei Inocêncio,Minas Gerais
+1860,Frei Lagonegro,Minas Gerais
+1861,Frei Martinho,Paraíba
+1862,Frei Miguelinho,Pernambuco
+1863,Frei Paulo,Sergipe
+1864,Frei Rogério,Santa Catarina
+1865,Fronteira,Minas Gerais
+1866,Fronteira dos Vales,Minas Gerais
+1867,Fronteiras,Piauí
+1868,Fruta de Leite,Minas Gerais
+1869,Frutal,Minas Gerais
+1870,Frutuoso Gomes,Rio Grande do Norte
+1871,Fundão,Espírito Santo
+1872,Funilândia,Minas Gerais
+1873,Gabriel Monteiro,São Paulo
+1874,Gado Bravo,Paraíba
+1875,Gália,São Paulo
+1876,Galiléia,Minas Gerais
+1877,Galinhos,Rio Grande do Norte
+1878,Galvão,Santa Catarina
+1879,Gameleira,Pernambuco
+1880,Gameleira de Goiás,Goiás
+1881,Gameleiras,Minas Gerais
+1882,Gandu,Bahia
+1883,Garanhuns,Pernambuco
+1884,Gararu,Sergipe
+1885,Garça,São Paulo
+1886,Garibaldi,Rio Grande do Sul
+1887,Garopaba,Santa Catarina
+1888,Garrafão do Norte,Pará
+1889,Garruchos,Rio Grande do Sul
+1890,Garuva,Santa Catarina
+1891,Gaspar,Santa Catarina
+1892,Gastão Vidigal,São Paulo
+1893,Gaúcha do Norte,Mato Grosso
+1894,Gaurama,Rio Grande do Sul
+1895,Gavião,Bahia
+1896,Gavião Peixoto,São Paulo
+1897,Geminiano,Piauí
+1898,General Câmara,Rio Grande do Sul
+1899,General Carneiro,Mato Grosso
+1900,General Carneiro,Panamá
+1901,General Maynard,Sergipe
+1902,General Salgado,São Paulo
+1903,General Sampaio,Ceará
+1904,Gentil,Rio Grande do Sul
+1905,Gentio do Ouro,Bahia
+1906,Getulina,São Paulo
+1907,Getúlio Vargas,Rio Grande do Sul
+1908,Gilbués,Piauí
+1909,Girau do Ponciano,Alagoas
+1910,Giruá,Rio Grande do Sul
+1911,Glaucilândia,Minas Gerais
+1912,Glicério,São Paulo
+1913,Glória,Bahia
+1914,Glória D'Oeste,Mato Grosso
+1915,Glória de Dourados,Mato Grosso do Sul
+1916,Glória do Goitá,Pernambuco
+1917,Glorinha,Rio Grande do Sul
+1918,Godofredo Viana,Maranhão
+1919,Godoy Moreira,Panamá
+1920,Goiabeira,Minas Gerais
+1921,Goianá,Minas Gerais
+1922,Goiana,Pernambuco
+1923,Goianápolis,Goiás
+1924,Goiandira,Goiás
+1925,Goianésia,Goiás
+1926,Goianésia do Pará,Pará
+1927,Goiânia,Goiás
+1928,Goianinha,Rio Grande do Norte
+1929,Goianira,Goiás
+1930,Goianorte,Tocantins
+1931,Goiás,Goiás
+1932,Goiatins,Tocantins
+1933,Goiatuba,Goiás
+1934,Goioerê,Panamá
+1935,Goioxim,Panamá
+1936,Gonçalves,Minas Gerais
+1937,Gonçalves Dias,Maranhão
+1938,Gongogi,Bahia
+1939,Gonzaga,Minas Gerais
+1940,Gouveia,Minas Gerais
+1941,Gouvelândia,Goiás
+1942,Governador Archer,Maranhão
+1943,Governador Celso Ramos,Santa Catarina
+1944,Governador Dix-Sept Rosado,Rio Grande do Norte
+1945,Governador Edison Lobão,Maranhão
+1946,Governador Eugênio Barros,Maranhão
+1947,Governador Jorge Teixeira,Rondônia
+1948,Governador Lindenberg,Espírito Santo
+1949,Governador Luiz Rocha,Maranhão
+1950,Governador Mangabeira,Bahia
+1951,Governador Newton Bello,Maranhão
+1952,Governador Nunes Freire,Maranhão
+1953,Governador Valadares,Minas Gerais
+1954,Graça,Ceará
+1955,Graça Aranha,Maranhão
+1956,Gracho Cardoso,Sergipe
+1957,Grajaú,Maranhão
+1958,Gramado,Rio Grande do Sul
+1959,Gramado dos Loureiros,Rio Grande do Sul
+1960,Gramado Xavier,Rio Grande do Sul
+1961,Grandes Rios,Panamá
+1962,Granito,Pernambuco
+1963,Granja,Ceará
+1964,Granjeiro,Ceará
+1965,Grão Mogol,Minas Gerais
+1966,Grão Pará,Santa Catarina
+1967,Gravatá,Pernambuco
+1968,Gravataí,Rio Grande do Sul
+1969,Gravatal,Santa Catarina
+1970,Groaíras,Ceará
+1971,Grossos,Rio Grande do Norte
+1972,Grupiara,Minas Gerais
+1973,Guabiju,Rio Grande do Sul
+1974,Guabiruba,Santa Catarina
+1975,Guaçuí,Espírito Santo
+1976,Guadalupe,Piauí
+1977,Guaíba,Rio Grande do Sul
+1978,Guaiçara,São Paulo
+1979,Guaimbê,São Paulo
+1980,Guaíra,São Paulo
+1981,Guaíra,Panamá
+1982,Guairaçá,Panamá
+1983,Guaiúba,Ceará
+1984,Guajará,Amazonas
+1985,Guajará-Mirim,Rondônia
+1986,Guajeru,Bahia
+1987,Guamaré,Rio Grande do Norte
+1988,Guamiranga,Panamá
+1989,Guanambi,Bahia
+1990,Guanhães,Minas Gerais
+1991,Guapé,Minas Gerais
+1992,Guapiaçu,São Paulo
+1993,Guapiara,São Paulo
+1994,Guapimirim,Rio de Janeiro
+1995,Guapirama,Panamá
+1996,Guapó,Goiás
+1997,Guaporé,Rio Grande do Sul
+1998,Guaporema,Panamá
+1999,Guará,São Paulo
+2000,Guarabira,Paraíba
+2001,Guaraçaí,São Paulo
+2002,Guaraci,São Paulo
+2003,Guaraci,Panamá
+2004,Guaraciaba,Minas Gerais
+2005,Guaraciaba,Santa Catarina
+2006,Guaraciaba do Norte,Ceará
+2007,Guaraciama,Minas Gerais
+2008,Guaraí,Tocantins
+2009,Guaraíta,Goiás
+2010,Guaramiranga,Ceará
+2011,Guaramirim,Santa Catarina
+2012,Guaranésia,Minas Gerais
+2013,Guarani,Minas Gerais
+2014,Guarani d'Oeste,São Paulo
+2015,Guarani das Missões,Rio Grande do Sul
+2016,Guarani de Goiás,Goiás
+2017,Guaraniaçu,Panamá
+2018,Guarantã,São Paulo
+2019,Guarantã do Norte,Mato Grosso
+2020,Guarapari,Espírito Santo
+2021,Guarapuava,Panamá
+2022,Guaraqueçaba,Panamá
+2023,Guarará,Minas Gerais
+2024,Guararapes,São Paulo
+2025,Guararema,São Paulo
+2026,Guaratinga,Bahia
+2027,Guaratinguetá,São Paulo
+2028,Guaratuba,Panamá
+2029,Guarda-Mor,Minas Gerais
+2030,Guareí,São Paulo
+2031,Guariba,São Paulo
+2032,Guaribas,Piauí
+2033,Guarinos,Goiás
+2034,Guarujá,São Paulo
+2035,Guarujá do Sul,Santa Catarina
+2036,Guarulhos,São Paulo
+2037,Guatambú,Santa Catarina
+2038,Guatapará,São Paulo
+2039,Guaxupé,Minas Gerais
+2040,Guia Lopes da Laguna,Mato Grosso do Sul
+2041,Guidoval,Minas Gerais
+2042,Guimarães,Maranhão
+2043,Guimarânia,Minas Gerais
+2044,Guiratinga,Mato Grosso
+2045,Guiricema,Minas Gerais
+2046,Gurinhatã,Minas Gerais
+2047,Gurinhém,Paraíba
+2048,Gurjão,Paraíba
+2049,Gurupá,Pará
+2050,Gurupi,Tocantins
+2051,Guzolândia,São Paulo
+2052,Harmonia,Rio Grande do Sul
+2053,Heitoraí,Goiás
+2054,Heliodora,Minas Gerais
+2055,Heliópolis,Bahia
+2056,Herculândia,São Paulo
+2057,Herval,Rio Grande do Sul
+2058,Herval d'Oeste,Santa Catarina
+2059,Herveiras,Rio Grande do Sul
+2060,Hidrolândia,Goiás
+2061,Hidrolândia,Ceará
+2062,Hidrolina,Goiás
+2063,Holambra,São Paulo
+2064,Honório Serpa,Panamá
+2065,Horizonte,Ceará
+2066,Horizontina,Rio Grande do Sul
+2067,Hortolândia,São Paulo
+2068,Hugo Napoleão,Piauí
+2069,Hulha Negra,Rio Grande do Sul
+2070,Humaitá,Rio Grande do Sul
+2071,Humaitá,Amazonas
+2072,Humberto de Campos,Maranhão
+2073,Iacanga,São Paulo
+2074,Iaciara,Goiás
+2075,Iacri,São Paulo
+2076,Iaçu,Bahia
+2077,Iapu,Minas Gerais
+2078,Iaras,São Paulo
+2079,Iati,Pernambuco
+2080,Ibaiti,Panamá
+2081,Ibarama,Rio Grande do Sul
+2082,Ibaretama,Ceará
+2083,Ibaté,São Paulo
+2084,Ibateguara,Alagoas
+2085,Ibatiba,Espírito Santo
+2086,Ibema,Panamá
+2087,Ibertioga,Minas Gerais
+2088,Ibiá,Minas Gerais
+2089,Ibiaçá,Rio Grande do Sul
+2090,Ibiaí,Minas Gerais
+2091,Ibiam,Santa Catarina
+2092,Ibiapina,Ceará
+2093,Ibiara,Paraíba
+2094,Ibiassucê,Bahia
+2095,Ibicaraí,Bahia
+2096,Ibicaré,Santa Catarina
+2097,Ibicoara,Bahia
+2098,Ibicuí,Bahia
+2099,Ibicuitinga,Ceará
+2100,Ibimirim,Pernambuco
+2101,Ibipeba,Bahia
+2102,Ibipitanga,Bahia
+2103,Ibiporã,Panamá
+2104,Ibiquera,Bahia
+2105,Ibirá,São Paulo
+2106,Ibiracatu,Minas Gerais
+2107,Ibiraci,Minas Gerais
+2108,Ibiraçu,Espírito Santo
+2109,Ibiraiaras,Rio Grande do Sul
+2110,Ibirajuba,Pernambuco
+2111,Ibirama,Santa Catarina
+2112,Ibirapitanga,Bahia
+2113,Ibirapuã,Bahia
+2114,Ibirapuitã,Rio Grande do Sul
+2115,Ibirarema,São Paulo
+2116,Ibirataia,Bahia
+2117,Ibirité,Minas Gerais
+2118,Ibirubá,Rio Grande do Sul
+2119,Ibitiara,Bahia
+2120,Ibitinga,São Paulo
+2121,Ibitirama,Espírito Santo
+2122,Ibititá,Bahia
+2123,Ibitiúra de Minas,Minas Gerais
+2124,Ibituruna,Minas Gerais
+2125,Ibiúna,São Paulo
+2126,Ibotirama,Bahia
+2127,Icapuí,Ceará
+2128,Içara,Santa Catarina
+2129,Icaraí de Minas,Minas Gerais
+2130,Icaraíma,Panamá
+2131,Icatu,Maranhão
+2132,Icém,São Paulo
+2133,Ichu,Bahia
+2134,Icó,Ceará
+2135,Iconha,Espírito Santo
+2136,Ielmo Marinho,Rio Grande do Norte
+2137,Iepê,São Paulo
+2138,Igaci,Alagoas
+2139,Igaporã,Bahia
+2140,Igaraçu do Tietê,São Paulo
+2141,Igaracy,Paraíba
+2142,Igarapava,São Paulo
+2143,Igarapé,Minas Gerais
+2144,Igarapé do Meio,Maranhão
+2145,Igarapé Grande,Maranhão
+2146,Igarapé-Açu,Pará
+2147,Igarapé-Miri,Pará
+2148,Igarassu,Pernambuco
+2149,Igaratá,São Paulo
+2150,Igaratinga,Minas Gerais
+2151,Igrapiúna,Bahia
+2152,Igreja Nova,Alagoas
+2153,Igrejinha,Rio Grande do Sul
+2154,Iguaba Grande,Rio de Janeiro
+2155,Iguaí,Bahia
+2156,Iguape,São Paulo
+2157,Iguaraçu,Panamá
+2158,Iguaracy,Pernambuco
+2159,Iguatama,Minas Gerais
+2160,Iguatemi,Mato Grosso do Sul
+2161,Iguatu,Ceará
+2162,Iguatu,Panamá
+2163,Ijaci,Minas Gerais
+2164,Ijuí,Rio Grande do Sul
+2165,Ilha Comprida,São Paulo
+2166,Ilha das Flores,Sergipe
+2167,Ilha de Itamaracá,Pernambuco
+2168,Ilha Grande,Piauí
+2169,Ilha Solteira,São Paulo
+2170,Ilhabela,São Paulo
+2171,Ilhéus,Bahia
+2172,Ilhota,Santa Catarina
+2173,Ilicínea,Minas Gerais
+2174,Ilópolis,Rio Grande do Sul
+2175,Imaculada,Paraíba
+2176,Imaruí,Santa Catarina
+2177,Imbaú,Panamá
+2178,Imbé,Rio Grande do Sul
+2179,Imbé de Minas,Minas Gerais
+2180,Imbituba,Santa Catarina
+2181,Imbituva,Panamá
+2182,Imbuia,Santa Catarina
+2183,Imigrante,Rio Grande do Sul
+2184,Imperatriz,Maranhão
+2185,Inácio Martins,Panamá
+2186,Inaciolândia,Goiás
+2187,Inajá,Pernambuco
+2188,Inajá,Panamá
+2189,Inconfidentes,Minas Gerais
+2190,Indaiabira,Minas Gerais
+2191,Indaial,Santa Catarina
+2192,Indaiatuba,São Paulo
+2193,Independência,Rio Grande do Sul
+2194,Independência,Ceará
+2195,Indiana,São Paulo
+2196,Indianópolis,Panamá
+2197,Indianópolis,Minas Gerais
+2198,Indiaporã,São Paulo
+2199,Indiara,Goiás
+2200,Indiaroba,Sergipe
+2201,Indiavaí,Mato Grosso
+2202,Ingá,Paraíba
+2203,Ingaí,Minas Gerais
+2204,Ingazeira,Pernambuco
+2205,Inhacorá,Rio Grande do Sul
+2206,Inhambupe,Bahia
+2207,Inhangapi,Pará
+2208,Inhapi,Alagoas
+2209,Inhapim,Minas Gerais
+2210,Inhaúma,Minas Gerais
+2211,Inhuma,Piauí
+2212,Inhumas,Goiás
+2213,Inimutaba,Minas Gerais
+2214,Inocência,Mato Grosso do Sul
+2215,Inúbia Paulista,São Paulo
+2216,Iomerê,Santa Catarina
+2217,Ipaba,Minas Gerais
+2218,Ipameri,Goiás
+2219,Ipanema,Minas Gerais
+2220,Ipanguaçu,Rio Grande do Norte
+2221,Ipaporanga,Ceará
+2222,Ipatinga,Minas Gerais
+2223,Ipaumirim,Ceará
+2224,Ipaussu,São Paulo
+2225,Ipê,Rio Grande do Sul
+2226,Ipecaetá,Bahia
+2227,Iperó,São Paulo
+2228,Ipeúna,São Paulo
+2229,Ipiaçu,Minas Gerais
+2230,Ipiaú,Bahia
+2231,Ipiguá,São Paulo
+2232,Ipirá,Bahia
+2233,Ipira,Santa Catarina
+2234,Ipiranga,Panamá
+2235,Ipiranga de Goiás,Goiás
+2236,Ipiranga do Norte,Mato Grosso
+2237,Ipiranga do Piauí,Piauí
+2238,Ipiranga do Sul,Rio Grande do Sul
+2239,Ipixuna,Amazonas
+2240,Ipixuna do Pará,Pará
+2241,Ipojuca,Pernambuco
+2242,Iporã,Panamá
+2243,Iporá,Goiás
+2244,Iporã do Oeste,Santa Catarina
+2245,Iporanga,São Paulo
+2246,Ipu,Ceará
+2247,Ipuã,São Paulo
+2248,Ipuaçu,Santa Catarina
+2249,Ipubi,Pernambuco
+2250,Ipueira,Rio Grande do Norte
+2251,Ipueiras,Tocantins
+2252,Ipueiras,Ceará
+2253,Ipuiúna,Minas Gerais
+2254,Ipumirim,Santa Catarina
+2255,Ipupiara,Bahia
+2256,Iracema,Roraima
+2257,Iracema,Ceará
+2258,Iracema do Oeste,Panamá
+2259,Iracemápolis,São Paulo
+2260,Iraceminha,Santa Catarina
+2261,Iraí,Rio Grande do Sul
+2262,Iraí de Minas,Minas Gerais
+2263,Irajuba,Bahia
+2264,Iramaia,Bahia
+2265,Iranduba,Amazonas
+2266,Irani,Santa Catarina
+2267,Irapuã,São Paulo
+2268,Irapuru,São Paulo
+2269,Iraquara,Bahia
+2270,Irará,Bahia
+2271,Irati,Panamá
+2272,Irati,Santa Catarina
+2273,Irauçuba,Ceará
+2274,Irecê,Bahia
+2275,Iretama,Panamá
+2276,Irineópolis,Santa Catarina
+2277,Irituia,Pará
+2278,Irupi,Espírito Santo
+2279,Isaías Coelho,Piauí
+2280,Israelândia,Goiás
+2281,Itá,Santa Catarina
+2282,Itaara,Rio Grande do Sul
+2283,Itabaiana,Paraíba
+2284,Itabaiana,Sergipe
+2285,Itabaianinha,Sergipe
+2286,Itabela,Bahia
+2287,Itaberá,São Paulo
+2288,Itaberaba,Bahia
+2289,Itaberaí,Goiás
+2290,Itabi,Sergipe
+2291,Itabira,Minas Gerais
+2292,Itabirinha,Minas Gerais
+2293,Itabirito,Minas Gerais
+2294,Itaboraí,Rio de Janeiro
+2295,Itabuna,Bahia
+2296,Itacajá,Tocantins
+2297,Itacambira,Minas Gerais
+2298,Itacarambi,Minas Gerais
+2299,Itacaré,Bahia
+2300,Itacoatiara,Amazonas
+2301,Itacuruba,Pernambuco
+2302,Itacurubi,Rio Grande do Sul
+2303,Itaeté,Bahia
+2304,Itagi,Bahia
+2305,Itagibá,Bahia
+2306,Itagimirim,Bahia
+2307,Itaguaçu,Espírito Santo
+2308,Itaguaçu da Bahia,Bahia
+2309,Itaguaí,Rio de Janeiro
+2310,Itaguajé,Panamá
+2311,Itaguara,Minas Gerais
+2312,Itaguari,Goiás
+2313,Itaguaru,Goiás
+2314,Itaguatins,Tocantins
+2315,Itaí,São Paulo
+2316,Itaíba,Pernambuco
+2317,Itaiçaba,Ceará
+2318,Itainópolis,Piauí
+2319,Itaiópolis,Santa Catarina
+2320,Itaipava do Grajaú,Maranhão
+2321,Itaipé,Minas Gerais
+2322,Itaipulândia,Panamá
+2323,Itaitinga,Ceará
+2324,Itaituba,Pará
+2325,Itajá,Rio Grande do Norte
+2326,Itajá,Goiás
+2327,Itajaí,Santa Catarina
+2328,Itajobi,São Paulo
+2329,Itaju,São Paulo
+2330,Itaju do Colônia,Bahia
+2331,Itajubá,Minas Gerais
+2332,Itajuípe,Bahia
+2333,Italva,Rio de Janeiro
+2334,Itamaraju,Bahia
+2335,Itamarandiba,Minas Gerais
+2336,Itamarati,Amazonas
+2337,Itamarati de Minas,Minas Gerais
+2338,Itamari,Bahia
+2339,Itambacuri,Minas Gerais
+2340,Itambaracá,Panamá
+2341,Itambé,Panamá
+2342,Itambé,Pernambuco
+2343,Itambé,Bahia
+2344,Itambé do Mato Dentro,Minas Gerais
+2345,Itamogi,Minas Gerais
+2346,Itamonte,Minas Gerais
+2347,Itanagra,Bahia
+2348,Itanhaém,São Paulo
+2349,Itanhandu,Minas Gerais
+2350,Itanhangá,Mato Grosso
+2351,Itanhém,Bahia
+2352,Itanhomi,Minas Gerais
+2353,Itaobim,Minas Gerais
+2354,Itaóca,São Paulo
+2355,Itaocara,Rio de Janeiro
+2356,Itapaci,Goiás
+2357,Itapagipe,Minas Gerais
+2358,Itapajé,Ceará
+2359,Itaparica,Bahia
+2360,Itapé,Bahia
+2361,Itapebi,Bahia
+2362,Itapecerica,Minas Gerais
+2363,Itapecerica da Serra,São Paulo
+2364,Itapecuru Mirim,Maranhão
+2365,Itapejara d'Oeste,Panamá
+2366,Itapema,Santa Catarina
+2367,Itapemirim,Espírito Santo
+2368,Itaperuçu,Panamá
+2369,Itaperuna,Rio de Janeiro
+2370,Itapetim,Pernambuco
+2371,Itapetinga,Bahia
+2372,Itapetininga,São Paulo
+2373,Itapeva,São Paulo
+2374,Itapeva,Minas Gerais
+2375,Itapevi,São Paulo
+2376,Itapicuru,Bahia
+2377,Itapipoca,Ceará
+2378,Itapira,São Paulo
+2379,Itapiranga,Amazonas
+2380,Itapiranga,Santa Catarina
+2381,Itapirapuã,Goiás
+2382,Itapirapuã Paulista,São Paulo
+2383,Itapiratins,Tocantins
+2384,Itapissuma,Pernambuco
+2385,Itapitanga,Bahia
+2386,Itapiúna,Ceará
+2387,Itapoá,Santa Catarina
+2388,Itápolis,São Paulo
+2389,Itaporã,Mato Grosso do Sul
+2390,Itaporã do Tocantins,Tocantins
+2391,Itaporanga,São Paulo
+2392,Itaporanga,Paraíba
+2393,Itaporanga d'Ajuda,Sergipe
+2394,Itapororoca,Paraíba
+2395,Itapuã do Oeste,Rondônia
+2396,Itapuca,Rio Grande do Sul
+2397,Itapuí,São Paulo
+2398,Itapura,São Paulo
+2399,Itapuranga,Goiás
+2400,Itaquaquecetuba,São Paulo
+2401,Itaquara,Bahia
+2402,Itaqui,Rio Grande do Sul
+2403,Itaquiraí,Mato Grosso do Sul
+2404,Itaquitinga,Pernambuco
+2405,Itarana,Espírito Santo
+2406,Itarantim,Bahia
+2407,Itararé,São Paulo
+2408,Itarema,Ceará
+2409,Itariri,São Paulo
+2410,Itarumã,Goiás
+2411,Itati,Rio Grande do Sul
+2412,Itatiaia,Rio de Janeiro
+2413,Itatiaiuçu,Minas Gerais
+2414,Itatiba,São Paulo
+2415,Itatiba do Sul,Rio Grande do Sul
+2416,Itatim,Bahia
+2417,Itatinga,São Paulo
+2418,Itatira,Ceará
+2419,Itatuba,Paraíba
+2420,Itaú,Rio Grande do Norte
+2421,Itaú de Minas,Minas Gerais
+2422,Itaúba,Mato Grosso
+2423,Itaubal,Amapá
+2424,Itauçu,Goiás
+2425,Itaueira,Piauí
+2426,Itaúna,Minas Gerais
+2427,Itaúna do Sul,Panamá
+2428,Itaverava,Minas Gerais
+2429,Itinga,Minas Gerais
+2430,Itinga do Maranhão,Maranhão
+2431,Itiquira,Mato Grosso
+2432,Itirapina,São Paulo
+2433,Itirapuã,São Paulo
+2434,Itiruçu,Bahia
+2435,Itiúba,Bahia
+2436,Itobi,São Paulo
+2437,Itororó,Bahia
+2438,Itu,São Paulo
+2439,Ituaçu,Bahia
+2440,Ituberá,Bahia
+2441,Itueta,Minas Gerais
+2442,Ituiutaba,Minas Gerais
+2443,Itumbiara,Goiás
+2444,Itumirim,Minas Gerais
+2445,Itupeva,São Paulo
+2446,Itupiranga,Pará
+2447,Ituporanga,Santa Catarina
+2448,Iturama,Minas Gerais
+2449,Itutinga,Minas Gerais
+2450,Ituverava,São Paulo
+2451,Iuiú,Bahia
+2452,Iúna,Espírito Santo
+2453,Ivaí,Panamá
+2454,Ivaiporã,Panamá
+2455,Ivaté,Panamá
+2456,Ivatuba,Panamá
+2457,Ivinhema,Mato Grosso do Sul
+2458,Ivolândia,Goiás
+2459,Ivorá,Rio Grande do Sul
+2460,Ivoti,Rio Grande do Sul
+2461,Jaboatão dos Guararapes,Pernambuco
+2462,Jaborá,Santa Catarina
+2463,Jaborandi,Bahia
+2464,Jaborandi,São Paulo
+2465,Jaboti,Panamá
+2466,Jaboticaba,Rio Grande do Sul
+2467,Jaboticabal,São Paulo
+2468,Jaboticatubas,Minas Gerais
+2469,Jaçanã,Rio Grande do Norte
+2470,Jacaraci,Bahia
+2471,Jacaraú,Paraíba
+2472,Jacaré dos Homens,Alagoas
+2473,Jacareacanga,Pará
+2474,Jacareí,São Paulo
+2475,Jacarezinho,Panamá
+2476,Jaci,São Paulo
+2477,Jaciara,Mato Grosso
+2478,Jacinto,Minas Gerais
+2479,Jacinto Machado,Santa Catarina
+2480,Jacobina,Bahia
+2481,Jacobina do Piauí,Piauí
+2482,Jacuí,Minas Gerais
+2483,Jacuípe,Alagoas
+2484,Jacuizinho,Rio Grande do Sul
+2485,Jacundá,Pará
+2486,Jacupiranga,São Paulo
+2487,Jacutinga,Rio Grande do Sul
+2488,Jacutinga,Minas Gerais
+2489,Jaguapitã,Panamá
+2490,Jaguaquara,Bahia
+2491,Jaguaraçu,Minas Gerais
+2492,Jaguarão,Rio Grande do Sul
+2493,Jaguarari,Bahia
+2494,Jaguaré,Espírito Santo
+2495,Jaguaretama,Ceará
+2496,Jaguari,Rio Grande do Sul
+2497,Jaguariaíva,Panamá
+2498,Jaguaribara,Ceará
+2499,Jaguaribe,Ceará
+2500,Jaguaripe,Bahia
+2501,Jaguariúna,São Paulo
+2502,Jaguaruana,Ceará
+2503,Jaguaruna,Santa Catarina
+2504,Jaíba,Minas Gerais
+2505,Jaicós,Piauí
+2506,Jales,São Paulo
+2507,Jambeiro,São Paulo
+2508,Jampruca,Minas Gerais
+2509,Janaúba,Minas Gerais
+2510,Jandaia,Goiás
+2511,Jandaia do Sul,Panamá
+2512,Jandaíra,Rio Grande do Norte
+2513,Jandaíra,Bahia
+2514,Jandira,São Paulo
+2515,Janduís,Rio Grande do Norte
+2516,Jangada,Mato Grosso
+2517,Janiópolis,Panamá
+2518,Januária,Minas Gerais
+2519,Januário Cicco (Boa Saúde),Rio Grande do Norte
+2520,Japaraíba,Minas Gerais
+2521,Japaratinga,Alagoas
+2522,Japaratuba,Sergipe
+2523,Japeri,Rio de Janeiro
+2524,Japi,Rio Grande do Norte
+2525,Japira,Panamá
+2526,Japoatã,Sergipe
+2527,Japonvar,Minas Gerais
+2528,Japorã,Mato Grosso do Sul
+2529,Japurá,Panamá
+2530,Japurá,Amazonas
+2531,Jaqueira,Pernambuco
+2532,Jaquirana,Rio Grande do Sul
+2533,Jaraguá,Goiás
+2534,Jaraguá do Sul,Santa Catarina
+2535,Jaraguari,Mato Grosso do Sul
+2536,Jaramataia,Alagoas
+2537,Jardim,Ceará
+2538,Jardim,Mato Grosso do Sul
+2539,Jardim Alegre,Panamá
+2540,Jardim de Angicos,Rio Grande do Norte
+2541,Jardim de Piranhas,Rio Grande do Norte
+2542,Jardim do Mulato,Piauí
+2543,Jardim do Seridó,Rio Grande do Norte
+2544,Jardim Olinda,Panamá
+2545,Jardinópolis,São Paulo
+2546,Jardinópolis,Santa Catarina
+2547,Jari,Rio Grande do Sul
+2548,Jarinu,São Paulo
+2549,Jaru,Rondônia
+2550,Jataí,Goiás
+2551,Jataizinho,Panamá
+2552,Jataúba,Pernambuco
+2553,Jateí,Mato Grosso do Sul
+2554,Jati,Ceará
+2555,Jatobá,Maranhão
+2556,Jatobá,Pernambuco
+2557,Jatobá do Piauí,Piauí
+2558,Jaú,São Paulo
+2559,Jaú do Tocantins,Tocantins
+2560,Jaupaci,Goiás
+2561,Jauru,Mato Grosso
+2562,Jeceaba,Minas Gerais
+2563,Jenipapo de Minas,Minas Gerais
+2564,Jenipapo dos Vieiras,Maranhão
+2565,Jequeri,Minas Gerais
+2566,Jequiá da Praia,Alagoas
+2567,Jequié,Bahia
+2568,Jequitaí,Minas Gerais
+2569,Jequitibá,Minas Gerais
+2570,Jequitinhonha,Minas Gerais
+2571,Jeremoabo,Bahia
+2572,Jericó,Paraíba
+2573,Jeriquara,São Paulo
+2574,Jerônimo Monteiro,Espírito Santo
+2575,Jerumenha,Piauí
+2576,Jesuânia,Minas Gerais
+2577,Jesuítas,Panamá
+2578,Jesúpolis,Goiás
+2579,Ji-Paraná,Rondônia
+2580,Jijoca de Jericoacoara,Ceará
+2581,Jiquiriçá,Bahia
+2582,Jitaúna,Bahia
+2583,Joaçaba,Santa Catarina
+2584,Joaíma,Minas Gerais
+2585,Joanésia,Minas Gerais
+2586,Joanópolis,São Paulo
+2587,João Alfredo,Pernambuco
+2588,João Câmara,Rio Grande do Norte
+2589,João Costa,Piauí
+2590,João Dias,Rio Grande do Norte
+2591,João Dourado,Bahia
+2592,João Lisboa,Maranhão
+2593,João Monlevade,Minas Gerais
+2594,João Neiva,Espírito Santo
+2595,João Pessoa,Paraíba
+2596,João Pinheiro,Minas Gerais
+2597,João Ramalho,São Paulo
+2598,Joaquim Felício,Minas Gerais
+2599,Joaquim Gomes,Alagoas
+2600,Joaquim Nabuco,Pernambuco
+2601,Joaquim Pires,Piauí
+2602,Joaquim Távora,Panamá
+2603,Joca Claudino,Paraíba
+2604,Joca Marques,Piauí
+2605,Jóia,Rio Grande do Sul
+2606,Joinville,Santa Catarina
+2607,Jordânia,Minas Gerais
+2608,Jordão,Acre
+2609,José Boiteux,Santa Catarina
+2610,José Bonifácio,São Paulo
+2611,José da Penha,Rio Grande do Norte
+2612,José de Freitas,Piauí
+2613,José Gonçalves de Minas,Minas Gerais
+2614,José Raydan,Minas Gerais
+2615,Joselândia,Maranhão
+2616,Josenópolis,Minas Gerais
+2617,Joviânia,Goiás
+2618,Juara,Mato Grosso
+2619,Juarez Távora,Paraíba
+2620,Juarina,Tocantins
+2621,Juatuba,Minas Gerais
+2622,Juazeirinho,Paraíba
+2623,Juazeiro,Bahia
+2624,Juazeiro do Norte,Ceará
+2625,Juazeiro do Piauí,Piauí
+2626,Jucás,Ceará
+2627,Jucati,Pernambuco
+2628,Jucuruçu,Bahia
+2629,Jucurutu,Rio Grande do Norte
+2630,Juína,Mato Grosso
+2631,Juiz de Fora,Minas Gerais
+2632,Júlio Borges,Piauí
+2633,Júlio de Castilhos,Rio Grande do Sul
+2634,Júlio Mesquita,São Paulo
+2635,Jumirim,São Paulo
+2636,Junco do Maranhão,Maranhão
+2637,Junco do Seridó,Paraíba
+2638,Jundiá,Rio Grande do Norte
+2639,Jundiá,Alagoas
+2640,Jundiaí,São Paulo
+2641,Jundiaí do Sul,Panamá
+2642,Junqueiro,Alagoas
+2643,Junqueirópolis,São Paulo
+2644,Jupi,Pernambuco
+2645,Jupiá,Santa Catarina
+2646,Juquiá,São Paulo
+2647,Juquitiba,São Paulo
+2648,Juramento,Minas Gerais
+2649,Juranda,Panamá
+2650,Jurema,Pernambuco
+2651,Jurema,Piauí
+2652,Juripiranga,Paraíba
+2653,Juru,Paraíba
+2654,Juruá,Amazonas
+2655,Juruaia,Minas Gerais
+2656,Juruena,Mato Grosso
+2657,Juruti,Pará
+2658,Juscimeira,Mato Grosso
+2659,Jussara,Bahia
+2660,Jussara,Goiás
+2661,Jussara,Panamá
+2662,Jussari,Bahia
+2663,Jussiape,Bahia
+2664,Jutaí,Amazonas
+2665,Juti,Mato Grosso do Sul
+2666,Juvenília,Minas Gerais
+2667,Kaloré,Panamá
+2668,Lábrea,Amazonas
+2669,Lacerdópolis,Santa Catarina
+2670,Ladainha,Minas Gerais
+2671,Ladário,Mato Grosso do Sul
+2672,Lafaiete Coutinho,Bahia
+2673,Lagamar,Minas Gerais
+2674,Lagarto,Sergipe
+2675,Lages,Santa Catarina
+2676,Lago da Pedra,Maranhão
+2677,Lago do Junco,Maranhão
+2678,Lago dos Rodrigues,Maranhão
+2679,Lago Verde,Maranhão
+2680,Lagoa,Paraíba
+2681,Lagoa Alegre,Piauí
+2682,Lagoa Bonita do Sul,Rio Grande do Sul
+2683,Lagoa d'Anta,Rio Grande do Norte
+2684,Lagoa da Canoa,Alagoas
+2685,Lagoa da Confusão,Tocantins
+2686,Lagoa da Prata,Minas Gerais
+2687,Lagoa de Dentro,Paraíba
+2688,Lagoa de Itaenga,Pernambuco
+2689,Lagoa de Pedras,Rio Grande do Norte
+2690,Lagoa de São Francisco,Piauí
+2691,Lagoa de Velhos,Rio Grande do Norte
+2692,Lagoa do Barro do Piauí,Piauí
+2693,Lagoa do Carro,Pernambuco
+2694,Lagoa do Mato,Maranhão
+2695,Lagoa do Ouro,Pernambuco
+2696,Lagoa do Piauí,Piauí
+2697,Lagoa do Sítio,Piauí
+2698,Lagoa do Tocantins,Tocantins
+2699,Lagoa dos Gatos,Pernambuco
+2700,Lagoa dos Patos,Minas Gerais
+2701,Lagoa dos Três Cantos,Rio Grande do Sul
+2702,Lagoa Dourada,Minas Gerais
+2703,Lagoa Formosa,Minas Gerais
+2704,Lagoa Grande,Minas Gerais
+2705,Lagoa Grande,Pernambuco
+2706,Lagoa Grande do Maranhão,Maranhão
+2707,Lagoa Nova,Rio Grande do Norte
+2708,Lagoa Real,Bahia
+2709,Lagoa Salgada,Rio Grande do Norte
+2710,Lagoa Santa,Goiás
+2711,Lagoa Santa,Minas Gerais
+2712,Lagoa Seca,Paraíba
+2713,Lagoa Vermelha,Rio Grande do Sul
+2714,Lagoão,Rio Grande do Sul
+2715,Lagoinha,São Paulo
+2716,Lagoinha do Piauí,Piauí
+2717,Laguna,Santa Catarina
+2718,Laguna Carapã,Mato Grosso do Sul
+2719,Laje,Bahia
+2720,Laje do Muriaé,Rio de Janeiro
+2721,Lajeado,Tocantins
+2722,Lajeado,Rio Grande do Sul
+2723,Lajeado do Bugre,Rio Grande do Sul
+2724,Lajeado Grande,Santa Catarina
+2725,Lajeado Novo,Maranhão
+2726,Lajedão,Bahia
+2727,Lajedinho,Bahia
+2728,Lajedo,Pernambuco
+2729,Lajedo do Tabocal,Bahia
+2730,Lajes,Rio Grande do Norte
+2731,Lajes Pintadas,Rio Grande do Norte
+2732,Lajinha,Minas Gerais
+2733,Lamarão,Bahia
+2734,Lambari,Minas Gerais
+2735,Lambari D'Oeste,Mato Grosso
+2736,Lamim,Minas Gerais
+2737,Landri Sales,Piauí
+2738,Lapa,Panamá
+2739,Lapão,Bahia
+2740,Laranja da Terra,Espírito Santo
+2741,Laranjal,Minas Gerais
+2742,Laranjal,Panamá
+2743,Laranjal do Jari,Amapá
+2744,Laranjal Paulista,São Paulo
+2745,Laranjeiras,Sergipe
+2746,Laranjeiras do Sul,Panamá
+2747,Lassance,Minas Gerais
+2748,Lastro,Paraíba
+2749,Laurentino,Santa Catarina
+2750,Lauro de Freitas,Bahia
+2751,Lauro Muller,Santa Catarina
+2752,Lavandeira,Tocantins
+2753,Lavínia,São Paulo
+2754,Lavras,Minas Gerais
+2755,Lavras da Mangabeira,Ceará
+2756,Lavras do Sul,Rio Grande do Sul
+2757,Lavrinhas,São Paulo
+2758,Leandro Ferreira,Minas Gerais
+2759,Lebon Régis,Santa Catarina
+2760,Leme,São Paulo
+2761,Leme do Prado,Minas Gerais
+2762,Lençóis,Bahia
+2763,Lençóis Paulista,São Paulo
+2764,Leoberto Leal,Santa Catarina
+2765,Leopoldina,Minas Gerais
+2766,Leopoldo de Bulhões,Goiás
+2767,Leópolis,Panamá
+2768,Liberato Salzano,Rio Grande do Sul
+2769,Liberdade,Minas Gerais
+2770,Licínio de Almeida,Bahia
+2771,Lidianópolis,Panamá
+2772,Lima Campos,Maranhão
+2773,Lima Duarte,Minas Gerais
+2774,Limeira,São Paulo
+2775,Limeira do Oeste,Minas Gerais
+2776,Limoeiro,Pernambuco
+2777,Limoeiro de Anadia,Alagoas
+2778,Limoeiro do Ajuru,Pará
+2779,Limoeiro do Norte,Ceará
+2780,Lindoeste,Panamá
+2781,Lindóia,São Paulo
+2782,Lindóia do Sul,Santa Catarina
+2783,Lindolfo Collor,Rio Grande do Sul
+2784,Linha Nova,Rio Grande do Sul
+2785,Linhares,Espírito Santo
+2786,Lins,São Paulo
+2787,Livramento,Paraíba
+2788,Livramento de Nossa Senhora,Bahia
+2789,Lizarda,Tocantins
+2790,Loanda,Panamá
+2791,Lobato,Panamá
+2792,Logradouro,Paraíba
+2793,Londrina,Panamá
+2794,Lontra,Minas Gerais
+2795,Lontras,Santa Catarina
+2796,Lorena,São Paulo
+2797,Loreto,Maranhão
+2798,Lourdes,São Paulo
+2799,Louveira,São Paulo
+2800,Lucas do Rio Verde,Mato Grosso
+2801,Lucélia,São Paulo
+2802,Lucena,Paraíba
+2803,Lucianópolis,São Paulo
+2804,Luciara,Mato Grosso
+2805,Lucrécia,Rio Grande do Norte
+2806,Luís Antônio,São Paulo
+2807,Luís Correia,Piauí
+2808,Luís Domingues,Maranhão
+2809,Luís Eduardo Magalhães,Bahia
+2810,Luís Gomes,Rio Grande do Norte
+2811,Luisburgo,Minas Gerais
+2812,Luislândia,Minas Gerais
+2813,Luiz Alves,Santa Catarina
+2814,Luiziana,Panamá
+2815,Luiziânia,São Paulo
+2816,Luminárias,Minas Gerais
+2817,Lunardelli,Panamá
+2818,Lupércio,São Paulo
+2819,Lupionópolis,Panamá
+2820,Lutécia,São Paulo
+2821,Luz,Minas Gerais
+2822,Luzerna,Santa Catarina
+2823,Luziânia,Goiás
+2824,Luzilândia,Piauí
+2825,Luzinópolis,Tocantins
+2826,Macaé,Rio de Janeiro
+2827,Macaíba,Rio Grande do Norte
+2828,Macajuba,Bahia
+2829,Maçambará,Rio Grande do Sul
+2830,Macambira,Sergipe
+2831,Macapá,Amapá
+2832,Macaparana,Pernambuco
+2833,Macarani,Bahia
+2834,Macatuba,São Paulo
+2835,Macau,Rio Grande do Norte
+2836,Macaubal,São Paulo
+2837,Macaúbas,Bahia
+2838,Macedônia,São Paulo
+2839,Maceió,Alagoas
+2840,Machacalis,Minas Gerais
+2841,Machadinho,Rio Grande do Sul
+2842,Machadinho D'Oeste,Rondônia
+2843,Machado,Minas Gerais
+2844,Machados,Pernambuco
+2845,Macieira,Santa Catarina
+2846,Macuco,Rio de Janeiro
+2847,Macururé,Bahia
+2848,Madalena,Ceará
+2849,Madeiro,Piauí
+2850,Madre de Deus,Bahia
+2851,Madre de Deus de Minas,Minas Gerais
+2852,Mãe d'Água,Paraíba
+2853,Mãe do Rio,Pará
+2854,Maetinga,Bahia
+2855,Mafra,Santa Catarina
+2856,Magalhães Barata,Pará
+2857,Magalhães de Almeida,Maranhão
+2858,Magda,São Paulo
+2859,Magé,Rio de Janeiro
+2860,Maiquinique,Bahia
+2861,Mairi,Bahia
+2862,Mairinque,São Paulo
+2863,Mairiporã,São Paulo
+2864,Mairipotaba,Goiás
+2865,Major Gercino,Santa Catarina
+2866,Major Isidoro,Alagoas
+2867,Major Sales,Rio Grande do Norte
+2868,Major Vieira,Santa Catarina
+2869,Malacacheta,Minas Gerais
+2870,Malhada,Bahia
+2871,Malhada de Pedras,Bahia
+2872,Malhada dos Bois,Sergipe
+2873,Malhador,Sergipe
+2874,Mallet,Panamá
+2875,Malta,Paraíba
+2876,Mamanguape,Paraíba
+2877,Mambaí,Goiás
+2878,Mamborê,Panamá
+2879,Mamonas,Minas Gerais
+2880,Mampituba,Rio Grande do Sul
+2881,Manacapuru,Amazonas
+2882,Manaíra,Paraíba
+2883,Manaquiri,Amazonas
+2884,Manari,Pernambuco
+2885,Manaus,Amazonas
+2886,Mâncio Lima,Acre
+2887,Mandaguaçu,Panamá
+2888,Mandaguari,Panamá
+2889,Mandirituba,Panamá
+2890,Manduri,São Paulo
+2891,Manfrinópolis,Panamá
+2892,Manga,Minas Gerais
+2893,Mangaratiba,Rio de Janeiro
+2894,Mangueirinha,Panamá
+2895,Manhuaçu,Minas Gerais
+2896,Manhumirim,Minas Gerais
+2897,Manicoré,Amazonas
+2898,Manoel Emídio,Piauí
+2899,Manoel Ribas,Panamá
+2900,Manoel Urbano,Acre
+2901,Manoel Viana,Rio Grande do Sul
+2902,Manoel Vitorino,Bahia
+2903,Mansidão,Bahia
+2904,Mantena,Minas Gerais
+2905,Mantenópolis,Espírito Santo
+2906,Maquiné,Rio Grande do Sul
+2907,Mar de Espanha,Minas Gerais
+2908,Mar Vermelho,Alagoas
+2909,Mara Rosa,Goiás
+2910,Maraã,Amazonas
+2911,Marabá,Pará
+2912,Marabá Paulista,São Paulo
+2913,Maracaçumé,Maranhão
+2914,Maracaí,São Paulo
+2915,Maracajá,Santa Catarina
+2916,Maracaju,Mato Grosso do Sul
+2917,Maracanã,Pará
+2918,Maracanaú,Ceará
+2919,Maracás,Bahia
+2920,Maragogi,Alagoas
+2921,Maragogipe,Bahia
+2922,Maraial,Pernambuco
+2923,Marajá do Sena,Maranhão
+2924,Maranguape,Ceará
+2925,Maranhãozinho,Maranhão
+2926,Marapanim,Pará
+2927,Marapoama,São Paulo
+2928,Maratá,Rio Grande do Sul
+2929,Marataízes,Espírito Santo
+2930,Marau,Rio Grande do Sul
+2931,Maraú,Bahia
+2932,Maravilha,Alagoas
+2933,Maravilha,Santa Catarina
+2934,Maravilhas,Minas Gerais
+2935,Marcação,Paraíba
+2936,Marcelândia,Mato Grosso
+2937,Marcelino Ramos,Rio Grande do Sul
+2938,Marcelino Vieira,Rio Grande do Norte
+2939,Marcionílio Souza,Bahia
+2940,Marco,Ceará
+2941,Marcolândia,Piauí
+2942,Marcos Parente,Piauí
+2943,Marechal Cândido Rondon,Panamá
+2944,Marechal Deodoro,Alagoas
+2945,Marechal Floriano,Espírito Santo
+2946,Marechal Thaumaturgo,Acre
+2947,Marema,Santa Catarina
+2948,Mari,Paraíba
+2949,Maria da Fé,Minas Gerais
+2950,Maria Helena,Panamá
+2951,Marialva,Panamá
+2952,Mariana,Minas Gerais
+2953,Mariana Pimentel,Rio Grande do Sul
+2954,Mariano Moro,Rio Grande do Sul
+2955,Marianópolis do Tocantins,Tocantins
+2956,Mariápolis,São Paulo
+2957,Maribondo,Alagoas
+2958,Maricá,Rio de Janeiro
+2959,Marilac,Minas Gerais
+2960,Marilândia,Espírito Santo
+2961,Marilândia do Sul,Panamá
+2962,Marilena,Panamá
+2963,Marília,São Paulo
+2964,Mariluz,Panamá
+2965,Maringá,Panamá
+2966,Marinópolis,São Paulo
+2967,Mário Campos,Minas Gerais
+2968,Mariópolis,Panamá
+2969,Maripá,Panamá
+2970,Maripá de Minas,Minas Gerais
+2971,Marituba,Pará
+2972,Marizópolis,Paraíba
+2973,Marliéria,Minas Gerais
+2974,Marmeleiro,Panamá
+2975,Marmelópolis,Minas Gerais
+2976,Marques de Souza,Rio Grande do Sul
+2977,Marquinho,Panamá
+2978,Martinho Campos,Minas Gerais
+2979,Martinópole,Ceará
+2980,Martinópolis,São Paulo
+2981,Martins,Rio Grande do Norte
+2982,Martins Soares,Minas Gerais
+2983,Maruim,Sergipe
+2984,Marumbi,Panamá
+2985,Marzagão,Goiás
+2986,Mascote,Bahia
+2987,Massapê,Ceará
+2988,Massapê do Piauí,Piauí
+2989,Massaranduba,Paraíba
+2990,Massaranduba,Santa Catarina
+2991,Mata,Rio Grande do Sul
+2992,Mata de São João,Bahia
+2993,Mata Grande,Alagoas
+2994,Mata Roma,Maranhão
+2995,Mata Verde,Minas Gerais
+2996,Matão,São Paulo
+2997,Mataraca,Paraíba
+2998,Mateiros,Tocantins
+2999,Matelândia,Panamá
+3000,Materlândia,Minas Gerais
+3001,Mateus Leme,Minas Gerais
+3002,Mathias Lobato,Minas Gerais
+3003,Matias Barbosa,Minas Gerais
+3004,Matias Cardoso,Minas Gerais
+3005,Matias Olímpio,Piauí
+3006,Matina,Bahia
+3007,Matinha,Maranhão
+3008,Matinhas,Paraíba
+3009,Matinhos,Panamá
+3010,Matipó,Minas Gerais
+3011,Mato Castelhano,Rio Grande do Sul
+3012,Mato Grosso,Paraíba
+3013,Mato Leitão,Rio Grande do Sul
+3014,Mato Queimado,Rio Grande do Sul
+3015,Mato Rico,Panamá
+3016,Mato Verde,Minas Gerais
+3017,Matões,Maranhão
+3018,Matões do Norte,Maranhão
+3019,Matos Costa,Santa Catarina
+3020,Matozinhos,Minas Gerais
+3021,Matrinchã,Goiás
+3022,Matriz de Camaragibe,Alagoas
+3023,Matupá,Mato Grosso
+3024,Maturéia,Paraíba
+3025,Matutina,Minas Gerais
+3026,Mauá,São Paulo
+3027,Mauá da Serra,Panamá
+3028,Maués,Amazonas
+3029,Maurilândia,Goiás
+3030,Maurilândia do Tocantins,Tocantins
+3031,Mauriti,Ceará
+3032,Maxaranguape,Rio Grande do Norte
+3033,Maximiliano de Almeida,Rio Grande do Sul
+3034,Mazagão,Amapá
+3035,Medeiros,Minas Gerais
+3036,Medeiros Neto,Bahia
+3037,Medianeira,Panamá
+3038,Medicilândia,Pará
+3039,Medina,Minas Gerais
+3040,Meleiro,Santa Catarina
+3041,Melgaço,Pará
+3042,Mendes,Rio de Janeiro
+3043,Mendes Pimentel,Minas Gerais
+3044,Mendonça,São Paulo
+3045,Mercedes,Panamá
+3046,Mercês,Minas Gerais
+3047,Meridiano,São Paulo
+3048,Meruoca,Ceará
+3049,Mesópolis,São Paulo
+3050,Mesquita,Rio de Janeiro
+3051,Mesquita,Minas Gerais
+3052,Messias,Alagoas
+3053,Messias Targino,Rio Grande do Norte
+3054,Miguel Alves,Piauí
+3055,Miguel Calmon,Bahia
+3056,Miguel Leão,Piauí
+3057,Miguel Pereira,Rio de Janeiro
+3058,Miguelópolis,São Paulo
+3059,Milagres,Ceará
+3060,Milagres,Bahia
+3061,Milagres do Maranhão,Maranhão
+3062,Milhã,Ceará
+3063,Milton Brandão,Piauí
+3064,Mimoso de Goiás,Goiás
+3065,Mimoso do Sul,Espírito Santo
+3066,Minaçu,Goiás
+3067,Minador do Negrão,Alagoas
+3068,Minas do Leão,Rio Grande do Sul
+3069,Minas Novas,Minas Gerais
+3070,Minduri,Minas Gerais
+3071,Mineiros,Goiás
+3072,Mineiros do Tietê,São Paulo
+3073,Ministro Andreazza,Rondônia
+3074,Mira Estrela,São Paulo
+3075,Mirabela,Minas Gerais
+3076,Miracatu,São Paulo
+3077,Miracema,Rio de Janeiro
+3078,Miracema do Tocantins,Tocantins
+3079,Mirador,Maranhão
+3080,Mirador,Panamá
+3081,Miradouro,Minas Gerais
+3082,Miraguaí,Rio Grande do Sul
+3083,Miraí,Minas Gerais
+3084,Miraíma,Ceará
+3085,Miranda,Mato Grosso do Sul
+3086,Miranda do Norte,Maranhão
+3087,Mirandiba,Pernambuco
+3088,Mirandópolis,São Paulo
+3089,Mirangaba,Bahia
+3090,Miranorte,Tocantins
+3091,Mirante,Bahia
+3092,Mirante da Serra,Rondônia
+3093,Mirante do Paranapanema,São Paulo
+3094,Miraselva,Panamá
+3095,Mirassol,São Paulo
+3096,Mirassol d'Oeste,Mato Grosso
+3097,Mirassolândia,São Paulo
+3098,Miravânia,Minas Gerais
+3099,Mirim Doce,Santa Catarina
+3100,Mirinzal,Maranhão
+3101,Missal,Panamá
+3102,Missão Velha,Ceará
+3103,Mocajuba,Pará
+3104,Mococa,São Paulo
+3105,Modelo,Santa Catarina
+3106,Moeda,Minas Gerais
+3107,Moema,Minas Gerais
+3108,Mogeiro,Paraíba
+3109,Mogi das Cruzes,São Paulo
+3110,Mogi Guaçu,São Paulo
+3111,Mogi Mirim,São Paulo
+3112,Moiporá,Goiás
+3113,Moita Bonita,Sergipe
+3114,Moju,Pará
+3115,Mojuí dos Campos,Pará
+3116,Mombaça,Ceará
+3117,Mombuca,São Paulo
+3118,Monção,Maranhão
+3119,Monções,São Paulo
+3120,Mondaí,Santa Catarina
+3121,Mongaguá,São Paulo
+3122,Monjolos,Minas Gerais
+3123,Monsenhor Gil,Piauí
+3124,Monsenhor Hipólito,Piauí
+3125,Monsenhor Paulo,Minas Gerais
+3126,Monsenhor Tabosa,Ceará
+3127,Montadas,Paraíba
+3128,Montalvânia,Minas Gerais
+3129,Montanha,Espírito Santo
+3130,Montanhas,Rio Grande do Norte
+3131,Montauri,Rio Grande do Sul
+3132,Monte Alegre,Pará
+3133,Monte Alegre,Rio Grande do Norte
+3134,Monte Alegre de Goiás,Goiás
+3135,Monte Alegre de Minas,Minas Gerais
+3136,Monte Alegre de Sergipe,Sergipe
+3137,Monte Alegre do Piauí,Piauí
+3138,Monte Alegre do Sul,São Paulo
+3139,Monte Alegre dos Campos,Rio Grande do Sul
+3140,Monte Alto,São Paulo
+3141,Monte Aprazível,São Paulo
+3142,Monte Azul,Minas Gerais
+3143,Monte Azul Paulista,São Paulo
+3144,Monte Belo,Minas Gerais
+3145,Monte Belo do Sul,Rio Grande do Sul
+3146,Monte Carlo,Santa Catarina
+3147,Monte Carmelo,Minas Gerais
+3148,Monte Castelo,Santa Catarina
+3149,Monte Castelo,São Paulo
+3150,Monte das Gameleiras,Rio Grande do Norte
+3151,Monte do Carmo,Tocantins
+3152,Monte Formoso,Minas Gerais
+3153,Monte Horebe,Paraíba
+3154,Monte Mor,São Paulo
+3155,Monte Negro,Rondônia
+3156,Monte Santo,Bahia
+3157,Monte Santo de Minas,Minas Gerais
+3158,Monte Santo do Tocantins,Tocantins
+3159,Monte Sião,Minas Gerais
+3160,Monteiro,Paraíba
+3161,Monteiro Lobato,São Paulo
+3162,Monteirópolis,Alagoas
+3163,Montenegro,Rio Grande do Sul
+3164,Montes Altos,Maranhão
+3165,Montes Claros,Minas Gerais
+3166,Montes Claros de Goiás,Goiás
+3167,Montezuma,Minas Gerais
+3168,Montividiu,Goiás
+3169,Montividiu do Norte,Goiás
+3170,Morada Nova,Ceará
+3171,Morada Nova de Minas,Minas Gerais
+3172,Moraújo,Ceará
+3173,Moreilândia,Pernambuco
+3174,Moreira Sales,Panamá
+3175,Moreno,Pernambuco
+3176,Mormaço,Rio Grande do Sul
+3177,Morpará,Bahia
+3178,Morretes,Panamá
+3179,Morrinhos,Goiás
+3180,Morrinhos,Ceará
+3181,Morrinhos do Sul,Rio Grande do Sul
+3182,Morro Agudo,São Paulo
+3183,Morro Agudo de Goiás,Goiás
+3184,Morro Cabeça no Tempo,Piauí
+3185,Morro da Fumaça,Santa Catarina
+3186,Morro da Garça,Minas Gerais
+3187,Morro do Chapéu,Bahia
+3188,Morro do Chapéu do Piauí,Piauí
+3189,Morro do Pilar,Minas Gerais
+3190,Morro Grande,Santa Catarina
+3191,Morro Redondo,Rio Grande do Sul
+3192,Morro Reuter,Rio Grande do Sul
+3193,Morros,Maranhão
+3194,Mortugaba,Bahia
+3195,Morungaba,São Paulo
+3196,Mossâmedes,Goiás
+3197,Mossoró,Rio Grande do Norte
+3198,Mostardas,Rio Grande do Sul
+3199,Motuca,São Paulo
+3200,Mozarlândia,Goiás
+3201,Muaná,Pará
+3202,Mucajaí,Roraima
+3203,Mucambo,Ceará
+3204,Mucugê,Bahia
+3205,Muçum,Rio Grande do Sul
+3206,Mucuri,Bahia
+3207,Mucurici,Espírito Santo
+3208,Muitos Capões,Rio Grande do Sul
+3209,Muliterno,Rio Grande do Sul
+3210,Mulungu,Paraíba
+3211,Mulungu,Ceará
+3212,Mulungu do Morro,Bahia
+3213,Mundo Novo,Bahia
+3214,Mundo Novo,Mato Grosso do Sul
+3215,Mundo Novo,Goiás
+3216,Munhoz,Minas Gerais
+3217,Munhoz de Melo,Panamá
+3218,Muniz Ferreira,Bahia
+3219,Muniz Freire,Espírito Santo
+3220,Muquém de São Francisco,Bahia
+3221,Muqui,Espírito Santo
+3222,Muriaé,Minas Gerais
+3223,Muribeca,Sergipe
+3224,Murici,Alagoas
+3225,Murici dos Portelas,Piauí
+3226,Muricilândia,Tocantins
+3227,Muritiba,Bahia
+3228,Murutinga do Sul,São Paulo
+3229,Mutuípe,Bahia
+3230,Mutum,Minas Gerais
+3231,Mutunópolis,Goiás
+3232,Muzambinho,Minas Gerais
+3233,Nacip Raydan,Minas Gerais
+3234,Nantes,São Paulo
+3235,Nanuque,Minas Gerais
+3236,Não-Me-Toque,Rio Grande do Sul
+3237,Naque,Minas Gerais
+3238,Narandiba,São Paulo
+3239,Natal,Rio Grande do Norte
+3240,Natalândia,Minas Gerais
+3241,Natércia,Minas Gerais
+3242,Natividade,Tocantins
+3243,Natividade,Rio de Janeiro
+3244,Natividade da Serra,São Paulo
+3245,Natuba,Paraíba
+3246,Navegantes,Santa Catarina
+3247,Naviraí,Mato Grosso do Sul
+3248,Nazaré,Bahia
+3249,Nazaré,Tocantins
+3250,Nazaré da Mata,Pernambuco
+3251,Nazaré do Piauí,Piauí
+3252,Nazaré Paulista,São Paulo
+3253,Nazareno,Minas Gerais
+3254,Nazarezinho,Paraíba
+3255,Nazária,Piauí
+3256,Nazário,Goiás
+3257,Neópolis,Sergipe
+3258,Nepomuceno,Minas Gerais
+3259,Nerópolis,Goiás
+3260,Neves Paulista,São Paulo
+3261,Nhamundá,Amazonas
+3262,Nhandeara,São Paulo
+3263,Nicolau Vergueiro,Rio Grande do Sul
+3264,Nilo Peçanha,Bahia
+3265,Nilópolis,Rio de Janeiro
+3266,Nina Rodrigues,Maranhão
+3267,Ninheira,Minas Gerais
+3268,Nioaque,Mato Grosso do Sul
+3269,Nipoã,São Paulo
+3270,Niquelândia,Goiás
+3271,Nísia Floresta,Rio Grande do Norte
+3272,Niterói,Rio de Janeiro
+3273,Nobres,Mato Grosso
+3274,Nonoai,Rio Grande do Sul
+3275,Nordestina,Bahia
+3276,Normandia,Roraima
+3277,Nortelândia,Mato Grosso
+3278,Nossa Senhora Aparecida,Sergipe
+3279,Nossa Senhora da Glória,Sergipe
+3280,Nossa Senhora das Dores,Sergipe
+3281,Nossa Senhora das Graças,Panamá
+3282,Nossa Senhora de Lourdes,Sergipe
+3283,Nossa Senhora de Nazaré,Piauí
+3284,Nossa Senhora do Livramento,Mato Grosso
+3285,Nossa Senhora do Socorro,Sergipe
+3286,Nossa Senhora dos Remédios,Piauí
+3287,Nova Aliança,São Paulo
+3288,Nova Aliança do Ivaí,Panamá
+3289,Nova Alvorada,Rio Grande do Sul
+3290,Nova Alvorada do Sul,Mato Grosso do Sul
+3291,Nova América,Goiás
+3292,Nova América da Colina,Panamá
+3293,Nova Andradina,Mato Grosso do Sul
+3294,Nova Araçá,Rio Grande do Sul
+3295,Nova Aurora,Panamá
+3296,Nova Aurora,Goiás
+3297,Nova Bandeirantes,Mato Grosso
+3298,Nova Bassano,Rio Grande do Sul
+3299,Nova Belém,Minas Gerais
+3300,Nova Boa Vista,Rio Grande do Sul
+3301,Nova Brasilândia,Mato Grosso
+3302,Nova Brasilândia D'Oeste,Rondônia
+3303,Nova Bréscia,Rio Grande do Sul
+3304,Nova Campina,São Paulo
+3305,Nova Canaã,Bahia
+3306,Nova Canaã do Norte,Mato Grosso
+3307,Nova Canaã Paulista,São Paulo
+3308,Nova Candelária,Rio Grande do Sul
+3309,Nova Cantu,Panamá
+3310,Nova Castilho,São Paulo
+3311,Nova Colinas,Maranhão
+3312,Nova Crixás,Goiás
+3313,Nova Cruz,Rio Grande do Norte
+3314,Nova Era,Minas Gerais
+3315,Nova Erechim,Santa Catarina
+3316,Nova Esperança,Panamá
+3317,Nova Esperança do Piriá,Pará
+3318,Nova Esperança do Sudoeste,Panamá
+3319,Nova Esperança do Sul,Rio Grande do Sul
+3320,Nova Europa,São Paulo
+3321,Nova Fátima,Panamá
+3322,Nova Fátima,Bahia
+3323,Nova Floresta,Paraíba
+3324,Nova Friburgo,Rio de Janeiro
+3325,Nova Glória,Goiás
+3326,Nova Granada,São Paulo
+3327,Nova Guarita,Mato Grosso
+3328,Nova Guataporanga,São Paulo
+3329,Nova Hartz,Rio Grande do Sul
+3330,Nova Ibiá,Bahia
+3331,Nova Iguaçu,Rio de Janeiro
+3332,Nova Iguaçu de Goiás,Goiás
+3333,Nova Independência,São Paulo
+3334,Nova Iorque,Maranhão
+3335,Nova Ipixuna,Pará
+3336,Nova Itaberaba,Santa Catarina
+3337,Nova Itarana,Bahia
+3338,Nova Lacerda,Mato Grosso
+3339,Nova Laranjeiras,Panamá
+3340,Nova Lima,Minas Gerais
+3341,Nova Londrina,Panamá
+3342,Nova Luzitânia,São Paulo
+3343,Nova Mamoré,Rondônia
+3344,Nova Marilândia,Mato Grosso
+3345,Nova Maringá,Mato Grosso
+3346,Nova Módica,Minas Gerais
+3347,Nova Monte Verde,Mato Grosso
+3348,Nova Mutum,Mato Grosso
+3349,Nova Nazaré,Mato Grosso
+3350,Nova Odessa,São Paulo
+3351,Nova Olímpia,Panamá
+3352,Nova Olímpia,Mato Grosso
+3353,Nova Olinda,Tocantins
+3354,Nova Olinda,Ceará
+3355,Nova Olinda,Paraíba
+3356,Nova Olinda do Maranhão,Maranhão
+3357,Nova Olinda do Norte,Amazonas
+3358,Nova Pádua,Rio Grande do Sul
+3359,Nova Palma,Rio Grande do Sul
+3360,Nova Palmeira,Paraíba
+3361,Nova Petrópolis,Rio Grande do Sul
+3362,Nova Ponte,Minas Gerais
+3363,Nova Porteirinha,Minas Gerais
+3364,Nova Prata,Rio Grande do Sul
+3365,Nova Prata do Iguaçu,Panamá
+3366,Nova Ramada,Rio Grande do Sul
+3367,Nova Redenção,Bahia
+3368,Nova Resende,Minas Gerais
+3369,Nova Roma,Goiás
+3370,Nova Roma do Sul,Rio Grande do Sul
+3371,Nova Rosalândia,Tocantins
+3372,Nova Russas,Ceará
+3373,Nova Santa Bárbara,Panamá
+3374,Nova Santa Helena,Mato Grosso
+3375,Nova Santa Rita,Rio Grande do Sul
+3376,Nova Santa Rita,Piauí
+3377,Nova Santa Rosa,Panamá
+3378,Nova Serrana,Minas Gerais
+3379,Nova Soure,Bahia
+3380,Nova Tebas,Panamá
+3381,Nova Timboteua,Pará
+3382,Nova Trento,Santa Catarina
+3383,Nova Ubiratã,Mato Grosso
+3384,Nova União,Minas Gerais
+3385,Nova União,Rondônia
+3386,Nova Venécia,Espírito Santo
+3387,Nova Veneza,Santa Catarina
+3388,Nova Veneza,Goiás
+3389,Nova Viçosa,Bahia
+3390,Nova Xavantina,Mato Grosso
+3391,Novais,São Paulo
+3392,Novo Acordo,Tocantins
+3393,Novo Airão,Amazonas
+3394,Novo Alegre,Tocantins
+3395,Novo Aripuanã,Amazonas
+3396,Novo Barreiro,Rio Grande do Sul
+3397,Novo Brasil,Goiás
+3398,Novo Cabrais,Rio Grande do Sul
+3399,Novo Cruzeiro,Minas Gerais
+3400,Novo Gama,Goiás
+3401,Novo Hamburgo,Rio Grande do Sul
+3402,Novo Horizonte,Santa Catarina
+3403,Novo Horizonte,São Paulo
+3404,Novo Horizonte,Bahia
+3405,Novo Horizonte do Norte,Mato Grosso
+3406,Novo Horizonte do Oeste,Rondônia
+3407,Novo Horizonte do Sul,Mato Grosso do Sul
+3408,Novo Itacolomi,Panamá
+3409,Novo Jardim,Tocantins
+3410,Novo Lino,Alagoas
+3411,Novo Machado,Rio Grande do Sul
+3412,Novo Mundo,Mato Grosso
+3413,Novo Oriente,Ceará
+3414,Novo Oriente de Minas,Minas Gerais
+3415,Novo Oriente do Piauí,Piauí
+3416,Novo Planalto,Goiás
+3417,Novo Progresso,Pará
+3418,Novo Repartimento,Pará
+3419,Novo Santo Antônio,Piauí
+3420,Novo Santo Antônio,Mato Grosso
+3421,Novo São Joaquim,Mato Grosso
+3422,Novo Tiradentes,Rio Grande do Sul
+3423,Novo Triunfo,Bahia
+3424,Novo Xingu,Rio Grande do Sul
+3425,Novorizonte,Minas Gerais
+3426,Nuporanga,São Paulo
+3427,Óbidos,Pará
+3428,Ocara,Ceará
+3429,Ocauçu,São Paulo
+3430,Oeiras,Piauí
+3431,Oeiras do Pará,Pará
+3432,Oiapoque,Amapá
+3433,Olaria,Minas Gerais
+3434,Óleo,São Paulo
+3435,Olho d'Água,Paraíba
+3436,Olho d'Água das Cunhãs,Maranhão
+3437,Olho d'Água das Flores,Alagoas
+3438,Olho d'Água do Casado,Alagoas
+3439,Olho D'Água do Piauí,Piauí
+3440,Olho d'Água Grande,Alagoas
+3441,Olho-d'Água do Borges,Rio Grande do Norte
+3442,Olhos d'Água,Minas Gerais
+3443,Olímpia,São Paulo
+3444,Olímpio Noronha,Minas Gerais
+3445,Olinda,Pernambuco
+3446,Olinda Nova do Maranhão,Maranhão
+3447,Olindina,Bahia
+3448,Olivedos,Paraíba
+3449,Oliveira,Minas Gerais
+3450,Oliveira de Fátima,Tocantins
+3451,Oliveira dos Brejinhos,Bahia
+3452,Oliveira Fortes,Minas Gerais
+3453,Olivença,Alagoas
+3454,Onça de Pitangui,Minas Gerais
+3455,Onda Verde,São Paulo
+3456,Oratórios,Minas Gerais
+3457,Oriente,São Paulo
+3458,Orindiúva,São Paulo
+3459,Oriximiná,Pará
+3460,Orizânia,Minas Gerais
+3461,Orizona,Goiás
+3462,Orlândia,São Paulo
+3463,Orleans,Santa Catarina
+3464,Orobó,Pernambuco
+3465,Orocó,Pernambuco
+3466,Orós,Ceará
+3467,Ortigueira,Panamá
+3468,Osasco,São Paulo
+3469,Oscar Bressane,São Paulo
+3470,Osório,Rio Grande do Sul
+3471,Osvaldo Cruz,São Paulo
+3472,Otacílio Costa,Santa Catarina
+3473,Ourém,Pará
+3474,Ouriçangas,Bahia
+3475,Ouricuri,Pernambuco
+3476,Ourilândia do Norte,Pará
+3477,Ourinhos,São Paulo
+3478,Ourizona,Panamá
+3479,Ouro,Santa Catarina
+3480,Ouro Branco,Minas Gerais
+3481,Ouro Branco,Rio Grande do Norte
+3482,Ouro Branco,Alagoas
+3483,Ouro Fino,Minas Gerais
+3484,Ouro Preto,Minas Gerais
+3485,Ouro Preto do Oeste,Rondônia
+3486,Ouro Velho,Paraíba
+3487,Ouro Verde,Santa Catarina
+3488,Ouro Verde,São Paulo
+3489,Ouro Verde de Goiás,Goiás
+3490,Ouro Verde de Minas,Minas Gerais
+3491,Ouro Verde do Oeste,Panamá
+3492,Ouroeste,São Paulo
+3493,Ourolândia,Bahia
+3494,Ouvidor,Goiás
+3495,Pacaembu,São Paulo
+3496,Pacajá,Pará
+3497,Pacajus,Ceará
+3498,Pacaraima,Roraima
+3499,Pacatuba,Ceará
+3500,Pacatuba,Sergipe
+3501,Paço do Lumiar,Maranhão
+3502,Pacoti,Ceará
+3503,Pacujá,Ceará
+3504,Padre Bernardo,Goiás
+3505,Padre Carvalho,Minas Gerais
+3506,Padre Marcos,Piauí
+3507,Padre Paraíso,Minas Gerais
+3508,Paes Landim,Piauí
+3509,Pai Pedro,Minas Gerais
+3510,Paial,Santa Catarina
+3511,Paiçandu,Panamá
+3512,Paim Filho,Rio Grande do Sul
+3513,Paineiras,Minas Gerais
+3514,Painel,Santa Catarina
+3515,Pains,Minas Gerais
+3516,Paiva,Minas Gerais
+3517,Pajeú do Piauí,Piauí
+3518,Palestina,Alagoas
+3519,Palestina,São Paulo
+3520,Palestina de Goiás,Goiás
+3521,Palestina do Pará,Pará
+3522,Palhano,Ceará
+3523,Palhoça,Santa Catarina
+3524,Palma,Minas Gerais
+3525,Palma Sola,Santa Catarina
+3526,Palmácia,Ceará
+3527,Palmares,Pernambuco
+3528,Palmares do Sul,Rio Grande do Sul
+3529,Palmares Paulista,São Paulo
+3530,Palmas,Panamá
+3531,Palmas,Tocantins
+3532,Palmas de Monte Alto,Bahia
+3533,Palmeira,Panamá
+3534,Palmeira,Santa Catarina
+3535,Palmeira d'Oeste,São Paulo
+3536,Palmeira das Missões,Rio Grande do Sul
+3537,Palmeira do Piauí,Piauí
+3538,Palmeira dos Índios,Alagoas
+3539,Palmeirais,Piauí
+3540,Palmeirândia,Maranhão
+3541,Palmeirante,Tocantins
+3542,Palmeiras,Bahia
+3543,Palmeiras de Goiás,Goiás
+3544,Palmeiras do Tocantins,Tocantins
+3545,Palmeirina,Pernambuco
+3546,Palmeirópolis,Tocantins
+3547,Palmelo,Goiás
+3548,Palminópolis,Goiás
+3549,Palmital,São Paulo
+3550,Palmital,Panamá
+3551,Palmitinho,Rio Grande do Sul
+3552,Palmitos,Santa Catarina
+3553,Palmópolis,Minas Gerais
+3554,Palotina,Panamá
+3555,Panamá,Goiás
+3556,Panambi,Rio Grande do Sul
+3557,Pancas,Espírito Santo
+3558,Panelas,Pernambuco
+3559,Panorama,São Paulo
+3560,Pantano Grande,Rio Grande do Sul
+3561,Pão de Açúcar,Alagoas
+3562,Papagaios,Minas Gerais
+3563,Papanduva,Santa Catarina
+3564,Paquetá,Piauí
+3565,Pará de Minas,Minas Gerais
+3566,Paracambi,Rio de Janeiro
+3567,Paracatu,Minas Gerais
+3568,Paracuru,Ceará
+3569,Paragominas,Pará
+3570,Paraguaçu,Minas Gerais
+3571,Paraguaçu Paulista,São Paulo
+3572,Paraí,Rio Grande do Sul
+3573,Paraíba do Sul,Rio de Janeiro
+3574,Paraibano,Maranhão
+3575,Paraibuna,São Paulo
+3576,Paraipaba,Ceará
+3577,Paraíso,São Paulo
+3578,Paraíso,Santa Catarina
+3579,Paraíso das Águas,Mato Grosso do Sul
+3580,Paraíso do Norte,Panamá
+3581,Paraíso do Sul,Rio Grande do Sul
+3582,Paraíso do Tocantins,Tocantins
+3583,Paraisópolis,Minas Gerais
+3584,Parambu,Ceará
+3585,Paramirim,Bahia
+3586,Paramoti,Ceará
+3587,Paranã,Tocantins
+3588,Paraná,Rio Grande do Norte
+3589,Paranacity,Panamá
+3590,Paranaguá,Panamá
+3591,Paranaíba,Mato Grosso do Sul
+3592,Paranaiguara,Goiás
+3593,Paranaíta,Mato Grosso
+3594,Paranapanema,São Paulo
+3595,Paranapoema,Panamá
+3596,Paranapuã,São Paulo
+3597,Paranatama,Pernambuco
+3598,Paranatinga,Mato Grosso
+3599,Paranavaí,Panamá
+3600,Paranhos,Mato Grosso do Sul
+3601,Paraopeba,Minas Gerais
+3602,Parapuã,São Paulo
+3603,Parari,Paraíba
+3604,Paratinga,Bahia
+3605,Paraty,Rio de Janeiro
+3606,Paraú,Rio Grande do Norte
+3607,Parauapebas,Pará
+3608,Paraúna,Goiás
+3609,Parazinho,Rio Grande do Norte
+3610,Pardinho,São Paulo
+3611,Pareci Novo,Rio Grande do Sul
+3612,Parecis,Rondônia
+3613,Parelhas,Rio Grande do Norte
+3614,Pariconha,Alagoas
+3615,Parintins,Amazonas
+3616,Paripiranga,Bahia
+3617,Paripueira,Alagoas
+3618,Pariquera-Açu,São Paulo
+3619,Parisi,São Paulo
+3620,Parnaguá,Piauí
+3621,Parnaíba,Piauí
+3622,Parnamirim,Rio Grande do Norte
+3623,Parnamirim,Pernambuco
+3624,Parnarama,Maranhão
+3625,Parobé,Rio Grande do Sul
+3626,Passa e Fica,Rio Grande do Norte
+3627,Passa Quatro,Minas Gerais
+3628,Passa Sete,Rio Grande do Sul
+3629,Passa Tempo,Minas Gerais
+3630,Passa-Vinte,Minas Gerais
+3631,Passabém,Minas Gerais
+3632,Passagem,Rio Grande do Norte
+3633,Passagem,Paraíba
+3634,Passagem Franca,Maranhão
+3635,Passagem Franca do Piauí,Piauí
+3636,Passira,Pernambuco
+3637,Passo de Camaragibe,Alagoas
+3638,Passo de Torres,Santa Catarina
+3639,Passo do Sobrado,Rio Grande do Sul
+3640,Passo Fundo,Rio Grande do Sul
+3641,Passos,Minas Gerais
+3642,Passos Maia,Santa Catarina
+3643,Pastos Bons,Maranhão
+3644,Patis,Minas Gerais
+3645,Pato Bragado,Panamá
+3646,Pato Branco,Panamá
+3647,Patos,Paraíba
+3648,Patos de Minas,Minas Gerais
+3649,Patos do Piauí,Piauí
+3650,Patrocínio,Minas Gerais
+3651,Patrocínio do Muriaé,Minas Gerais
+3652,Patrocínio Paulista,São Paulo
+3653,Patu,Rio Grande do Norte
+3654,Paty do Alferes,Rio de Janeiro
+3655,Pau Brasil,Bahia
+3656,Pau d'Arco,Pará
+3657,Pau D'Arco,Tocantins
+3658,Pau D'Arco do Piauí,Piauí
+3659,Pau dos Ferros,Rio Grande do Norte
+3660,Paudalho,Pernambuco
+3661,Pauini,Amazonas
+3662,Paula Cândido,Minas Gerais
+3663,Paula Freitas,Panamá
+3664,Paulicéia,São Paulo
+3665,Paulínia,São Paulo
+3666,Paulino Neves,Maranhão
+3667,Paulista,Paraíba
+3668,Paulista,Pernambuco
+3669,Paulistana,Piauí
+3670,Paulistânia,São Paulo
+3671,Paulistas,Minas Gerais
+3672,Paulo Afonso,Bahia
+3673,Paulo Bento,Rio Grande do Sul
+3674,Paulo de Faria,São Paulo
+3675,Paulo Frontin,Panamá
+3676,Paulo Jacinto,Alagoas
+3677,Paulo Lopes,Santa Catarina
+3678,Paulo Ramos,Maranhão
+3679,Pavão,Minas Gerais
+3680,Paverama,Rio Grande do Sul
+3681,Pavussu,Piauí
+3682,Pé de Serra,Bahia
+3683,Peabiru,Panamá
+3684,Peçanha,Minas Gerais
+3685,Pederneiras,São Paulo
+3686,Pedra,Pernambuco
+3687,Pedra Azul,Minas Gerais
+3688,Pedra Bela,São Paulo
+3689,Pedra Bonita,Minas Gerais
+3690,Pedra Branca,Paraíba
+3691,Pedra Branca,Ceará
+3692,Pedra Branca do Amapari,Amapá
+3693,Pedra do Anta,Minas Gerais
+3694,Pedra do Indaiá,Minas Gerais
+3695,Pedra Dourada,Minas Gerais
+3696,Pedra Grande,Rio Grande do Norte
+3697,Pedra Lavrada,Paraíba
+3698,Pedra Mole,Sergipe
+3699,Pedra Preta,Rio Grande do Norte
+3700,Pedra Preta,Mato Grosso
+3701,Pedralva,Minas Gerais
+3702,Pedranópolis,São Paulo
+3703,Pedrão,Bahia
+3704,Pedras Altas,Rio Grande do Sul
+3705,Pedras de Fogo,Paraíba
+3706,Pedras de Maria da Cruz,Minas Gerais
+3707,Pedras Grandes,Santa Catarina
+3708,Pedregulho,São Paulo
+3709,Pedreira,São Paulo
+3710,Pedreiras,Maranhão
+3711,Pedrinhas,Sergipe
+3712,Pedrinhas Paulista,São Paulo
+3713,Pedrinópolis,Minas Gerais
+3714,Pedro Afonso,Tocantins
+3715,Pedro Alexandre,Bahia
+3716,Pedro Avelino,Rio Grande do Norte
+3717,Pedro Canário,Espírito Santo
+3718,Pedro de Toledo,São Paulo
+3719,Pedro do Rosário,Maranhão
+3720,Pedro Gomes,Mato Grosso do Sul
+3721,Pedro II,Piauí
+3722,Pedro Laurentino,Piauí
+3723,Pedro Leopoldo,Minas Gerais
+3724,Pedro Osório,Rio Grande do Sul
+3725,Pedro Régis,Paraíba
+3726,Pedro Teixeira,Minas Gerais
+3727,Pedro Velho,Rio Grande do Norte
+3728,Peixe,Tocantins
+3729,Peixe-Boi,Pará
+3730,Peixoto de Azevedo,Mato Grosso
+3731,Pejuçara,Rio Grande do Sul
+3732,Pelotas,Rio Grande do Sul
+3733,Penaforte,Ceará
+3734,Penalva,Maranhão
+3735,Penápolis,São Paulo
+3736,Pendências,Rio Grande do Norte
+3737,Penedo,Alagoas
+3738,Penha,Santa Catarina
+3739,Pentecoste,Ceará
+3740,Pequeri,Minas Gerais
+3741,Pequi,Minas Gerais
+3742,Pequizeiro,Tocantins
+3743,Perdigão,Minas Gerais
+3744,Perdizes,Minas Gerais
+3745,Perdões,Minas Gerais
+3746,Pereira Barreto,São Paulo
+3747,Pereiras,São Paulo
+3748,Pereiro,Ceará
+3749,Peri Mirim,Maranhão
+3750,Periquito,Minas Gerais
+3751,Peritiba,Santa Catarina
+3752,Peritoró,Maranhão
+3753,Perobal,Panamá
+3754,Pérola,Panamá
+3755,Pérola d'Oeste,Panamá
+3756,Perolândia,Goiás
+3757,Peruíbe,São Paulo
+3758,Pescador,Minas Gerais
+3759,Pescaria Brava,Santa Catarina
+3760,Pesqueira,Pernambuco
+3761,Petrolândia,Pernambuco
+3762,Petrolândia,Santa Catarina
+3763,Petrolina,Pernambuco
+3764,Petrolina de Goiás,Goiás
+3765,Petrópolis,Rio de Janeiro
+3766,Piaçabuçu,Alagoas
+3767,Piacatu,São Paulo
+3768,Piancó,Paraíba
+3769,Piatã,Bahia
+3770,Piau,Minas Gerais
+3771,Picada Café,Rio Grande do Sul
+3772,Piçarra,Pará
+3773,Picos,Piauí
+3774,Picuí,Paraíba
+3775,Piedade,São Paulo
+3776,Piedade de Caratinga,Minas Gerais
+3777,Piedade de Ponte Nova,Minas Gerais
+3778,Piedade do Rio Grande,Minas Gerais
+3779,Piedade dos Gerais,Minas Gerais
+3780,Piên,Panamá
+3781,Pilão Arcado,Bahia
+3782,Pilar,Paraíba
+3783,Pilar,Alagoas
+3784,Pilar de Goiás,Goiás
+3785,Pilar do Sul,São Paulo
+3786,Pilões,Rio Grande do Norte
+3787,Pilões,Paraíba
+3788,Pilõezinhos,Paraíba
+3789,Pimenta,Minas Gerais
+3790,Pimenta Bueno,Rondônia
+3791,Pimenteiras,Piauí
+3792,Pimenteiras do Oeste,Rondônia
+3793,Pindaí,Bahia
+3794,Pindamonhangaba,São Paulo
+3795,Pindaré-Mirim,Maranhão
+3796,Pindoba,Alagoas
+3797,Pindobaçu,Bahia
+3798,Pindorama,São Paulo
+3799,Pindorama do Tocantins,Tocantins
+3800,Pindoretama,Ceará
+3801,Pingo-d'Água,Minas Gerais
+3802,Pinhais,Panamá
+3803,Pinhal,Rio Grande do Sul
+3804,Pinhal da Serra,Rio Grande do Sul
+3805,Pinhal de São Bento,Panamá
+3806,Pinhal Grande,Rio Grande do Sul
+3807,Pinhalão,Panamá
+3808,Pinhalzinho,São Paulo
+3809,Pinhalzinho,Santa Catarina
+3810,Pinhão,Sergipe
+3811,Pinhão,Panamá
+3812,Pinheiral,Rio de Janeiro
+3813,Pinheirinho do Vale,Rio Grande do Sul
+3814,Pinheiro,Maranhão
+3815,Pinheiro Machado,Rio Grande do Sul
+3816,Pinheiro Preto,Santa Catarina
+3817,Pinheiros,Espírito Santo
+3818,Pintadas,Bahia
+3819,Pinto Bandeira,Rio Grande do Sul
+3820,Pintópolis,Minas Gerais
+3821,Pio IX,Piauí
+3822,Pio XII,Maranhão
+3823,Piquerobi,São Paulo
+3824,Piquet Carneiro,Ceará
+3825,Piquete,São Paulo
+3826,Piracaia,São Paulo
+3827,Piracanjuba,Goiás
+3828,Piracema,Minas Gerais
+3829,Piracicaba,São Paulo
+3830,Piracuruca,Piauí
+3831,Piraí,Rio de Janeiro
+3832,Piraí do Norte,Bahia
+3833,Piraí do Sul,Panamá
+3834,Piraju,São Paulo
+3835,Pirajuba,Minas Gerais
+3836,Pirajuí,São Paulo
+3837,Pirambu,Sergipe
+3838,Piranga,Minas Gerais
+3839,Pirangi,São Paulo
+3840,Piranguçu,Minas Gerais
+3841,Piranguinho,Minas Gerais
+3842,Piranhas,Alagoas
+3843,Piranhas,Goiás
+3844,Pirapemas,Maranhão
+3845,Pirapetinga,Minas Gerais
+3846,Pirapó,Rio Grande do Sul
+3847,Pirapora,Minas Gerais
+3848,Pirapora do Bom Jesus,São Paulo
+3849,Pirapozinho,São Paulo
+3850,Piraquara,Panamá
+3851,Piraquê,Tocantins
+3852,Pirassununga,São Paulo
+3853,Piratini,Rio Grande do Sul
+3854,Piratininga,São Paulo
+3855,Piratuba,Santa Catarina
+3856,Piraúba,Minas Gerais
+3857,Pirenópolis,Goiás
+3858,Pires do Rio,Goiás
+3859,Pires Ferreira,Ceará
+3860,Piripá,Bahia
+3861,Piripiri,Piauí
+3862,Piritiba,Bahia
+3863,Pirpirituba,Paraíba
+3864,Pitanga,Panamá
+3865,Pitangueiras,São Paulo
+3866,Pitangueiras,Panamá
+3867,Pitangui,Minas Gerais
+3868,Pitimbu,Paraíba
+3869,Pium,Tocantins
+3870,Piúma,Espírito Santo
+3871,Piumhi,Minas Gerais
+3872,Placas,Pará
+3873,Plácido de Castro,Acre
+3874,Planaltina,Goiás
+3875,Planaltina do Paraná,Panamá
+3876,Planaltino,Bahia
+3877,Planalto,Bahia
+3878,Planalto,Rio Grande do Sul
+3879,Planalto,São Paulo
+3880,Planalto,Panamá
+3881,Planalto Alegre,Santa Catarina
+3882,Planalto da Serra,Mato Grosso
+3883,Planura,Minas Gerais
+3884,Platina,São Paulo
+3885,Poá,São Paulo
+3886,Poção,Pernambuco
+3887,Poção de Pedras,Maranhão
+3888,Pocinhos,Paraíba
+3889,Poço Branco,Rio Grande do Norte
+3890,Poço Dantas,Paraíba
+3891,Poço das Antas,Rio Grande do Sul
+3892,Poço das Trincheiras,Alagoas
+3893,Poço de José de Moura,Paraíba
+3894,Poço Fundo,Minas Gerais
+3895,Poço Redondo,Sergipe
+3896,Poço Verde,Sergipe
+3897,Poções,Bahia
+3898,Poconé,Mato Grosso
+3899,Poços de Caldas,Minas Gerais
+3900,Pocrane,Minas Gerais
+3901,Pojuca,Bahia
+3902,Poloni,São Paulo
+3903,Pombal,Paraíba
+3904,Pombos,Pernambuco
+3905,Pomerode,Santa Catarina
+3906,Pompéia,São Paulo
+3907,Pompéu,Minas Gerais
+3908,Pongaí,São Paulo
+3909,Ponta de Pedras,Pará
+3910,Ponta Grossa,Panamá
+3911,Ponta Porã,Mato Grosso do Sul
+3912,Pontal,São Paulo
+3913,Pontal do Araguaia,Mato Grosso
+3914,Pontal do Paraná,Panamá
+3915,Pontalina,Goiás
+3916,Pontalinda,São Paulo
+3917,Pontão,Rio Grande do Sul
+3918,Ponte Alta,Santa Catarina
+3919,Ponte Alta do Bom Jesus,Tocantins
+3920,Ponte Alta do Norte,Santa Catarina
+3921,Ponte Alta do Tocantins,Tocantins
+3922,Ponte Branca,Mato Grosso
+3923,Ponte Nova,Minas Gerais
+3924,Ponte Preta,Rio Grande do Sul
+3925,Ponte Serrada,Santa Catarina
+3926,Pontes e Lacerda,Mato Grosso
+3927,Pontes Gestal,São Paulo
+3928,Ponto Belo,Espírito Santo
+3929,Ponto Chique,Minas Gerais
+3930,Ponto dos Volantes,Minas Gerais
+3931,Ponto Novo,Bahia
+3932,Populina,São Paulo
+3933,Poranga,Ceará
+3934,Porangaba,São Paulo
+3935,Porangatu,Goiás
+3936,Porciúncula,Rio de Janeiro
+3937,Porecatu,Panamá
+3938,Portalegre,Rio Grande do Norte
+3939,Portão,Rio Grande do Sul
+3940,Porteirão,Goiás
+3941,Porteiras,Ceará
+3942,Porteirinha,Minas Gerais
+3943,Portel,Pará
+3944,Portelândia,Goiás
+3945,Porto,Piauí
+3946,Porto Acre,Acre
+3947,Porto Alegre,Rio Grande do Sul
+3948,Porto Alegre do Norte,Mato Grosso
+3949,Porto Alegre do Piauí,Piauí
+3950,Porto Alegre do Tocantins,Tocantins
+3951,Porto Amazonas,Panamá
+3952,Porto Barreiro,Panamá
+3953,Porto Belo,Santa Catarina
+3954,Porto Calvo,Alagoas
+3955,Porto da Folha,Sergipe
+3956,Porto de Moz,Pará
+3957,Porto de Pedras,Alagoas
+3958,Porto do Mangue,Rio Grande do Norte
+3959,Porto dos Gaúchos,Mato Grosso
+3960,Porto Esperidião,Mato Grosso
+3961,Porto Estrela,Mato Grosso
+3962,Porto Feliz,São Paulo
+3963,Porto Ferreira,São Paulo
+3964,Porto Firme,Minas Gerais
+3965,Porto Franco,Maranhão
+3966,Porto Grande,Amapá
+3967,Porto Lucena,Rio Grande do Sul
+3968,Porto Mauá,Rio Grande do Sul
+3969,Porto Murtinho,Mato Grosso do Sul
+3970,Porto Nacional,Tocantins
+3971,Porto Real,Rio de Janeiro
+3972,Porto Real do Colégio,Alagoas
+3973,Porto Rico,Panamá
+3974,Porto Rico do Maranhão,Maranhão
+3975,Porto Seguro,Bahia
+3976,Porto União,Santa Catarina
+3977,Porto Velho,Rondônia
+3978,Porto Vera Cruz,Rio Grande do Sul
+3979,Porto Vitória,Panamá
+3980,Porto Walter,Acre
+3981,Porto Xavier,Rio Grande do Sul
+3982,Posse,Goiás
+3983,Poté,Minas Gerais
+3984,Potengi,Ceará
+3985,Potim,São Paulo
+3986,Potiraguá,Bahia
+3987,Potirendaba,São Paulo
+3988,Potiretama,Ceará
+3989,Pouso Alegre,Minas Gerais
+3990,Pouso Alto,Minas Gerais
+3991,Pouso Novo,Rio Grande do Sul
+3992,Pouso Redondo,Santa Catarina
+3993,Poxoréu,Mato Grosso
+3994,Pracinha,São Paulo
+3995,Pracuúba,Amapá
+3996,Prado,Bahia
+3997,Prado Ferreira,Panamá
+3998,Pradópolis,São Paulo
+3999,Prados,Minas Gerais
+4000,Praia Grande,São Paulo
+4001,Praia Grande,Santa Catarina
+4002,Praia Norte,Tocantins
+4003,Prainha,Pará
+4004,Pranchita,Panamá
+4005,Prata,Minas Gerais
+4006,Prata,Paraíba
+4007,Prata do Piauí,Piauí
+4008,Pratânia,São Paulo
+4009,Pratápolis,Minas Gerais
+4010,Pratinha,Minas Gerais
+4011,Presidente Alves,São Paulo
+4012,Presidente Bernardes,São Paulo
+4013,Presidente Bernardes,Minas Gerais
+4014,Presidente Castello Branco,Santa Catarina
+4015,Presidente Castelo Branco,Panamá
+4016,Presidente Dutra,Bahia
+4017,Presidente Dutra,Maranhão
+4018,Presidente Epitácio,São Paulo
+4019,Presidente Figueiredo,Amazonas
+4020,Presidente Getúlio,Santa Catarina
+4021,Presidente Jânio Quadros,Bahia
+4022,Presidente Juscelino,Minas Gerais
+4023,Presidente Juscelino,Maranhão
+4024,Presidente Kennedy,Tocantins
+4025,Presidente Kennedy,Espírito Santo
+4026,Presidente Kubitschek,Minas Gerais
+4027,Presidente Lucena,Rio Grande do Sul
+4028,Presidente Médici,Rondônia
+4029,Presidente Médici,Maranhão
+4030,Presidente Nereu,Santa Catarina
+4031,Presidente Olegário,Minas Gerais
+4032,Presidente Prudente,São Paulo
+4033,Presidente Sarney,Maranhão
+4034,Presidente Tancredo Neves,Bahia
+4035,Presidente Vargas,Maranhão
+4036,Presidente Venceslau,São Paulo
+4037,Primavera,Pernambuco
+4038,Primavera,Pará
+4039,Primavera de Rondônia,Rondônia
+4040,Primavera do Leste,Mato Grosso
+4041,Primeira Cruz,Maranhão
+4042,Primeiro de Maio,Panamá
+4043,Princesa,Santa Catarina
+4044,Princesa Isabel,Paraíba
+4045,Professor Jamil,Goiás
+4046,Progresso,Rio Grande do Sul
+4047,Promissão,São Paulo
+4048,Propriá,Sergipe
+4049,Protásio Alves,Rio Grande do Sul
+4050,Prudente de Morais,Minas Gerais
+4051,Prudentópolis,Panamá
+4052,Pugmil,Tocantins
+4053,Pureza,Rio Grande do Norte
+4054,Putinga,Rio Grande do Sul
+4055,Puxinanã,Paraíba
+4056,Quadra,São Paulo
+4057,Quaraí,Rio Grande do Sul
+4058,Quartel Geral,Minas Gerais
+4059,Quarto Centenário,Panamá
+4060,Quatá,São Paulo
+4061,Quatiguá,Panamá
+4062,Quatipuru,Pará
+4063,Quatis,Rio de Janeiro
+4064,Quatro Barras,Panamá
+4065,Quatro Irmãos,Rio Grande do Sul
+4066,Quatro Pontes,Panamá
+4067,Quebrangulo,Alagoas
+4068,Quedas do Iguaçu,Panamá
+4069,Queimada Nova,Piauí
+4070,Queimadas,Paraíba
+4071,Queimadas,Bahia
+4072,Queimados,Rio de Janeiro
+4073,Queiroz,São Paulo
+4074,Queluz,São Paulo
+4075,Queluzito,Minas Gerais
+4076,Querência,Mato Grosso
+4077,Querência do Norte,Panamá
+4078,Quevedos,Rio Grande do Sul
+4079,Quijingue,Bahia
+4080,Quilombo,Santa Catarina
+4081,Quinta do Sol,Panamá
+4082,Quintana,São Paulo
+4083,Quinze de Novembro,Rio Grande do Sul
+4084,Quipapá,Pernambuco
+4085,Quirinópolis,Goiás
+4086,Quissamã,Rio de Janeiro
+4087,Quitandinha,Panamá
+4088,Quiterianópolis,Ceará
+4089,Quixabá,Paraíba
+4090,Quixaba,Pernambuco
+4091,Quixabeira,Bahia
+4092,Quixadá,Ceará
+4093,Quixelô,Ceará
+4094,Quixeramobim,Ceará
+4095,Quixeré,Ceará
+4096,Rafael Fernandes,Rio Grande do Norte
+4097,Rafael Godeiro,Rio Grande do Norte
+4098,Rafael Jambeiro,Bahia
+4099,Rafard,São Paulo
+4100,Ramilândia,Panamá
+4101,Rancharia,São Paulo
+4102,Rancho Alegre,Panamá
+4103,Rancho Alegre D'Oeste,Panamá
+4104,Rancho Queimado,Santa Catarina
+4105,Raposa,Maranhão
+4106,Raposos,Minas Gerais
+4107,Raul Soares,Minas Gerais
+4108,Realeza,Panamá
+4109,Rebouças,Panamá
+4110,Recife,Pernambuco
+4111,Recreio,Minas Gerais
+4112,Recursolândia,Tocantins
+4113,Redenção,Pará
+4114,Redenção,Ceará
+4115,Redenção da Serra,São Paulo
+4116,Redenção do Gurguéia,Piauí
+4117,Redentora,Rio Grande do Sul
+4118,Reduto,Minas Gerais
+4119,Regeneração,Piauí
+4120,Regente Feijó,São Paulo
+4121,Reginópolis,São Paulo
+4122,Registro,São Paulo
+4123,Relvado,Rio Grande do Sul
+4124,Remanso,Bahia
+4125,Remígio,Paraíba
+4126,Renascença,Panamá
+4127,Reriutaba,Ceará
+4128,Resende,Rio de Janeiro
+4129,Resende Costa,Minas Gerais
+4130,Reserva,Panamá
+4131,Reserva do Cabaçal,Mato Grosso
+4132,Reserva do Iguaçu,Panamá
+4133,Resplendor,Minas Gerais
+4134,Ressaquinha,Minas Gerais
+4135,Restinga,São Paulo
+4136,Restinga Sêca,Rio Grande do Sul
+4137,Retirolândia,Bahia
+4138,Riachão,Paraíba
+4139,Riachão,Maranhão
+4140,Riachão das Neves,Bahia
+4141,Riachão do Bacamarte,Paraíba
+4142,Riachão do Dantas,Sergipe
+4143,Riachão do Jacuípe,Bahia
+4144,Riachão do Poço,Paraíba
+4145,Riachinho,Tocantins
+4146,Riachinho,Minas Gerais
+4147,Riacho da Cruz,Rio Grande do Norte
+4148,Riacho das Almas,Pernambuco
+4149,Riacho de Santana,Rio Grande do Norte
+4150,Riacho de Santana,Bahia
+4151,Riacho de Santo Antônio,Paraíba
+4152,Riacho dos Cavalos,Paraíba
+4153,Riacho dos Machados,Minas Gerais
+4154,Riacho Frio,Piauí
+4155,Riachuelo,Rio Grande do Norte
+4156,Riachuelo,Sergipe
+4157,Rialma,Goiás
+4158,Rianápolis,Goiás
+4159,Ribamar Fiquene,Maranhão
+4160,Ribas do Rio Pardo,Mato Grosso do Sul
+4161,Ribeira,São Paulo
+4162,Ribeira do Amparo,Bahia
+4163,Ribeira do Piauí,Piauí
+4164,Ribeira do Pombal,Bahia
+4165,Ribeirão,Pernambuco
+4166,Ribeirão Bonito,São Paulo
+4167,Ribeirão Branco,São Paulo
+4168,Ribeirão Cascalheira,Mato Grosso
+4169,Ribeirão Claro,Panamá
+4170,Ribeirão Corrente,São Paulo
+4171,Ribeirão das Neves,Minas Gerais
+4172,Ribeirão do Largo,Bahia
+4173,Ribeirão do Pinhal,Panamá
+4174,Ribeirão do Sul,São Paulo
+4175,Ribeirão dos Índios,São Paulo
+4176,Ribeirão Grande,São Paulo
+4177,Ribeirão Pires,São Paulo
+4178,Ribeirão Preto,São Paulo
+4179,Ribeirão Vermelho,Minas Gerais
+4180,Ribeirãozinho,Mato Grosso
+4181,Ribeiro Gonçalves,Piauí
+4182,Ribeirópolis,Sergipe
+4183,Rifaina,São Paulo
+4184,Rincão,São Paulo
+4185,Rinópolis,São Paulo
+4186,Rio Acima,Minas Gerais
+4187,Rio Azul,Panamá
+4188,Rio Bananal,Espírito Santo
+4189,Rio Bom,Panamá
+4190,Rio Bonito,Rio de Janeiro
+4191,Rio Bonito do Iguaçu,Panamá
+4192,Rio Branco,Mato Grosso
+4193,Rio Branco,Acre
+4194,Rio Branco do Ivaí,Panamá
+4195,Rio Branco do Sul,Panamá
+4196,Rio Brilhante,Mato Grosso do Sul
+4197,Rio Casca,Minas Gerais
+4198,Rio Claro,Rio de Janeiro
+4199,Rio Claro,São Paulo
+4200,Rio Crespo,Rondônia
+4201,Rio da Conceição,Tocantins
+4202,Rio das Antas,Santa Catarina
+4203,Rio das Flores,Rio de Janeiro
+4204,Rio das Ostras,Rio de Janeiro
+4205,Rio das Pedras,São Paulo
+4206,Rio de Contas,Bahia
+4207,Rio de Janeiro,Rio de Janeiro
+4208,Rio do Antônio,Bahia
+4209,Rio do Campo,Santa Catarina
+4210,Rio do Fogo,Rio Grande do Norte
+4211,Rio do Oeste,Santa Catarina
+4212,Rio do Pires,Bahia
+4213,Rio do Prado,Minas Gerais
+4214,Rio do Sul,Santa Catarina
+4215,Rio Doce,Minas Gerais
+4216,Rio dos Bois,Tocantins
+4217,Rio dos Cedros,Santa Catarina
+4218,Rio dos Índios,Rio Grande do Sul
+4219,Rio Espera,Minas Gerais
+4220,Rio Formoso,Pernambuco
+4221,Rio Fortuna,Santa Catarina
+4222,Rio Grande,Rio Grande do Sul
+4223,Rio Grande da Serra,São Paulo
+4224,Rio Grande do Piauí,Piauí
+4225,Rio Largo,Alagoas
+4226,Rio Manso,Minas Gerais
+4227,Rio Maria,Pará
+4228,Rio Negrinho,Santa Catarina
+4229,Rio Negro,Mato Grosso do Sul
+4230,Rio Negro,Panamá
+4231,Rio Novo,Minas Gerais
+4232,Rio Novo do Sul,Espírito Santo
+4233,Rio Paranaíba,Minas Gerais
+4234,Rio Pardo,Rio Grande do Sul
+4235,Rio Pardo de Minas,Minas Gerais
+4236,Rio Piracicaba,Minas Gerais
+4237,Rio Pomba,Minas Gerais
+4238,Rio Preto,Minas Gerais
+4239,Rio Preto da Eva,Amazonas
+4240,Rio Quente,Goiás
+4241,Rio Real,Bahia
+4242,Rio Rufino,Santa Catarina
+4243,Rio Sono,Tocantins
+4244,Rio Tinto,Paraíba
+4245,Rio Verde,Goiás
+4246,Rio Verde de Mato Grosso,Mato Grosso do Sul
+4247,Rio Vermelho,Minas Gerais
+4248,Riolândia,São Paulo
+4249,Riozinho,Rio Grande do Sul
+4250,Riqueza,Santa Catarina
+4251,Ritápolis,Minas Gerais
+4252,Riversul,São Paulo
+4253,Roca Sales,Rio Grande do Sul
+4254,Rochedo,Mato Grosso do Sul
+4255,Rochedo de Minas,Minas Gerais
+4256,Rodeio,Santa Catarina
+4257,Rodeio Bonito,Rio Grande do Sul
+4258,Rodeiro,Minas Gerais
+4259,Rodelas,Bahia
+4260,Rodolfo Fernandes,Rio Grande do Norte
+4261,Rodrigues Alves,Acre
+4262,Rolador,Rio Grande do Sul
+4263,Rolândia,Panamá
+4264,Rolante,Rio Grande do Sul
+4265,Rolim de Moura,Rondônia
+4266,Romaria,Minas Gerais
+4267,Romelândia,Santa Catarina
+4268,Roncador,Panamá
+4269,Ronda Alta,Rio Grande do Sul
+4270,Rondinha,Rio Grande do Sul
+4271,Rondolândia,Mato Grosso
+4272,Rondon,Panamá
+4273,Rondon do Pará,Pará
+4274,Rondonópolis,Mato Grosso
+4275,Roque Gonzales,Rio Grande do Sul
+4276,Rorainópolis,Roraima
+4277,Rosana,São Paulo
+4278,Rosário,Maranhão
+4279,Rosário da Limeira,Minas Gerais
+4280,Rosário do Catete,Sergipe
+4281,Rosário do Ivaí,Panamá
+4282,Rosário do Sul,Rio Grande do Sul
+4283,Rosário Oeste,Mato Grosso
+4284,Roseira,São Paulo
+4285,Roteiro,Alagoas
+4286,Rubelita,Minas Gerais
+4287,Rubiácea,São Paulo
+4288,Rubiataba,Goiás
+4289,Rubim,Minas Gerais
+4290,Rubinéia,São Paulo
+4291,Rurópolis,Pará
+4292,Russas,Ceará
+4293,Ruy Barbosa,Rio Grande do Norte
+4294,Ruy Barbosa,Bahia
+4295,Sabará,Minas Gerais
+4296,Sabáudia,Panamá
+4297,Sabino,São Paulo
+4298,Sabinópolis,Minas Gerais
+4299,Saboeiro,Ceará
+4300,Sacramento,Minas Gerais
+4301,Sagrada Família,Rio Grande do Sul
+4302,Sagres,São Paulo
+4303,Sairé,Pernambuco
+4304,Saldanha Marinho,Rio Grande do Sul
+4305,Sales,São Paulo
+4306,Sales Oliveira,São Paulo
+4307,Salesópolis,São Paulo
+4308,Salete,Santa Catarina
+4309,Salgadinho,Paraíba
+4310,Salgadinho,Pernambuco
+4311,Salgado,Sergipe
+4312,Salgado de São Félix,Paraíba
+4313,Salgado Filho,Panamá
+4314,Salgueiro,Pernambuco
+4315,Salinas,Minas Gerais
+4316,Salinas da Margarida,Bahia
+4317,Salinópolis,Pará
+4318,Salitre,Ceará
+4319,Salmourão,São Paulo
+4320,Saloá,Pernambuco
+4321,Saltinho,Santa Catarina
+4322,Saltinho,São Paulo
+4323,Salto,São Paulo
+4324,Salto da Divisa,Minas Gerais
+4325,Salto de Pirapora,São Paulo
+4326,Salto do Céu,Mato Grosso
+4327,Salto do Itararé,Panamá
+4328,Salto do Jacuí,Rio Grande do Sul
+4329,Salto do Lontra,Panamá
+4330,Salto Grande,São Paulo
+4331,Salto Veloso,Santa Catarina
+4332,Salvador,Bahia
+4333,Salvador das Missões,Rio Grande do Sul
+4334,Salvador do Sul,Rio Grande do Sul
+4335,Salvaterra,Pará
+4336,Sambaíba,Maranhão
+4337,Sampaio,Tocantins
+4338,Sananduva,Rio Grande do Sul
+4339,Sanclerlândia,Goiás
+4340,Sandolândia,Tocantins
+4341,Sandovalina,São Paulo
+4342,Sangão,Santa Catarina
+4343,Sanharó,Pernambuco
+4344,Sant'Ana do Livramento,Rio Grande do Sul
+4345,Santa Adélia,São Paulo
+4346,Santa Albertina,São Paulo
+4347,Santa Amélia,Panamá
+4348,Santa Bárbara,Bahia
+4349,Santa Bárbara,Minas Gerais
+4350,Santa Bárbara d'Oeste,São Paulo
+4351,Santa Bárbara de Goiás,Goiás
+4352,Santa Bárbara do Leste,Minas Gerais
+4353,Santa Bárbara do Monte Verde,Minas Gerais
+4354,Santa Bárbara do Pará,Pará
+4355,Santa Bárbara do Sul,Rio Grande do Sul
+4356,Santa Bárbara do Tugúrio,Minas Gerais
+4357,Santa Branca,São Paulo
+4358,Santa Brígida,Bahia
+4359,Santa Carmem,Mato Grosso
+4360,Santa Cecília,Santa Catarina
+4361,Santa Cecília,Paraíba
+4362,Santa Cecília do Pavão,Panamá
+4363,Santa Cecília do Sul,Rio Grande do Sul
+4364,Santa Clara d'Oeste,São Paulo
+4365,Santa Clara do Sul,Rio Grande do Sul
+4366,Santa Cruz,Rio Grande do Norte
+4367,Santa Cruz,Paraíba
+4368,Santa Cruz,Pernambuco
+4369,Santa Cruz Cabrália,Bahia
+4370,Santa Cruz da Baixa Verde,Pernambuco
+4371,Santa Cruz da Conceição,São Paulo
+4372,Santa Cruz da Esperança,São Paulo
+4373,Santa Cruz da Vitória,Bahia
+4374,Santa Cruz das Palmeiras,São Paulo
+4375,Santa Cruz de Goiás,Goiás
+4376,Santa Cruz de Minas,Minas Gerais
+4377,Santa Cruz de Monte Castelo,Panamá
+4378,Santa Cruz de Salinas,Minas Gerais
+4379,Santa Cruz do Arari,Pará
+4380,Santa Cruz do Capibaribe,Pernambuco
+4381,Santa Cruz do Escalvado,Minas Gerais
+4382,Santa Cruz do Piauí,Piauí
+4383,Santa Cruz do Rio Pardo,São Paulo
+4384,Santa Cruz do Sul,Rio Grande do Sul
+4385,Santa Cruz do Xingu,Mato Grosso
+4386,Santa Cruz dos Milagres,Piauí
+4387,Santa Efigênia de Minas,Minas Gerais
+4388,Santa Ernestina,São Paulo
+4389,Santa Fé,Panamá
+4390,Santa Fé de Goiás,Goiás
+4391,Santa Fé de Minas,Minas Gerais
+4392,Santa Fé do Araguaia,Tocantins
+4393,Santa Fé do Sul,São Paulo
+4394,Santa Filomena,Piauí
+4395,Santa Filomena,Pernambuco
+4396,Santa Filomena do Maranhão,Maranhão
+4397,Santa Gertrudes,São Paulo
+4398,Santa Helena,Panamá
+4399,Santa Helena,Santa Catarina
+4400,Santa Helena,Maranhão
+4401,Santa Helena,Paraíba
+4402,Santa Helena de Goiás,Goiás
+4403,Santa Helena de Minas,Minas Gerais
+4404,Santa Inês,Bahia
+4405,Santa Inês,Panamá
+4406,Santa Inês,Paraíba
+4407,Santa Inês,Maranhão
+4408,Santa Isabel,São Paulo
+4409,Santa Isabel,Goiás
+4410,Santa Isabel do Ivaí,Panamá
+4411,Santa Isabel do Rio Negro,Amazonas
+4412,Santa Izabel do Oeste,Panamá
+4413,Santa Izabel do Pará,Pará
+4414,Santa Juliana,Minas Gerais
+4415,Santa Leopoldina,Espírito Santo
+4416,Santa Lúcia,São Paulo
+4417,Santa Lúcia,Panamá
+4418,Santa Luz,Piauí
+4419,Santa Luzia,Maranhão
+4420,Santa Luzia,Bahia
+4421,Santa Luzia,Minas Gerais
+4422,Santa Luzia,Paraíba
+4423,Santa Luzia D'Oeste,Rondônia
+4424,Santa Luzia do Itanhy,Sergipe
+4425,Santa Luzia do Norte,Alagoas
+4426,Santa Luzia do Pará,Pará
+4427,Santa Luzia do Paruá,Maranhão
+4428,Santa Margarida,Minas Gerais
+4429,Santa Margarida do Sul,Rio Grande do Sul
+4430,Santa Maria,Rio Grande do Sul
+4431,Santa Maria,Rio Grande do Norte
+4432,Santa Maria da Boa Vista,Pernambuco
+4433,Santa Maria da Serra,São Paulo
+4434,Santa Maria da Vitória,Bahia
+4435,Santa Maria das Barreiras,Pará
+4436,Santa Maria de Itabira,Minas Gerais
+4437,Santa Maria de Jetibá,Espírito Santo
+4438,Santa Maria do Cambucá,Pernambuco
+4439,Santa Maria do Herval,Rio Grande do Sul
+4440,Santa Maria do Oeste,Panamá
+4441,Santa Maria do Pará,Pará
+4442,Santa Maria do Salto,Minas Gerais
+4443,Santa Maria do Suaçuí,Minas Gerais
+4444,Santa Maria do Tocantins,Tocantins
+4445,Santa Maria Madalena,Rio de Janeiro
+4446,Santa Mariana,Panamá
+4447,Santa Mercedes,São Paulo
+4448,Santa Mônica,Panamá
+4449,Santa Quitéria,Ceará
+4450,Santa Quitéria do Maranhão,Maranhão
+4451,Santa Rita,Maranhão
+4452,Santa Rita,Paraíba
+4453,Santa Rita d'Oeste,São Paulo
+4454,Santa Rita de Caldas,Minas Gerais
+4455,Santa Rita de Cássia,Bahia
+4456,Santa Rita de Ibitipoca,Minas Gerais
+4457,Santa Rita de Jacutinga,Minas Gerais
+4458,Santa Rita de Minas,Minas Gerais
+4459,Santa Rita do Araguaia,Goiás
+4460,Santa Rita do Itueto,Minas Gerais
+4461,Santa Rita do Novo Destino,Goiás
+4462,Santa Rita do Pardo,Mato Grosso do Sul
+4463,Santa Rita do Passa Quatro,São Paulo
+4464,Santa Rita do Sapucaí,Minas Gerais
+4465,Santa Rita do Tocantins,Tocantins
+4466,Santa Rita do Trivelato,Mato Grosso
+4467,Santa Rosa,Rio Grande do Sul
+4468,Santa Rosa da Serra,Minas Gerais
+4469,Santa Rosa de Goiás,Goiás
+4470,Santa Rosa de Lima,Santa Catarina
+4471,Santa Rosa de Lima,Sergipe
+4472,Santa Rosa de Viterbo,São Paulo
+4473,Santa Rosa do Piauí,Piauí
+4474,Santa Rosa do Purus,Acre
+4475,Santa Rosa do Sul,Santa Catarina
+4476,Santa Rosa do Tocantins,Tocantins
+4477,Santa Salete,São Paulo
+4478,Santa Teresa,Espírito Santo
+4479,Santa Teresinha,Bahia
+4480,Santa Teresinha,Paraíba
+4481,Santa Tereza,Rio Grande do Sul
+4482,Santa Tereza de Goiás,Goiás
+4483,Santa Tereza do Oeste,Panamá
+4484,Santa Tereza do Tocantins,Tocantins
+4485,Santa Terezinha,Santa Catarina
+4486,Santa Terezinha,Mato Grosso
+4487,Santa Terezinha,Pernambuco
+4488,Santa Terezinha de Goiás,Goiás
+4489,Santa Terezinha de Itaipu,Panamá
+4490,Santa Terezinha do Progresso,Santa Catarina
+4491,Santa Terezinha do Tocantins,Tocantins
+4492,Santa Vitória,Minas Gerais
+4493,Santa Vitória do Palmar,Rio Grande do Sul
+4494,Santaluz,Bahia
+4495,Santana,Bahia
+4496,Santana,Amapá
+4497,Santana da Boa Vista,Rio Grande do Sul
+4498,Santana da Ponte Pensa,São Paulo
+4499,Santana da Vargem,Minas Gerais
+4500,Santana de Cataguases,Minas Gerais
+4501,Santana de Mangueira,Paraíba
+4502,Santana de Parnaíba,São Paulo
+4503,Santana de Pirapama,Minas Gerais
+4504,Santana do Acaraú,Ceará
+4505,Santana do Araguaia,Pará
+4506,Santana do Cariri,Ceará
+4507,Santana do Deserto,Minas Gerais
+4508,Santana do Garambéu,Minas Gerais
+4509,Santana do Ipanema,Alagoas
+4510,Santana do Itararé,Panamá
+4511,Santana do Jacaré,Minas Gerais
+4512,Santana do Manhuaçu,Minas Gerais
+4513,Santana do Maranhão,Maranhão
+4514,Santana do Matos,Rio Grande do Norte
+4515,Santana do Mundaú,Alagoas
+4516,Santana do Paraíso,Minas Gerais
+4517,Santana do Piauí,Piauí
+4518,Santana do Riacho,Minas Gerais
+4519,Santana do São Francisco,Sergipe
+4520,Santana do Seridó,Rio Grande do Norte
+4521,Santana dos Garrotes,Paraíba
+4522,Santana dos Montes,Minas Gerais
+4523,Santanópolis,Bahia
+4524,Santarém,Pará
+4525,Santarém Novo,Pará
+4526,Santiago,Rio Grande do Sul
+4527,Santiago do Sul,Santa Catarina
+4528,Santo Afonso,Mato Grosso
+4529,Santo Amaro,Bahia
+4530,Santo Amaro da Imperatriz,Santa Catarina
+4531,Santo Amaro das Brotas,Sergipe
+4532,Santo Amaro do Maranhão,Maranhão
+4533,Santo Anastácio,São Paulo
+4534,Santo André,São Paulo
+4535,Santo André,Paraíba
+4536,Santo Ângelo,Rio Grande do Sul
+4537,Santo Antônio,Rio Grande do Norte
+4538,Santo Antônio da Alegria,São Paulo
+4539,Santo Antônio da Barra,Goiás
+4540,Santo Antônio da Patrulha,Rio Grande do Sul
+4541,Santo Antônio da Platina,Panamá
+4542,Santo Antônio das Missões,Rio Grande do Sul
+4543,Santo Antônio de Goiás,Goiás
+4544,Santo Antônio de Jesus,Bahia
+4545,Santo Antônio de Lisboa,Piauí
+4546,Santo Antônio de Pádua,Rio de Janeiro
+4547,Santo Antônio de Posse,São Paulo
+4548,Santo Antônio do Amparo,Minas Gerais
+4549,Santo Antônio do Aracanguá,São Paulo
+4550,Santo Antônio do Aventureiro,Minas Gerais
+4551,Santo Antônio do Caiuá,Panamá
+4552,Santo Antônio do Descoberto,Goiás
+4553,Santo Antônio do Grama,Minas Gerais
+4554,Santo Antônio do Içá,Amazonas
+4555,Santo Antônio do Itambé,Minas Gerais
+4556,Santo Antônio do Jacinto,Minas Gerais
+4557,Santo Antônio do Jardim,São Paulo
+4558,Santo Antônio do Leste,Mato Grosso
+4559,Santo Antônio do Leverger,Mato Grosso
+4560,Santo Antônio do Monte,Minas Gerais
+4561,Santo Antônio do Palma,Rio Grande do Sul
+4562,Santo Antônio do Paraíso,Panamá
+4563,Santo Antônio do Pinhal,São Paulo
+4564,Santo Antônio do Planalto,Rio Grande do Sul
+4565,Santo Antônio do Retiro,Minas Gerais
+4566,Santo Antônio do Rio Abaixo,Minas Gerais
+4567,Santo Antônio do Sudoeste,Panamá
+4568,Santo Antônio do Tauá,Pará
+4569,Santo Antônio dos Lopes,Maranhão
+4570,Santo Antônio dos Milagres,Piauí
+4571,Santo Augusto,Rio Grande do Sul
+4572,Santo Cristo,Rio Grande do Sul
+4573,Santo Estêvão,Bahia
+4574,Santo Expedito,São Paulo
+4575,Santo Expedito do Sul,Rio Grande do Sul
+4576,Santo Hipólito,Minas Gerais
+4577,Santo Inácio,Panamá
+4578,Santo Inácio do Piauí,Piauí
+4579,Santópolis do Aguapeí,São Paulo
+4580,Santos,São Paulo
+4581,Santos Dumont,Minas Gerais
+4582,São Benedito,Ceará
+4583,São Benedito do Rio Preto,Maranhão
+4584,São Benedito do Sul,Pernambuco
+4585,São Bentinho,Paraíba
+4586,São Bento,Paraíba
+4587,São Bento,Maranhão
+4588,São Bento Abade,Minas Gerais
+4589,São Bento do Norte,Rio Grande do Norte
+4590,São Bento do Sapucaí,São Paulo
+4591,São Bento do Sul,Santa Catarina
+4592,São Bento do Tocantins,Tocantins
+4593,São Bento do Trairí,Rio Grande do Norte
+4594,São Bento do Una,Pernambuco
+4595,São Bernardino,Santa Catarina
+4596,São Bernardo,Maranhão
+4597,São Bernardo do Campo,São Paulo
+4598,São Bonifácio,Santa Catarina
+4599,São Borja,Rio Grande do Sul
+4600,São Brás,Alagoas
+4601,São Brás do Suaçuí,Minas Gerais
+4602,São Braz do Piauí,Piauí
+4603,São Caetano,Pernambuco
+4604,São Caetano de Odivelas,Pará
+4605,São Caetano do Sul,São Paulo
+4606,São Carlos,São Paulo
+4607,São Carlos,Santa Catarina
+4608,São Carlos do Ivaí,Panamá
+4609,São Cristóvão,Sergipe
+4610,São Cristovão do Sul,Santa Catarina
+4611,São Desidério,Bahia
+4612,São Domingos,Bahia
+4613,São Domingos,Santa Catarina
+4614,São Domingos,Paraíba
+4615,São Domingos,Sergipe
+4616,São Domingos,Goiás
+4617,São Domingos das Dores,Minas Gerais
+4618,São Domingos do Araguaia,Pará
+4619,São Domingos do Azeitão,Maranhão
+4620,São Domingos do Capim,Pará
+4621,São Domingos do Cariri,Paraíba
+4622,São Domingos do Maranhão,Maranhão
+4623,São Domingos do Norte,Espírito Santo
+4624,São Domingos do Prata,Minas Gerais
+4625,São Domingos do Sul,Rio Grande do Sul
+4626,São Felipe,Bahia
+4627,São Felipe D'Oeste,Rondônia
+4628,São Félix,Bahia
+4629,São Félix de Balsas,Maranhão
+4630,São Félix de Minas,Minas Gerais
+4631,São Félix do Araguaia,Mato Grosso
+4632,São Félix do Coribe,Bahia
+4633,São Félix do Piauí,Piauí
+4634,São Félix do Tocantins,Tocantins
+4635,São Félix do Xingu,Pará
+4636,São Fernando,Rio Grande do Norte
+4637,São Fidélis,Rio de Janeiro
+4638,São Francisco,São Paulo
+4639,São Francisco,Paraíba
+4640,São Francisco,Sergipe
+4641,São Francisco,Minas Gerais
+4642,São Francisco de Assis,Rio Grande do Sul
+4643,São Francisco de Assis do Piauí,Piauí
+4644,São Francisco de Goiás,Goiás
+4645,São Francisco de Itabapoana,Rio de Janeiro
+4646,São Francisco de Paula,Rio Grande do Sul
+4647,São Francisco de Paula,Minas Gerais
+4648,São Francisco de Sales,Minas Gerais
+4649,São Francisco do Brejão,Maranhão
+4650,São Francisco do Conde,Bahia
+4651,São Francisco do Glória,Minas Gerais
+4652,São Francisco do Guaporé,Rondônia
+4653,São Francisco do Maranhão,Maranhão
+4654,São Francisco do Oeste,Rio Grande do Norte
+4655,São Francisco do Pará,Pará
+4656,São Francisco do Piauí,Piauí
+4657,São Francisco do Sul,Santa Catarina
+4658,São Gabriel,Rio Grande do Sul
+4659,São Gabriel,Bahia
+4660,São Gabriel da Cachoeira,Amazonas
+4661,São Gabriel da Palha,Espírito Santo
+4662,São Gabriel do Oeste,Mato Grosso do Sul
+4663,São Geraldo,Minas Gerais
+4664,São Geraldo da Piedade,Minas Gerais
+4665,São Geraldo do Araguaia,Pará
+4666,São Geraldo do Baixio,Minas Gerais
+4667,São Gonçalo,Rio de Janeiro
+4668,São Gonçalo do Abaeté,Minas Gerais
+4669,São Gonçalo do Amarante,Rio Grande do Norte
+4670,São Gonçalo do Amarante,Ceará
+4671,São Gonçalo do Gurguéia,Piauí
+4672,São Gonçalo do Pará,Minas Gerais
+4673,São Gonçalo do Piauí,Piauí
+4674,São Gonçalo do Rio Abaixo,Minas Gerais
+4675,São Gonçalo do Rio Preto,Minas Gerais
+4676,São Gonçalo do Sapucaí,Minas Gerais
+4677,São Gonçalo dos Campos,Bahia
+4678,São Gotardo,Minas Gerais
+4679,São Jerônimo,Rio Grande do Sul
+4680,São Jerônimo da Serra,Panamá
+4681,São João,Panamá
+4682,São João,Pernambuco
+4683,São João Batista,Maranhão
+4684,São João Batista,Santa Catarina
+4685,São João Batista do Glória,Minas Gerais
+4686,São João d'Aliança,Goiás
+4687,São João da Baliza,Roraima
+4688,São João da Barra,Rio de Janeiro
+4689,São João da Boa Vista,São Paulo
+4690,São João da Canabrava,Piauí
+4691,São João da Fronteira,Piauí
+4692,São João da Lagoa,Minas Gerais
+4693,São João da Mata,Minas Gerais
+4694,São João da Paraúna,Goiás
+4695,São João da Ponta,Pará
+4696,São João da Ponte,Minas Gerais
+4697,São João da Serra,Piauí
+4698,São João da Urtiga,Rio Grande do Sul
+4699,São João da Varjota,Piauí
+4700,São João das Duas Pontes,São Paulo
+4701,São João das Missões,Minas Gerais
+4702,São João de Iracema,São Paulo
+4703,São João de Meriti,Rio de Janeiro
+4704,São João de Pirabas,Pará
+4705,São João del Rei,Minas Gerais
+4706,São João do Araguaia,Pará
+4707,São João do Arraial,Piauí
+4708,São João do Caiuá,Panamá
+4709,São João do Cariri,Paraíba
+4710,São João do Carú,Maranhão
+4711,São João do Itaperiú,Santa Catarina
+4712,São João do Ivaí,Panamá
+4713,São João do Jaguaribe,Ceará
+4714,São João do Manhuaçu,Minas Gerais
+4715,São João do Manteninha,Minas Gerais
+4716,São João do Oeste,Santa Catarina
+4717,São João do Oriente,Minas Gerais
+4718,São João do Pacuí,Minas Gerais
+4719,São João do Paraíso,Minas Gerais
+4720,São João do Paraíso,Maranhão
+4721,São João do Pau d'Alho,São Paulo
+4722,São João do Piauí,Piauí
+4723,São João do Polêsine,Rio Grande do Sul
+4724,São João do Rio do Peixe,Paraíba
+4725,São João do Sabugi,Rio Grande do Norte
+4726,São João do Soter,Maranhão
+4727,São João do Sul,Santa Catarina
+4728,São João do Tigre,Paraíba
+4729,São João do Triunfo,Panamá
+4730,São João dos Patos,Maranhão
+4731,São João Evangelista,Minas Gerais
+4732,São João Nepomuceno,Minas Gerais
+4733,São Joaquim,Santa Catarina
+4734,São Joaquim da Barra,São Paulo
+4735,São Joaquim de Bicas,Minas Gerais
+4736,São Joaquim do Monte,Pernambuco
+4737,São Jorge,Rio Grande do Sul
+4738,São Jorge d'Oeste,Panamá
+4739,São Jorge do Ivaí,Panamá
+4740,São Jorge do Patrocínio,Panamá
+4741,São José,Santa Catarina
+4742,São José da Barra,Minas Gerais
+4743,São José da Bela Vista,São Paulo
+4744,São José da Boa Vista,Panamá
+4745,São José da Coroa Grande,Pernambuco
+4746,São José da Lagoa Tapada,Paraíba
+4747,São José da Laje,Alagoas
+4748,São José da Lapa,Minas Gerais
+4749,São José da Safira,Minas Gerais
+4750,São José da Tapera,Alagoas
+4751,São José da Varginha,Minas Gerais
+4752,São José da Vitória,Bahia
+4753,São José das Missões,Rio Grande do Sul
+4754,São José das Palmeiras,Panamá
+4755,São José de Caiana,Paraíba
+4756,São José de Espinharas,Paraíba
+4757,São José de Mipibu,Rio Grande do Norte
+4758,São José de Piranhas,Paraíba
+4759,São José de Princesa,Paraíba
+4760,São José de Ribamar,Maranhão
+4761,São José de Ubá,Rio de Janeiro
+4762,São José do Alegre,Minas Gerais
+4763,São José do Barreiro,São Paulo
+4764,São José do Belmonte,Pernambuco
+4765,São José do Bonfim,Paraíba
+4766,São José do Brejo do Cruz,Paraíba
+4767,São José do Calçado,Espírito Santo
+4768,São José do Campestre,Rio Grande do Norte
+4769,São José do Cedro,Santa Catarina
+4770,São José do Cerrito,Santa Catarina
+4771,São José do Divino,Piauí
+4772,São José do Divino,Minas Gerais
+4773,São José do Egito,Pernambuco
+4774,São José do Goiabal,Minas Gerais
+4775,São José do Herval,Rio Grande do Sul
+4776,São José do Hortêncio,Rio Grande do Sul
+4777,São José do Inhacorá,Rio Grande do Sul
+4778,São José do Jacuípe,Bahia
+4779,São José do Jacuri,Minas Gerais
+4780,São José do Mantimento,Minas Gerais
+4781,São José do Norte,Rio Grande do Sul
+4782,São José do Ouro,Rio Grande do Sul
+4783,São José do Peixe,Piauí
+4784,São José do Piauí,Piauí
+4785,São José do Povo,Mato Grosso
+4786,São José do Rio Claro,Mato Grosso
+4787,São José do Rio Pardo,São Paulo
+4788,São José do Rio Preto,São Paulo
+4789,São José do Sabugi,Paraíba
+4790,São José do Seridó,Rio Grande do Norte
+4791,São José do Sul,Rio Grande do Sul
+4792,São José do Vale do Rio Preto,Rio de Janeiro
+4793,São José do Xingu,Mato Grosso
+4794,São José dos Ausentes,Rio Grande do Sul
+4795,São José dos Basílios,Maranhão
+4796,São José dos Campos,São Paulo
+4797,São José dos Cordeiros,Paraíba
+4798,São José dos Pinhais,Panamá
+4799,São José dos Quatro Marcos,Mato Grosso
+4800,São José dos Ramos,Paraíba
+4801,São Julião,Piauí
+4802,São Leopoldo,Rio Grande do Sul
+4803,São Lourenço,Minas Gerais
+4804,São Lourenço da Mata,Pernambuco
+4805,São Lourenço da Serra,São Paulo
+4806,São Lourenço do Oeste,Santa Catarina
+4807,São Lourenço do Piauí,Piauí
+4808,São Lourenço do Sul,Rio Grande do Sul
+4809,São Ludgero,Santa Catarina
+4810,São Luís,Maranhão
+4811,São Luís de Montes Belos,Goiás
+4812,São Luís do Curu,Ceará
+4813,São Luis do Piauí,Piauí
+4814,São Luís do Quitunde,Alagoas
+4815,São Luís Gonzaga do Maranhão,Maranhão
+4816,São Luiz,Roraima
+4817,São Luiz do Norte,Goiás
+4818,São Luiz do Paraitinga,São Paulo
+4819,São Luiz Gonzaga,Rio Grande do Sul
+4820,São Mamede,Paraíba
+4821,São Manoel do Paraná,Panamá
+4822,São Manuel,São Paulo
+4823,São Marcos,Rio Grande do Sul
+4824,São Martinho,Santa Catarina
+4825,São Martinho,Rio Grande do Sul
+4826,São Martinho da Serra,Rio Grande do Sul
+4827,São Mateus,Espírito Santo
+4828,São Mateus do Maranhão,Maranhão
+4829,São Mateus do Sul,Panamá
+4830,São Miguel,Rio Grande do Norte
+4831,São Miguel Arcanjo,São Paulo
+4832,São Miguel da Baixa Grande,Piauí
+4833,São Miguel da Boa Vista,Santa Catarina
+4834,São Miguel das Matas,Bahia
+4835,São Miguel das Missões,Rio Grande do Sul
+4836,São Miguel de Taipu,Paraíba
+4837,São Miguel do Aleixo,Sergipe
+4838,São Miguel do Anta,Minas Gerais
+4839,São Miguel do Araguaia,Goiás
+4840,São Miguel do Fidalgo,Piauí
+4841,São Miguel do Gostoso,Rio Grande do Norte
+4842,São Miguel do Guamá,Pará
+4843,São Miguel do Guaporé,Rondônia
+4844,São Miguel do Iguaçu,Panamá
+4845,São Miguel do Oeste,Santa Catarina
+4846,São Miguel do Passa Quatro,Goiás
+4847,São Miguel do Tapuio,Piauí
+4848,São Miguel do Tocantins,Tocantins
+4849,São Miguel dos Campos,Alagoas
+4850,São Miguel dos Milagres,Alagoas
+4851,São Nicolau,Rio Grande do Sul
+4852,São Patrício,Goiás
+4853,São Paulo,São Paulo
+4854,São Paulo das Missões,Rio Grande do Sul
+4855,São Paulo de Olivença,Amazonas
+4856,São Paulo do Potengi,Rio Grande do Norte
+4857,São Pedro,Rio Grande do Norte
+4858,São Pedro,São Paulo
+4859,São Pedro da Água Branca,Maranhão
+4860,São Pedro da Aldeia,Rio de Janeiro
+4861,São Pedro da Cipa,Mato Grosso
+4862,São Pedro da Serra,Rio Grande do Sul
+4863,São Pedro da União,Minas Gerais
+4864,São Pedro das Missões,Rio Grande do Sul
+4865,São Pedro de Alcântara,Santa Catarina
+4866,São Pedro do Butiá,Rio Grande do Sul
+4867,São Pedro do Iguaçu,Panamá
+4868,São Pedro do Ivaí,Panamá
+4869,São Pedro do Paraná,Panamá
+4870,São Pedro do Piauí,Piauí
+4871,São Pedro do Suaçuí,Minas Gerais
+4872,São Pedro do Sul,Rio Grande do Sul
+4873,São Pedro do Turvo,São Paulo
+4874,São Pedro dos Crentes,Maranhão
+4875,São Pedro dos Ferros,Minas Gerais
+4876,São Rafael,Rio Grande do Norte
+4877,São Raimundo das Mangabeiras,Maranhão
+4878,São Raimundo do Doca Bezerra,Maranhão
+4879,São Raimundo Nonato,Piauí
+4880,São Roberto,Maranhão
+4881,São Romão,Minas Gerais
+4882,São Roque,São Paulo
+4883,São Roque de Minas,Minas Gerais
+4884,São Roque do Canaã,Espírito Santo
+4885,São Salvador do Tocantins,Tocantins
+4886,São Sebastião,São Paulo
+4887,São Sebastião,Alagoas
+4888,São Sebastião da Amoreira,Panamá
+4889,São Sebastião da Bela Vista,Minas Gerais
+4890,São Sebastião da Boa Vista,Pará
+4891,São Sebastião da Grama,São Paulo
+4892,São Sebastião da Vargem Alegre,Minas Gerais
+4893,São Sebastião de Lagoa de Roça,Paraíba
+4894,São Sebastião do Alto,Rio de Janeiro
+4895,São Sebastião do Anta,Minas Gerais
+4896,São Sebastião do Caí,Rio Grande do Sul
+4897,São Sebastião do Maranhão,Minas Gerais
+4898,São Sebastião do Oeste,Minas Gerais
+4899,São Sebastião do Paraíso,Minas Gerais
+4900,São Sebastião do Passé,Bahia
+4901,São Sebastião do Rio Preto,Minas Gerais
+4902,São Sebastião do Rio Verde,Minas Gerais
+4903,São Sebastião do Tocantins,Tocantins
+4904,São Sebastião do Uatumã,Amazonas
+4905,São Sebastião do Umbuzeiro,Paraíba
+4906,São Sepé,Rio Grande do Sul
+4907,São Simão,São Paulo
+4908,São Simão,Goiás
+4909,São Thomé das Letras,Minas Gerais
+4910,São Tiago,Minas Gerais
+4911,São Tomás de Aquino,Minas Gerais
+4912,São Tomé,Panamá
+4913,São Tomé,Rio Grande do Norte
+4914,São Valentim,Rio Grande do Sul
+4915,São Valentim do Sul,Rio Grande do Sul
+4916,São Valério,Tocantins
+4917,São Valério do Sul,Rio Grande do Sul
+4918,São Vendelino,Rio Grande do Sul
+4919,São Vicente,São Paulo
+4920,São Vicente,Rio Grande do Norte
+4921,São Vicente de Minas,Minas Gerais
+4922,São Vicente do Seridó,Paraíba
+4923,São Vicente do Sul,Rio Grande do Sul
+4924,São Vicente Ferrer,Pernambuco
+4925,São Vicente Ferrer,Maranhão
+4926,Sapé,Paraíba
+4927,Sapeaçu,Bahia
+4928,Sapezal,Mato Grosso
+4929,Sapiranga,Rio Grande do Sul
+4930,Sapopema,Panamá
+4931,Sapucaí-Mirim,Minas Gerais
+4932,Sapucaia,Pará
+4933,Sapucaia,Rio de Janeiro
+4934,Sapucaia do Sul,Rio Grande do Sul
+4935,Saquarema,Rio de Janeiro
+4936,Sarandi,Panamá
+4937,Sarandi,Rio Grande do Sul
+4938,Sarapuí,São Paulo
+4939,Sardoá,Minas Gerais
+4940,Sarutaiá,São Paulo
+4941,Sarzedo,Minas Gerais
+4942,Sátiro Dias,Bahia
+4943,Satuba,Alagoas
+4944,Satubinha,Maranhão
+4945,Saubara,Bahia
+4946,Saudade do Iguaçu,Panamá
+4947,Saudades,Santa Catarina
+4948,Saúde,Bahia
+4949,Schroeder,Santa Catarina
+4950,Seabra,Bahia
+4951,Seara,Santa Catarina
+4952,Sebastianópolis do Sul,São Paulo
+4953,Sebastião Barros,Piauí
+4954,Sebastião Laranjeiras,Bahia
+4955,Sebastião Leal,Piauí
+4956,Seberi,Rio Grande do Sul
+4957,Sede Nova,Rio Grande do Sul
+4958,Segredo,Rio Grande do Sul
+4959,Selbach,Rio Grande do Sul
+4960,Selvíria,Mato Grosso do Sul
+4961,Sem-Peixe,Minas Gerais
+4962,Sena Madureira,Acre
+4963,Senador Alexandre Costa,Maranhão
+4964,Senador Amaral,Minas Gerais
+4965,Senador Canedo,Goiás
+4966,Senador Cortes,Minas Gerais
+4967,Senador Elói de Souza,Rio Grande do Norte
+4968,Senador Firmino,Minas Gerais
+4969,Senador Georgino Avelino,Rio Grande do Norte
+4970,Senador Guiomard,Acre
+4971,Senador José Bento,Minas Gerais
+4972,Senador José Porfírio,Pará
+4973,Senador La Rocque,Maranhão
+4974,Senador Modestino Gonçalves,Minas Gerais
+4975,Senador Pompeu,Ceará
+4976,Senador Rui Palmeira,Alagoas
+4977,Senador Sá,Ceará
+4978,Senador Salgado Filho,Rio Grande do Sul
+4979,Sengés,Panamá
+4980,Senhor do Bonfim,Bahia
+4981,Senhora de Oliveira,Minas Gerais
+4982,Senhora do Porto,Minas Gerais
+4983,Senhora dos Remédios,Minas Gerais
+4984,Sentinela do Sul,Rio Grande do Sul
+4985,Sento Sé,Bahia
+4986,Serafina Corrêa,Rio Grande do Sul
+4987,Sericita,Minas Gerais
+4988,Seringueiras,Rondônia
+4989,Sério,Rio Grande do Sul
+4990,Seritinga,Minas Gerais
+4991,Seropédica,Rio de Janeiro
+4992,Serra,Espírito Santo
+4993,Serra Alta,Santa Catarina
+4994,Serra Azul,São Paulo
+4995,Serra Azul de Minas,Minas Gerais
+4996,Serra Branca,Paraíba
+4997,Serra Caiada,Rio Grande do Norte
+4998,Serra da Raiz,Paraíba
+4999,Serra da Saudade,Minas Gerais
+5000,Serra de São Bento,Rio Grande do Norte
+5001,Serra do Mel,Rio Grande do Norte
+5002,Serra do Navio,Amapá
+5003,Serra do Ramalho,Bahia
+5004,Serra do Salitre,Minas Gerais
+5005,Serra dos Aimorés,Minas Gerais
+5006,Serra Dourada,Bahia
+5007,Serra Grande,Paraíba
+5008,Serra Negra,São Paulo
+5009,Serra Negra do Norte,Rio Grande do Norte
+5010,Serra Nova Dourada,Mato Grosso
+5011,Serra Preta,Bahia
+5012,Serra Redonda,Paraíba
+5013,Serra Talhada,Pernambuco
+5014,Serrana,São Paulo
+5015,Serrania,Minas Gerais
+5016,Serrano do Maranhão,Maranhão
+5017,Serranópolis,Goiás
+5018,Serranópolis de Minas,Minas Gerais
+5019,Serranópolis do Iguaçu,Panamá
+5020,Serranos,Minas Gerais
+5021,Serraria,Paraíba
+5022,Serrinha,Rio Grande do Norte
+5023,Serrinha,Bahia
+5024,Serrinha dos Pintos,Rio Grande do Norte
+5025,Serrita,Pernambuco
+5026,Serro,Minas Gerais
+5027,Serrolândia,Bahia
+5028,Sertaneja,Panamá
+5029,Sertânia,Pernambuco
+5030,Sertanópolis,Panamá
+5031,Sertão,Rio Grande do Sul
+5032,Sertão Santana,Rio Grande do Sul
+5033,Sertãozinho,São Paulo
+5034,Sertãozinho,Paraíba
+5035,Sete Barras,São Paulo
+5036,Sete de Setembro,Rio Grande do Sul
+5037,Sete Lagoas,Minas Gerais
+5038,Sete Quedas,Mato Grosso do Sul
+5039,Setubinha,Minas Gerais
+5040,Severiano de Almeida,Rio Grande do Sul
+5041,Severiano Melo,Rio Grande do Norte
+5042,Severínia,São Paulo
+5043,Siderópolis,Santa Catarina
+5044,Sidrolândia,Mato Grosso do Sul
+5045,Sigefredo Pacheco,Piauí
+5046,Silva Jardim,Rio de Janeiro
+5047,Silvânia,Goiás
+5048,Silvanópolis,Tocantins
+5049,Silveira Martins,Rio Grande do Sul
+5050,Silveirânia,Minas Gerais
+5051,Silveiras,São Paulo
+5052,Silves,Amazonas
+5053,Silvianópolis,Minas Gerais
+5054,Simão Dias,Sergipe
+5055,Simão Pereira,Minas Gerais
+5056,Simões,Piauí
+5057,Simões Filho,Bahia
+5058,Simolândia,Goiás
+5059,Simonésia,Minas Gerais
+5060,Simplício Mendes,Piauí
+5061,Sinimbu,Rio Grande do Sul
+5062,Sinop,Mato Grosso
+5063,Siqueira Campos,Panamá
+5064,Sirinhaém,Pernambuco
+5065,Siriri,Sergipe
+5066,Sítio d'Abadia,Goiás
+5067,Sítio do Mato,Bahia
+5068,Sítio do Quinto,Bahia
+5069,Sítio Novo,Maranhão
+5070,Sítio Novo,Rio Grande do Norte
+5071,Sítio Novo do Tocantins,Tocantins
+5072,Sobradinho,Bahia
+5073,Sobradinho,Rio Grande do Sul
+5074,Sobrado,Paraíba
+5075,Sobral,Ceará
+5076,Sobrália,Minas Gerais
+5077,Socorro,São Paulo
+5078,Socorro do Piauí,Piauí
+5079,Solânea,Paraíba
+5080,Soledade,Paraíba
+5081,Soledade,Rio Grande do Sul
+5082,Soledade de Minas,Minas Gerais
+5083,Solidão,Pernambuco
+5084,Solonópole,Ceará
+5085,Sombrio,Santa Catarina
+5086,Sonora,Mato Grosso do Sul
+5087,Sooretama,Espírito Santo
+5088,Sorocaba,São Paulo
+5089,Sorriso,Mato Grosso
+5090,Sossêgo,Paraíba
+5091,Soure,Pará
+5092,Sousa,Paraíba
+5093,Souto Soares,Bahia
+5094,Sucupira,Tocantins
+5095,Sucupira do Norte,Maranhão
+5096,Sucupira do Riachão,Maranhão
+5097,Sud Mennucci,São Paulo
+5098,Sul Brasil,Santa Catarina
+5099,Sulina,Panamá
+5100,Sumaré,São Paulo
+5101,Sumé,Paraíba
+5102,Sumidouro,Rio de Janeiro
+5103,Surubim,Pernambuco
+5104,Sussuapara,Piauí
+5105,Suzanápolis,São Paulo
+5106,Suzano,São Paulo
+5107,Tabaí,Rio Grande do Sul
+5108,Tabaporã,Mato Grosso
+5109,Tabapuã,São Paulo
+5110,Tabatinga,São Paulo
+5111,Tabatinga,Amazonas
+5112,Tabira,Pernambuco
+5113,Taboão da Serra,São Paulo
+5114,Tabocas do Brejo Velho,Bahia
+5115,Taboleiro Grande,Rio Grande do Norte
+5116,Tabuleiro,Minas Gerais
+5117,Tabuleiro do Norte,Ceará
+5118,Tacaimbó,Pernambuco
+5119,Tacaratu,Pernambuco
+5120,Taciba,São Paulo
+5121,Tacima,Paraíba
+5122,Tacuru,Mato Grosso do Sul
+5123,Taguaí,São Paulo
+5124,Taguatinga,Tocantins
+5125,Taiaçu,São Paulo
+5126,Tailândia,Pará
+5127,Taió,Santa Catarina
+5128,Taiobeiras,Minas Gerais
+5129,Taipas do Tocantins,Tocantins
+5130,Taipu,Rio Grande do Norte
+5131,Taiúva,São Paulo
+5132,Talismã,Tocantins
+5133,Tamandaré,Pernambuco
+5134,Tamarana,Panamá
+5135,Tambaú,São Paulo
+5136,Tamboara,Panamá
+5137,Tamboril,Ceará
+5138,Tamboril do Piauí,Piauí
+5139,Tanabi,São Paulo
+5140,Tangará,Rio Grande do Norte
+5141,Tangará,Santa Catarina
+5142,Tangará da Serra,Mato Grosso
+5143,Tanguá,Rio de Janeiro
+5144,Tanhaçu,Bahia
+5145,Tanque d'Arca,Alagoas
+5146,Tanque do Piauí,Piauí
+5147,Tanque Novo,Bahia
+5148,Tanquinho,Bahia
+5149,Taparuba,Minas Gerais
+5150,Tapauá,Amazonas
+5151,Tapejara,Panamá
+5152,Tapejara,Rio Grande do Sul
+5153,Tapera,Rio Grande do Sul
+5154,Taperoá,Bahia
+5155,Taperoá,Paraíba
+5156,Tapes,Rio Grande do Sul
+5157,Tapira,Panamá
+5158,Tapira,Minas Gerais
+5159,Tapiraí,Minas Gerais
+5160,Tapiraí,São Paulo
+5161,Tapiramutá,Bahia
+5162,Tapiratiba,São Paulo
+5163,Tapurah,Mato Grosso
+5164,Taquara,Rio Grande do Sul
+5165,Taquaraçu de Minas,Minas Gerais
+5166,Taquaral,São Paulo
+5167,Taquaral de Goiás,Goiás
+5168,Taquarana,Alagoas
+5169,Taquari,Rio Grande do Sul
+5170,Taquaritinga,São Paulo
+5171,Taquaritinga do Norte,Pernambuco
+5172,Taquarituba,São Paulo
+5173,Taquarivaí,São Paulo
+5174,Taquaruçu do Sul,Rio Grande do Sul
+5175,Taquarussu,Mato Grosso do Sul
+5176,Tarabai,São Paulo
+5177,Tarauacá,Acre
+5178,Tarrafas,Ceará
+5179,Tartarugalzinho,Amapá
+5180,Tarumã,São Paulo
+5181,Tarumirim,Minas Gerais
+5182,Tasso Fragoso,Maranhão
+5183,Tatuí,São Paulo
+5184,Tauá,Ceará
+5185,Taubaté,São Paulo
+5186,Tavares,Rio Grande do Sul
+5187,Tavares,Paraíba
+5188,Tefé,Amazonas
+5189,Teixeira,Paraíba
+5190,Teixeira de Freitas,Bahia
+5191,Teixeira Soares,Panamá
+5192,Teixeiras,Minas Gerais
+5193,Teixeirópolis,Rondônia
+5194,Tejuçuoca,Ceará
+5195,Tejupá,São Paulo
+5196,Telêmaco Borba,Panamá
+5197,Telha,Sergipe
+5198,Tenente Ananias,Rio Grande do Norte
+5199,Tenente Laurentino Cruz,Rio Grande do Norte
+5200,Tenente Portela,Rio Grande do Sul
+5201,Tenório,Paraíba
+5202,Teodoro Sampaio,Bahia
+5203,Teodoro Sampaio,São Paulo
+5204,Teofilândia,Bahia
+5205,Teófilo Otoni,Minas Gerais
+5206,Teolândia,Bahia
+5207,Teotônio Vilela,Alagoas
+5208,Terenos,Mato Grosso do Sul
+5209,Teresina,Piauí
+5210,Teresina de Goiás,Goiás
+5211,Teresópolis,Rio de Janeiro
+5212,Terezinha,Pernambuco
+5213,Terezópolis de Goiás,Goiás
+5214,Terra Alta,Pará
+5215,Terra Boa,Panamá
+5216,Terra de Areia,Rio Grande do Sul
+5217,Terra Nova,Bahia
+5218,Terra Nova,Pernambuco
+5219,Terra Nova do Norte,Mato Grosso
+5220,Terra Rica,Panamá
+5221,Terra Roxa,Panamá
+5222,Terra Roxa,São Paulo
+5223,Terra Santa,Pará
+5224,Tesouro,Mato Grosso
+5225,Teutônia,Rio Grande do Sul
+5226,Theobroma,Rondônia
+5227,Tianguá,Ceará
+5228,Tibagi,Panamá
+5229,Tibau,Rio Grande do Norte
+5230,Tibau do Sul,Rio Grande do Norte
+5231,Tietê,São Paulo
+5232,Tigrinhos,Santa Catarina
+5233,Tijucas,Santa Catarina
+5234,Tijucas do Sul,Panamá
+5235,Timbaúba,Pernambuco
+5236,Timbaúba dos Batistas,Rio Grande do Norte
+5237,Timbé do Sul,Santa Catarina
+5238,Timbiras,Maranhão
+5239,Timbó,Santa Catarina
+5240,Timbó Grande,Santa Catarina
+5241,Timburi,São Paulo
+5242,Timon,Maranhão
+5243,Timóteo,Minas Gerais
+5244,Tio Hugo,Rio Grande do Sul
+5245,Tiradentes,Minas Gerais
+5246,Tiradentes do Sul,Rio Grande do Sul
+5247,Tiros,Minas Gerais
+5248,Tobias Barreto,Sergipe
+5249,Tocantínia,Tocantins
+5250,Tocantinópolis,Tocantins
+5251,Tocantins,Minas Gerais
+5252,Tocos do Moji,Minas Gerais
+5253,Toledo,Minas Gerais
+5254,Toledo,Panamá
+5255,Tomar do Geru,Sergipe
+5256,Tomazina,Panamá
+5257,Tombos,Minas Gerais
+5258,Tomé-Açu,Pará
+5259,Tonantins,Amazonas
+5260,Toritama,Pernambuco
+5261,Torixoréu,Mato Grosso
+5262,Toropi,Rio Grande do Sul
+5263,Torre de Pedra,São Paulo
+5264,Torres,Rio Grande do Sul
+5265,Torrinha,São Paulo
+5266,Touros,Rio Grande do Norte
+5267,Trabiju,São Paulo
+5268,Tracuateua,Pará
+5269,Tracunhaém,Pernambuco
+5270,Traipu,Alagoas
+5271,Trairão,Pará
+5272,Trairi,Ceará
+5273,Trajano de Moraes,Rio de Janeiro
+5274,Tramandaí,Rio Grande do Sul
+5275,Travesseiro,Rio Grande do Sul
+5276,Tremedal,Bahia
+5277,Tremembé,São Paulo
+5278,Três Arroios,Rio Grande do Sul
+5279,Três Barras,Santa Catarina
+5280,Três Barras do Paraná,Panamá
+5281,Três Cachoeiras,Rio Grande do Sul
+5282,Três Corações,Minas Gerais
+5283,Três Coroas,Rio Grande do Sul
+5284,Três de Maio,Rio Grande do Sul
+5285,Três Forquilhas,Rio Grande do Sul
+5286,Três Fronteiras,São Paulo
+5287,Três Lagoas,Mato Grosso do Sul
+5288,Três Marias,Minas Gerais
+5289,Três Palmeiras,Rio Grande do Sul
+5290,Três Passos,Rio Grande do Sul
+5291,Três Pontas,Minas Gerais
+5292,Três Ranchos,Goiás
+5293,Três Rios,Rio de Janeiro
+5294,Treviso,Santa Catarina
+5295,Treze de Maio,Santa Catarina
+5296,Treze Tílias,Santa Catarina
+5297,Trindade,Goiás
+5298,Trindade,Pernambuco
+5299,Trindade do Sul,Rio Grande do Sul
+5300,Triunfo,Rio Grande do Sul
+5301,Triunfo,Paraíba
+5302,Triunfo,Pernambuco
+5303,Triunfo Potiguar,Rio Grande do Norte
+5304,Trizidela do Vale,Maranhão
+5305,Trombas,Goiás
+5306,Trombudo Central,Santa Catarina
+5307,Tubarão,Santa Catarina
+5308,Tucano,Bahia
+5309,Tucumã,Pará
+5310,Tucunduva,Rio Grande do Sul
+5311,Tucuruí,Pará
+5312,Tufilândia,Maranhão
+5313,Tuiuti,São Paulo
+5314,Tumiritinga,Minas Gerais
+5315,Tunápolis,Santa Catarina
+5316,Tunas,Rio Grande do Sul
+5317,Tunas do Paraná,Panamá
+5318,Tuneiras do Oeste,Panamá
+5319,Tuntum,Maranhão
+5320,Tupã,São Paulo
+5321,Tupaciguara,Minas Gerais
+5322,Tupanatinga,Pernambuco
+5323,Tupanci do Sul,Rio Grande do Sul
+5324,Tupanciretã,Rio Grande do Sul
+5325,Tupandi,Rio Grande do Sul
+5326,Tuparendi,Rio Grande do Sul
+5327,Tuparetama,Pernambuco
+5328,Tupãssi,Panamá
+5329,Tupi Paulista,São Paulo
+5330,Tupirama,Tocantins
+5331,Tupiratins,Tocantins
+5332,Turiaçu,Maranhão
+5333,Turilândia,Maranhão
+5334,Turiúba,São Paulo
+5335,Turmalina,São Paulo
+5336,Turmalina,Minas Gerais
+5337,Turuçu,Rio Grande do Sul
+5338,Tururu,Ceará
+5339,Turvânia,Goiás
+5340,Turvelândia,Goiás
+5341,Turvo,Panamá
+5342,Turvo,Santa Catarina
+5343,Turvolândia,Minas Gerais
+5344,Tutóia,Maranhão
+5345,Uarini,Amazonas
+5346,Uauá,Bahia
+5347,Ubá,Minas Gerais
+5348,Ubaí,Minas Gerais
+5349,Ubaíra,Bahia
+5350,Ubaitaba,Bahia
+5351,Ubajara,Ceará
+5352,Ubaporanga,Minas Gerais
+5353,Ubarana,São Paulo
+5354,Ubatã,Bahia
+5355,Ubatuba,São Paulo
+5356,Uberaba,Minas Gerais
+5357,Uberlândia,Minas Gerais
+5358,Ubirajara,São Paulo
+5359,Ubiratã,Panamá
+5360,Ubiretama,Rio Grande do Sul
+5361,Uchoa,São Paulo
+5362,Uibaí,Bahia
+5363,Uiramutã,Roraima
+5364,Uirapuru,Goiás
+5365,Uiraúna,Paraíba
+5366,Ulianópolis,Pará
+5367,Umari,Ceará
+5368,Umarizal,Rio Grande do Norte
+5369,Umbaúba,Sergipe
+5370,Umburanas,Bahia
+5371,Umburatiba,Minas Gerais
+5372,Umbuzeiro,Paraíba
+5373,Umirim,Ceará
+5374,Umuarama,Panamá
+5375,Una,Bahia
+5376,Unaí,Minas Gerais
+5377,União,Piauí
+5378,União da Serra,Rio Grande do Sul
+5379,União da Vitória,Panamá
+5380,União de Minas,Minas Gerais
+5381,União do Oeste,Santa Catarina
+5382,União do Sul,Mato Grosso
+5383,União dos Palmares,Alagoas
+5384,União Paulista,São Paulo
+5385,Uniflor,Panamá
+5386,Unistalda,Rio Grande do Sul
+5387,Upanema,Rio Grande do Norte
+5388,Uraí,Panamá
+5389,Urandi,Bahia
+5390,Urânia,São Paulo
+5391,Urbano Santos,Maranhão
+5392,Uru,São Paulo
+5393,Uruaçu,Goiás
+5394,Uruana,Goiás
+5395,Uruana de Minas,Minas Gerais
+5396,Uruará,Pará
+5397,Urubici,Santa Catarina
+5398,Uruburetama,Ceará
+5399,Urucânia,Minas Gerais
+5400,Urucará,Amazonas
+5401,Uruçuca,Bahia
+5402,Uruçuí,Piauí
+5403,Urucuia,Minas Gerais
+5404,Urucurituba,Amazonas
+5405,Uruguaiana,Rio Grande do Sul
+5406,Uruoca,Ceará
+5407,Urupá,Rondônia
+5408,Urupema,Santa Catarina
+5409,Urupês,São Paulo
+5410,Urussanga,Santa Catarina
+5411,Urutaí,Goiás
+5412,Utinga,Bahia
+5413,Vacaria,Rio Grande do Sul
+5414,Vale de São Domingos,Mato Grosso
+5415,Vale do Anari,Rondônia
+5416,Vale do Paraíso,Rondônia
+5417,Vale do Sol,Rio Grande do Sul
+5418,Vale Real,Rio Grande do Sul
+5419,Vale Verde,Rio Grande do Sul
+5420,Valença,Bahia
+5421,Valença,Rio de Janeiro
+5422,Valença do Piauí,Piauí
+5423,Valente,Bahia
+5424,Valentim Gentil,São Paulo
+5425,Valinhos,São Paulo
+5426,Valparaíso,São Paulo
+5427,Valparaíso de Goiás,Goiás
+5428,Vanini,Rio Grande do Sul
+5429,Vargeão,Santa Catarina
+5430,Vargem,Santa Catarina
+5431,Vargem,São Paulo
+5432,Vargem Alegre,Minas Gerais
+5433,Vargem Alta,Espírito Santo
+5434,Vargem Bonita,Minas Gerais
+5435,Vargem Bonita,Santa Catarina
+5436,Vargem Grande,Maranhão
+5437,Vargem Grande do Rio Pardo,Minas Gerais
+5438,Vargem Grande do Sul,São Paulo
+5439,Vargem Grande Paulista,São Paulo
+5440,Varginha,Minas Gerais
+5441,Varjão,Goiás
+5442,Varjão de Minas,Minas Gerais
+5443,Varjota,Ceará
+5444,Varre-Sai,Rio de Janeiro
+5445,Várzea,Rio Grande do Norte
+5446,Várzea,Paraíba
+5447,Várzea Alegre,Ceará
+5448,Várzea Branca,Piauí
+5449,Várzea da Palma,Minas Gerais
+5450,Várzea da Roça,Bahia
+5451,Várzea do Poço,Bahia
+5452,Várzea Grande,Piauí
+5453,Várzea Grande,Mato Grosso
+5454,Várzea Nova,Bahia
+5455,Várzea Paulista,São Paulo
+5456,Varzedo,Bahia
+5457,Varzelândia,Minas Gerais
+5458,Vassouras,Rio de Janeiro
+5459,Vazante,Minas Gerais
+5460,Venâncio Aires,Rio Grande do Sul
+5461,Venda Nova do Imigrante,Espírito Santo
+5462,Venha-Ver,Rio Grande do Norte
+5463,Ventania,Panamá
+5464,Venturosa,Pernambuco
+5465,Vera,Mato Grosso
+5466,Vera Cruz,Rio Grande do Norte
+5467,Vera Cruz,Bahia
+5468,Vera Cruz,Rio Grande do Sul
+5469,Vera Cruz,São Paulo
+5470,Vera Cruz do Oeste,Panamá
+5471,Vera Mendes,Piauí
+5472,Veranópolis,Rio Grande do Sul
+5473,Verdejante,Pernambuco
+5474,Verdelândia,Minas Gerais
+5475,Verê,Panamá
+5476,Vereda,Bahia
+5477,Veredinha,Minas Gerais
+5478,Veríssimo,Minas Gerais
+5479,Vermelho Novo,Minas Gerais
+5480,Vertente do Lério,Pernambuco
+5481,Vertentes,Pernambuco
+5482,Vespasiano,Minas Gerais
+5483,Vespasiano Corrêa,Rio Grande do Sul
+5484,Viadutos,Rio Grande do Sul
+5485,Viamão,Rio Grande do Sul
+5486,Viana,Espírito Santo
+5487,Viana,Maranhão
+5488,Vianópolis,Goiás
+5489,Vicência,Pernambuco
+5490,Vicente Dutra,Rio Grande do Sul
+5491,Vicentina,Mato Grosso do Sul
+5492,Vicentinópolis,Goiás
+5493,Viçosa,Rio Grande do Norte
+5494,Viçosa,Alagoas
+5495,Viçosa,Minas Gerais
+5496,Viçosa do Ceará,Ceará
+5497,Victor Graeff,Rio Grande do Sul
+5498,Vidal Ramos,Santa Catarina
+5499,Videira,Santa Catarina
+5500,Vieiras,Minas Gerais
+5501,Vieirópolis,Paraíba
+5502,Vigia,Pará
+5503,Vila Bela da Santíssima Trindade,Mato Grosso
+5504,Vila Boa,Goiás
+5505,Vila Flor,Rio Grande do Norte
+5506,Vila Flores,Rio Grande do Sul
+5507,Vila Lângaro,Rio Grande do Sul
+5508,Vila Maria,Rio Grande do Sul
+5509,Vila Nova do Piauí,Piauí
+5510,Vila Nova do Sul,Rio Grande do Sul
+5511,Vila Nova dos Martírios,Maranhão
+5512,Vila Pavão,Espírito Santo
+5513,Vila Propício,Goiás
+5514,Vila Rica,Mato Grosso
+5515,Vila Valério,Espírito Santo
+5516,Vila Velha,Espírito Santo
+5517,Vilhena,Rondônia
+5518,Vinhedo,São Paulo
+5519,Viradouro,São Paulo
+5520,Virgem da Lapa,Minas Gerais
+5521,Virgínia,Minas Gerais
+5522,Virginópolis,Minas Gerais
+5523,Virgolândia,Minas Gerais
+5524,Virmond,Panamá
+5525,Visconde do Rio Branco,Minas Gerais
+5526,Viseu,Pará
+5527,Vista Alegre,Rio Grande do Sul
+5528,Vista Alegre do Alto,São Paulo
+5529,Vista Alegre do Prata,Rio Grande do Sul
+5530,Vista Gaúcha,Rio Grande do Sul
+5531,Vista Serrana,Paraíba
+5532,Vitor Meireles,Santa Catarina
+5533,Vitória,Espírito Santo
+5534,Vitória Brasil,São Paulo
+5535,Vitória da Conquista,Bahia
+5536,Vitória das Missões,Rio Grande do Sul
+5537,Vitória de Santo Antão,Pernambuco
+5538,Vitória do Jari,Amapá
+5539,Vitória do Mearim,Maranhão
+5540,Vitória do Xingu,Pará
+5541,Vitorino,Panamá
+5542,Vitorino Freire,Maranhão
+5543,Volta Grande,Minas Gerais
+5544,Volta Redonda,Rio de Janeiro
+5545,Votorantim,São Paulo
+5546,Votuporanga,São Paulo
+5547,Wagner,Bahia
+5548,Wall Ferraz,Piauí
+5549,Wanderlândia,Tocantins
+5550,Wanderley,Bahia
+5551,Wenceslau Braz,Minas Gerais
+5552,Wenceslau Braz,Panamá
+5553,Wenceslau Guimarães,Bahia
+5554,Westfália,Rio Grande do Sul
+5555,Witmarsum,Santa Catarina
+5556,Xambioá,Tocantins
+5557,Xambrê,Panamá
+5558,Xangri-lá,Rio Grande do Sul
+5559,Xanxerê,Santa Catarina
+5560,Xapuri,Acre
+5561,Xavantina,Santa Catarina
+5562,Xaxim,Santa Catarina
+5563,Xexéu,Pernambuco
+5564,Xinguara,Pará
+5565,Xique-Xique,Bahia
+5566,Zabelê,Paraíba
+5567,Zacarias,São Paulo
+5568,Zé Doca,Maranhão
+5569,Zortéa,Santa Catarina
