@@ -5,8 +5,12 @@
   <img src="images/G2.png" title="hover text" alt="accessibility text">
 </p>
 
-| Média: 206.30 | Mediana: 141.00 | Moda: 52.00 |                                                                                                    
-| Variância: 39608.80 | Desvio padrão: 199.02 |                                                                                                      
+Média: 206.30 
+Mediana: 141.00
+Moda: 52.00                                                                                                    
+Variância: 39608.80 
+Desvio padrão: 199.02 |                                                                                                      
+
 | Mínimo: 1 | Q1: 68.5 | Q2: 141 | Q3: 223 | Máximo: 853 |                                                                                           
                                                                                                                                                      
 |Classe |  Frequência  |                                                                                                                             
