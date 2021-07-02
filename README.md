@@ -4,7 +4,7 @@
   <img src="images/G1.png" title="hover text" alt="accessibility text">
   <img src="images/G2.png" title="hover text" alt="accessibility text">
 </p>
-
+<p>
 Média: 206.30 
 Mediana: 141.00
 Moda: 52.00                                                                                                    
@@ -21,3 +21,4 @@ Desvio padrão: 199.02 |
 |489-610|  1 ( 3.704%) |                                                                                                                             
 |611-732|  1 ( 3.704%) |                                                                                                                             
 |733-855|  1 ( 3.704%) |              
+</p>
