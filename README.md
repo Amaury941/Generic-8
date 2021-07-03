@@ -20,5 +20,5 @@ Nesta atividade foram utilizadas as ferramentas da estatística descritiva para 
 
   <li>Metade dos estados brasileiros tem menos que a média de cidades por estado (206.8). e em torno de 74% dos estados brasileiros tem no máximo 244 cidades</li>
 
-  <li>Os estados com número de município discrepante são exponencialmente maiores (Minas Gerais, Bahia e etc) que os da média</li>
+  <li>Os estados com número de município discrepante são exponencialmente maiores (Minas Gerais, São Paulo e etc) que os da média</li>
 </ul>
