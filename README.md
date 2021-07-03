@@ -12,7 +12,7 @@ Feito na linguagem python utilizando das bibliotecas não-nativas “matplotlib�
   <li> pip install pandas     </li>
 </ul>
 ##Nesta atividade foram utilizadas as ferramentas da estatística descritiva para realizar a análise da distribuição das 5.568 cidades brasileiras entre os estados federais. Conclui-se que:
-<ul title = "Nesta atividade foram utilizadas as ferramentas da estatística descritiva para realizar a análise da distribuição das 5.568 cidades brasileiras entre os estados federais. Conclui-se que:" >
+<ul>
   <li>Nenhum estado possui nome de cidades iguais</li>
 
   <li>O estado com mais cidades é o de Minas Gerais, com 853 municípios e o menor é o Distrito federal com 1</li>
